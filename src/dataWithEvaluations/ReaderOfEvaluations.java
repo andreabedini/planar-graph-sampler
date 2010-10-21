@@ -11,52 +11,40 @@ import maps.*;
 public class ReaderOfEvaluations {
     public static String FILE_NETWORKS="../../src/dataWithEvaluations/values_networks";
     public static String FILE_PLANAR_GRAPHS="../../src/dataWithEvaluations/values_planar";
- 
+
     /** Creates a new instance of ReaderOfEvaluations */
     public ReaderOfEvaluations() {
     }
-    
-    public static void loadNetworkGeneratingFunctionsValues(String size){
-        try{
-         BufferedReader reader=new BufferedReader(new FileReader(FILE_NETWORKS));
-         findSize(size, reader);
-         readBigNumberBinaryTrees(reader);
-         readBigNumber3connected(reader);
-         readBigNumberNetworks(reader);
-        }
-        catch(FileNotFoundException e)
-        {System.out.println(e);}
+
+    public static void loadNetworkGeneratingFunctionsValues(BufferedReader reader) {
+        readBigNumberBinaryTrees(reader);
+        readBigNumber3connected(reader);
+        readBigNumberNetworks(reader);
     }
-    
-    public static void loadAllGeneratingFunctionsValues(String size){
-        try{
-         BufferedReader reader=new BufferedReader(new FileReader(FILE_PLANAR_GRAPHS));
-         findSize(size, reader);
-         readBigNumberBinaryTrees(reader);
-         readBigNumber3connected(reader);
-         readBigNumberNetworks(reader);
-         readBigNumber2Connected(reader);
-         readBigNumberConnected(reader);
-         readBigNumberPlanar(reader);
-        }
-        catch(FileNotFoundException e)
-        {System.out.println(e);}
+
+    public static void loadAllGeneratingFunctionsValues(BufferedReader reader) {
+        readBigNumberBinaryTrees(reader);
+        readBigNumber3connected(reader);
+        readBigNumberNetworks(reader);
+        readBigNumber2Connected(reader);
+        readBigNumberConnected(reader);
+        readBigNumberPlanar(reader);
     }
-    
+
     public static void readBigNumber3connected(BufferedReader reader){
         affectChooseVector(ThreeConnectedNetwork.ch_K_in_dyK,reader);
         affectChooseVector(ThreeConnectedNetwork.ch_dxK_in_dxyK,reader);
         affectChooseVector(ThreeConnectedNetwork.ch_b_or_dxb,reader);
         affectChooseVector(ThreeConnectedNetwork.ch_3b_or_dyb,reader);
     }
-    
+
     public static void readBigNumber2Connected(BufferedReader reader){
         affectChooseVector(TwoConnectedMap.ch_xy_in_dB,reader);
         affectChooseVector(TwoConnectedMap.ch_y_in_ddB,reader);
         affectChooseVector(TwoConnectedMap.ch_nontrivialD_or_dD,reader);
         affectChooseVector(TwoConnectedMap.ch_dD_or_ddD,reader);
     }
-    
+
     public static void readBigNumberBinaryTrees(BufferedReader reader){
         affectChooseVector(BinaryTree.ch_1_or_u,reader);
         affectChooseVector(BinaryTree.ch_1_or_v,reader);
@@ -68,7 +56,7 @@ public class ReaderOfEvaluations {
         affectChooseVector(BinaryTree.choose_vector_dyv,reader);
         affectChooseVector(BinaryTree.choose_vector_dyu,reader);
     }
-    
+
     public static void readBigNumberConnected(BufferedReader reader){
         affectChooseVector(ConnectedMap.poisson_dB,reader);
         affectChooseVector(ConnectedMap.ch_dC_or_ddC,reader);
@@ -77,7 +65,7 @@ public class ReaderOfEvaluations {
     }
 
     public static void readBigNumberNetworks(BufferedReader reader){
-        
+
          affectChooseVector(Network.choose_vector_non_trivial_D,reader);
          affectChooseVector(Network.choose_vector_D,reader);
          affectChooseVector(Network.choose_vector_P,reader);
@@ -99,13 +87,13 @@ public class ReaderOfEvaluations {
          affectChooseVector(Network.ch_ddP_or_ddH,reader);
          affectChooseVector(Network.ch_ddS_or_ddH,reader);
     }
-    
+
     public static void readBigNumberPlanar(BufferedReader reader){
         affectChooseVector(PlanarMap.poisson_C,reader);
         affectChooseVector(PlanarMap.choose_vector_ddG,reader);
         affectChooseVector(PlanarMap.choose_vector_dddG,reader);
     }
-    
+
     public static void affectChooseVector(ChooseVector vector, BufferedReader reader){
         int i=0; String s="";
         try{
@@ -117,22 +105,11 @@ public class ReaderOfEvaluations {
                 try{x=Double.parseDouble(st.nextToken());} catch(NumberFormatException e){System.out.println("problem when loading choose_vector, not a number");System.out.println(x);}
                 vector.setDoubleAt(i++, x);
             }
-        } 
-        catch(IOException e) {System.out.println(e);}// we pass the line indicating the beginning of the vector 
-        
-    }
-    
-    public static void findSize(String size, BufferedReader reader){
-        String toCompare="case"+size; // System.out.println(toCompare);
-        String s="";
-        while(true){
-            try{s=reader.readLine();} catch(IOException e) {System.out.println(e);}
-            if((s!=null)&&(s.compareTo(toCompare)==0)) {
-                return;
-            }
         }
+        catch(IOException e) {System.out.println(e);}// we pass the line indicating the beginning of the vector
+
     }
-    
+
     public static void printVectors(){
         BinaryTree.ch_1_or_u.toScreen();
         BinaryTree.ch_1_or_v.toScreen();
@@ -179,7 +156,4 @@ public class ReaderOfEvaluations {
         PlanarMap.choose_vector_ddG.toScreen();
         PlanarMap.choose_vector_dddG.toScreen();
     }
-    
-    
-    
 }
