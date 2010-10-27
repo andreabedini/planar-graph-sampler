@@ -64,21 +64,27 @@ public class TwoConnectedMap extends ConnectedMap {
         }
     }
 
+    /**
+     * pointed biconnected
+     **/
     public static TwoConnectedMap draw_dB(Random r) {
-
+	// link-graph or network
         int c = ch_xy_in_dB.choose(r);
         if (c == 0) {
             return edgeMap();
         } else {
             while (true) {
+		// network
                 Network network = Network.draw_non_trivial_D(r);
+		// add root edge (?)
                 network.toTwoConnectedMap();
+		// Uderived -> Lderived
                 int i = network.vertexList.size();
                 int j = network.nr_edges;
-                double rejet = (double) (i) / (double) (j);//System.out.println(i+" "+j+" "+"reject 2connected: "+rejet);
+                double rejet = (double) (i) / (double) (j);
                 if (r.nextDouble() <= rejet) {
-                    return network; //else System.out.println("2-connected is rejected");
-                }
+                    return network;
+		}
             }
         }
     }
