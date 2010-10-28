@@ -11,7 +11,6 @@ import maps.*;
 public class ReaderOfEvaluations {
 
     public static String FILE_NETWORKS = "../../src/dataWithEvaluations/values_networks";
-    public static String FILE_TWO_CONNECTED = "../../src/dataWithEvaluations/values_planar";
     public static String FILE_PLANAR_GRAPHS = "../../src/dataWithEvaluations/values_planar";
 
     public static void loadNetworkGeneratingFunctionsValues(String size) throws FileNotFoundException, IOException {
@@ -23,7 +22,7 @@ public class ReaderOfEvaluations {
     }
 
     public static void loadTwoConnectedValues(String size) throws FileNotFoundException, IOException {
-        BufferedReader reader = new BufferedReader(new FileReader(FILE_TWO_CONNECTED));
+        BufferedReader reader = new BufferedReader(new FileReader(FILE_NETWORKS));
         findSize(size, reader);
         readBigNumberBinaryTrees(reader);
         readBigNumber3connected(reader);
@@ -57,13 +56,13 @@ public class ReaderOfEvaluations {
     public static void readBigNumber2Connected(BufferedReader reader) throws IOException {
         System.err.println("Loading 4 vectors for 2 connected");
         affectChooseVector(TwoConnectedMap.ch_xy_in_dB, reader);
-        System.err.println("ch_K_in_dyK loaded");
+        System.err.println("ch_xy_in_dBloaded");
         affectChooseVector(TwoConnectedMap.ch_y_in_ddB, reader);
-        System.err.println("ch_K_in_dyK loaded");
+        System.err.println("ch_y_in_ddB loaded");
         affectChooseVector(TwoConnectedMap.ch_nontrivialD_or_dD, reader);
-        System.err.println("ch_K_in_dyK loaded");
+        System.err.println("ch_nontrivialD_or_dD loaded");
         affectChooseVector(TwoConnectedMap.ch_dD_or_ddD, reader);
-        System.err.println("ch_K_in_dyK loaded");
+        System.err.println("ch_dD_or_ddD loaded");
     }
 
     public static void readBigNumberBinaryTrees(BufferedReader reader) throws IOException {
