@@ -1,6 +1,5 @@
 package randomChoose;
 
-import java.util.Vector;
 import java.util.Random;
 
 public class ChooseVector{
@@ -12,10 +11,6 @@ public class ChooseVector{
     public ChooseVector(int n) {
         values=new double[n-1];
         this.nr_values=n-1;
-    }
-    
-    public void addDoubleAt(double x, int index){
-        this.values[index]=x;
     }
     
     public double getDoubleAt(int i){
