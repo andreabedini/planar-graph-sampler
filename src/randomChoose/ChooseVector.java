@@ -29,6 +29,10 @@ public class ChooseVector {
         return i;
     }
 
+    public void check() {
+        assert values[nr_values - 1] == 1 : "vector check failed";
+    }
+
     public void toScreen() {
         for (int i = 0; i < nr_values; i++) {
             System.err.println("value at index " + i + ": " + values[i]);

@@ -14,9 +14,9 @@ public class Network extends TwoConnectedMap {
     public static ChooseVector choose_vector_P = new ChooseVector(2);
     public static ChooseVector ch_y_or_P_or_H = new ChooseVector(3);
     public static ChooseVector ch_S_or_H = new ChooseVector(2);
-    public static ChooseVector poisson_S_plus_H = new ChooseVector(17);
-    public static ChooseVector poisson_at_least1_S_plus_H = new ChooseVector(17);
-    public static ChooseVector poisson_at_least2_S_plus_H = new ChooseVector(17);
+    public static ChooseVector poisson_S_plus_H = new ChooseVector(20);
+    public static ChooseVector poisson_at_least1_S_plus_H = new ChooseVector(20);
+    public static ChooseVector poisson_at_least2_S_plus_H = new ChooseVector(20);
     public static ChooseVector choose_vector_dD = new ChooseVector(3);
     public static ChooseVector choose_vector_dS = new ChooseVector(3);
     public static ChooseVector choose_vector_dP = new ChooseVector(2);

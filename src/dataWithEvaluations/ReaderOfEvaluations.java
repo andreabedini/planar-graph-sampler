@@ -13,27 +13,23 @@ public class ReaderOfEvaluations {
     public static String FILE_NETWORKS = "../../src/dataWithEvaluations/values_networks";
     public static String FILE_PLANAR_GRAPHS = "../../src/dataWithEvaluations/values_planar";
 
-    public static void loadNetworkGeneratingFunctionsValues(String size) throws FileNotFoundException, IOException {
+    public static void loadNetworkGeneratingFunctionsValues() throws FileNotFoundException, IOException {
         BufferedReader reader = new BufferedReader(new FileReader(FILE_NETWORKS));
-        findSize(size, reader);
         readBigNumberBinaryTrees(reader);
         readBigNumber3connected(reader);
         readBigNumberNetworks(reader);
-        printVectors();
     }
 
-    public static void loadTwoConnectedValues(String size) throws FileNotFoundException, IOException {
+    public static void loadTwoConnectedValues() throws FileNotFoundException, IOException {
         BufferedReader reader = new BufferedReader(new FileReader(FILE_NETWORKS));
-        findSize(size, reader);
         readBigNumberBinaryTrees(reader);
         readBigNumber3connected(reader);
         readBigNumberNetworks(reader);
         readBigNumber2Connected(reader);
     }
 
-    public static void loadAllGeneratingFunctionsValues(String size) throws FileNotFoundException, IOException {
+    public static void loadAllGeneratingFunctionsValues() throws FileNotFoundException, IOException {
         BufferedReader reader = new BufferedReader(new FileReader(FILE_PLANAR_GRAPHS));
-        findSize(size, reader);
         readBigNumberBinaryTrees(reader);
         readBigNumber3connected(reader);
         readBigNumberNetworks(reader);
@@ -156,9 +152,7 @@ public class ReaderOfEvaluations {
 
     public static void affectChooseVector(ChooseVector vector, BufferedReader reader) throws IOException {
         int i = 0;
-        String s = "";
-        s = reader.readLine();
-        s = reader.readLine();
+        String s = reader.readLine();
         System.err.println(s);
         StringTokenizer st = new StringTokenizer(s);
         while (st.hasMoreTokens()) {
@@ -171,21 +165,7 @@ public class ReaderOfEvaluations {
             }
             vector.setDoubleAt(i++, x);
         }
-    }
-
-    public static void findSize(String size, BufferedReader reader) {
-        String toCompare = "case" + size; // System.out.println(toCompare);
-        String s = "";
-        while (true) {
-            try {
-                s = reader.readLine();
-            } catch (IOException e) {
-                System.out.println(e);
-            }
-            if ((s != null) && (s.compareTo(toCompare) == 0)) {
-                return;
-            }
-        }
+        vector.check();
     }
 
     public static void printVectors() {

@@ -14,7 +14,7 @@ public class Main {
         Random r = new Random(System.currentTimeMillis());
         PrintWriter out = new PrintWriter(System.out, true);
         try {
-            ReaderOfEvaluations.loadAllGeneratingFunctionsValues("1000");
+            ReaderOfEvaluations.loadAllGeneratingFunctionsValues();
             while (n-- > 0) {
                 ConnectedMap connected = ConnectedMap.draw_dddC(r);
                 connected.printForBedini(out);

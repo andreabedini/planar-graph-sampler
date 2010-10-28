@@ -18,7 +18,7 @@ public class Main {
         Random r = new Random(System.currentTimeMillis());
         PrintWriter out = new PrintWriter(System.out, true);
         try {
-            ReaderOfEvaluations.loadNetworkGeneratingFunctionsValues("1000");
+            ReaderOfEvaluations.loadNetworkGeneratingFunctionsValues();
             while (n-- > 0) {
                 ThreeConnectedNetwork threeConnectedNetwork = ThreeConnectedNetwork.draw_dxxK(r);
                 threeConnectedNetwork.printForBedini(out);

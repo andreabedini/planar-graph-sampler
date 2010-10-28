@@ -18,7 +18,7 @@ public class Main {
         Random r = new Random(System.currentTimeMillis());
         PrintWriter out = new PrintWriter(System.out, true);
         try {
-            ReaderOfEvaluations.loadTwoConnectedValues("1000");
+            ReaderOfEvaluations.loadTwoConnectedValues();
             while (n-- > 0) {
                 TwoConnectedMap twoConnected = TwoConnectedMap.draw_dddB(r);
                 twoConnected.printForBedini(out);
