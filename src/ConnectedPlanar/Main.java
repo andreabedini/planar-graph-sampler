@@ -11,20 +11,17 @@ import maps.ConnectedMap;
 public class Main {
     public static void main(String[] args) {
         int n = Integer.parseInt(args[0]);
-        try {
-            testBoltzmannConnected(n);
-        } catch (IOException ex) {
-            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
-        }
-    }
-
-    public static void testBoltzmannConnected(int n) throws IOException {
         Random r = new Random(System.currentTimeMillis());
         PrintWriter out = new PrintWriter(System.out, true);
-        ReaderOfEvaluations.loadAllGeneratingFunctionsValues("1000");
-        while (n-- > 0) {
-            ConnectedMap connected = ConnectedMap.draw_ddC(r);
-            connected.printForBedini(out);
+        try {
+            ReaderOfEvaluations.loadAllGeneratingFunctionsValues("1000");
+            while (n-- > 0) {
+                ConnectedMap connected = ConnectedMap.draw_ddC(r);
+                connected.printForBedini(out);
+            }
+        } catch (IOException ex) {
+            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
+            System.exit(-1);
         }
     }
 

@@ -14,47 +14,35 @@ public class ReaderOfEvaluations {
     public static String FILE_TWO_CONNECTED = "../../src/dataWithEvaluations/values_planar";
     public static String FILE_PLANAR_GRAPHS = "../../src/dataWithEvaluations/values_planar";
 
-    public static void loadNetworkGeneratingFunctionsValues(String size) {
-        try {
-            BufferedReader reader = new BufferedReader(new FileReader(FILE_NETWORKS));
-            findSize(size, reader);
-            readBigNumberBinaryTrees(reader);
-            readBigNumber3connected(reader);
-            readBigNumberNetworks(reader);
-        } catch (FileNotFoundException e) {
-            System.out.println(e);
-        }
+    public static void loadNetworkGeneratingFunctionsValues(String size) throws FileNotFoundException, IOException {
+        BufferedReader reader = new BufferedReader(new FileReader(FILE_NETWORKS));
+        findSize(size, reader);
+        readBigNumberBinaryTrees(reader);
+        readBigNumber3connected(reader);
+        readBigNumberNetworks(reader);
     }
 
-    public static void loadTwoConnectedValues(String size) {
-        try {
-            BufferedReader reader = new BufferedReader(new FileReader(FILE_TWO_CONNECTED));
-            findSize(size, reader);
-            readBigNumberBinaryTrees(reader);
-            readBigNumber3connected(reader);
-            readBigNumberNetworks(reader);
-            readBigNumber2Connected(reader);
-        } catch (FileNotFoundException e) {
-            System.out.println(e);
-        }
+    public static void loadTwoConnectedValues(String size) throws FileNotFoundException, IOException {
+        BufferedReader reader = new BufferedReader(new FileReader(FILE_TWO_CONNECTED));
+        findSize(size, reader);
+        readBigNumberBinaryTrees(reader);
+        readBigNumber3connected(reader);
+        readBigNumberNetworks(reader);
+        readBigNumber2Connected(reader);
     }
 
-    public static void loadAllGeneratingFunctionsValues(String size) {
-        try {
-            BufferedReader reader = new BufferedReader(new FileReader(FILE_PLANAR_GRAPHS));
-            findSize(size, reader);
-            readBigNumberBinaryTrees(reader);
-            readBigNumber3connected(reader);
-            readBigNumberNetworks(reader);
-            readBigNumber2Connected(reader);
-            readBigNumberConnected(reader);
-            readBigNumberPlanar(reader);
-        } catch (FileNotFoundException e) {
-            System.out.println(e);
-        }
+    public static void loadAllGeneratingFunctionsValues(String size) throws FileNotFoundException, IOException {
+        BufferedReader reader = new BufferedReader(new FileReader(FILE_PLANAR_GRAPHS));
+        findSize(size, reader);
+        readBigNumberBinaryTrees(reader);
+        readBigNumber3connected(reader);
+        readBigNumberNetworks(reader);
+        readBigNumber2Connected(reader);
+        readBigNumberConnected(reader);
+        readBigNumberPlanar(reader);
     }
 
-    public static void readBigNumber3connected(BufferedReader reader) {
+    public static void readBigNumber3connected(BufferedReader reader) throws IOException {
         System.err.println("Loading 4 vectors for 3 connected");
         affectChooseVector(ThreeConnectedNetwork.ch_K_in_dyK, reader);
         System.err.println("ch_K_in_dyK loaded");
@@ -66,7 +54,7 @@ public class ReaderOfEvaluations {
         System.err.println("ch_3b_or_dyb loaded");
     }
 
-    public static void readBigNumber2Connected(BufferedReader reader) {
+    public static void readBigNumber2Connected(BufferedReader reader) throws IOException {
         System.err.println("Loading 4 vectors for 2 connected");
         affectChooseVector(TwoConnectedMap.ch_xy_in_dB, reader);
         System.err.println("ch_K_in_dyK loaded");
@@ -78,7 +66,7 @@ public class ReaderOfEvaluations {
         System.err.println("ch_K_in_dyK loaded");
     }
 
-    public static void readBigNumberBinaryTrees(BufferedReader reader) {
+    public static void readBigNumberBinaryTrees(BufferedReader reader) throws IOException {
         System.err.println("Loading 9 vectors for binary trees");
         affectChooseVector(BinaryTree.ch_1_or_u, reader);
         System.err.println("ch_1_or_u loaded");
@@ -100,7 +88,7 @@ public class ReaderOfEvaluations {
         System.err.println("choose_vector_dyu loaded");
     }
 
-    public static void readBigNumberConnected(BufferedReader reader) {
+    public static void readBigNumberConnected(BufferedReader reader) throws IOException {
         System.err.println("Loading 4 vectors for connected maps");
         affectChooseVector(ConnectedMap.poisson_dB, reader);
         System.err.println("poisson_dB loaded");
@@ -112,7 +100,7 @@ public class ReaderOfEvaluations {
         System.err.println("choose_vector_dddC loaded");
     }
 
-    public static void readBigNumberNetworks(BufferedReader reader) {
+    public static void readBigNumberNetworks(BufferedReader reader) throws IOException {
         System.err.println("Loading 21 vectors for networks");
         affectChooseVector(Network.choose_vector_non_trivial_D, reader);
         System.err.println("choose_vector_non_trivial_D loaded");
@@ -156,7 +144,7 @@ public class ReaderOfEvaluations {
         System.err.println("ch_ddS_or_ddH loaded");
     }
 
-    public static void readBigNumberPlanar(BufferedReader reader) {
+    public static void readBigNumberPlanar(BufferedReader reader) throws IOException {
         System.err.println("Loading 3 vectors for planar map");
         affectChooseVector(PlanarMap.poisson_C, reader);
         System.err.println("poisson_C loaded");
@@ -166,27 +154,22 @@ public class ReaderOfEvaluations {
         System.err.println("choose_vector_dddG loaded");
     }
 
-    public static void affectChooseVector(ChooseVector vector, BufferedReader reader) {
+    public static void affectChooseVector(ChooseVector vector, BufferedReader reader) throws IOException {
         int i = 0;
         String s = "";
-        try {
-            s = reader.readLine();
-            s = reader.readLine();// System.out.println(s);
-            StringTokenizer st = new StringTokenizer(s);
-            while (st.hasMoreTokens()) {
-                double x = 0;
-                try {
-                    x = Double.parseDouble(st.nextToken());
-                } catch (NumberFormatException e) {
-                    System.out.println("problem when loading choose_vector, not a number");
-                    System.out.println(x);
-                }
-                vector.setDoubleAt(i++, x);
+        s = reader.readLine();
+        s = reader.readLine();// System.out.println(s);
+        StringTokenizer st = new StringTokenizer(s);
+        while (st.hasMoreTokens()) {
+            double x = 0;
+            try {
+                x = Double.parseDouble(st.nextToken());
+            } catch (NumberFormatException e) {
+                System.out.println("problem when loading choose_vector, not a number");
+                System.out.println(x);
             }
-        } catch (IOException e) {
-            System.out.println(e);
-        }// we pass the line indicating the beginning of the vector
-
+            vector.setDoubleAt(i++, x);
+        }
     }
 
     public static void findSize(String size, BufferedReader reader) {
