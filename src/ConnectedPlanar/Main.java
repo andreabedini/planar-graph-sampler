@@ -16,7 +16,7 @@ public class Main {
         try {
             ReaderOfEvaluations.loadAllGeneratingFunctionsValues("1000");
             while (n-- > 0) {
-                ConnectedMap connected = ConnectedMap.draw_ddC(r);
+                ConnectedMap connected = ConnectedMap.draw_dddC(r);
                 connected.printForBedini(out);
             }
         } catch (IOException ex) {
