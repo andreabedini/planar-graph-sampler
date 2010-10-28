@@ -3,19 +3,13 @@ package randomChoose;
 import java.util.Random;
 
 public class ChooseVector {
-    // each ChooseVector has an array of values summing to 1, which corresponds to a Bernoulli-choice
-
     double[] values;
     int nr_values = 0;
 
     /** Creates a new instance of ChooseVector */
     public ChooseVector(int n) {
-        values = new double[n - 1];
-        this.nr_values = n - 1;
-    }
-
-    public double getDoubleAt(int i) {
-        return this.values[i];
+        values = new double[n];
+        this.nr_values = n;
     }
 
     public void setDoubleAt(int i, double x) {
@@ -30,21 +24,15 @@ public class ChooseVector {
     public int choose(Random random) {
         int i = 0;
         double u = random.nextDouble();
-        while (true) {
-            if (u <= this.values[i]) {
-                return i;
-            }
+        while (values[i] < u)
             i++;
-            if (i >= this.nr_values) {
-                return this.nr_values;
-            }
-        }
+        return i;
     }
 
     public void toScreen() {
         for (int i = 0; i < nr_values; i++) {
-            System.out.println("value at index " + i + ": " + this.getDoubleAt(i));
+            System.err.println("value at index " + i + ": " + values[i]);
         }
-        System.out.println("");
+        System.err.println("");
     }
 }
