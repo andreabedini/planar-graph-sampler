@@ -4,78 +4,27 @@ import java.util.Random;
 import dataWithEvaluations.ReaderOfEvaluations;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import maps.ConnectedMap;
 
 public class Main {
     public static void main(String[] args) {
-        testBoltzmannConnected();
+        int n = Integer.parseInt(args[0]);
+        try {
+            testBoltzmannConnected(n);
+        } catch (IOException ex) {
+            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }
 
-//    public static void testIO() {
-//        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-//        ReaderOfEvaluations.loadAllGeneratingFunctionsValues(in);
-//        ReaderOfEvaluations.printVectors();
-//    }
-//
-//    public static void testRandomBinaryTree() {
-//        Random r = new Random(System.currentTimeMillis());
-//        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-//        ReaderOfEvaluations.loadNetworkGeneratingFunctionsValues(in);
-//        BinaryTree tree = BinaryTree.draw_dyb(r);
-//        //BinaryTree.toScreen(tree);
-//        BinaryTree.printParameters(tree);
-//    }
-
-    // public static void testRandomClosure(){
-    //     while(true){
-    //         Random r=new Random(System.currentTimeMillis());
-    //         ReaderOfEvaluations.loadNetworkGeneratingFunctionsValues("10000");
-    //         BinaryTree binaryTree=BinaryTree.draw_dyb(r);
-    //         //BinaryTree.toScreen(tree);
-    //         BinaryTree.printParameters(binaryTree);
-    //         Dart dart=Dart.closure(binaryTree);
-    //         if (dart!=null){
-    //             ThreeConnectedNetwork threeConnecNetwork=new ThreeConnectedNetwork(dart);
-    //             threeConnecNetwork.toScreenParameters();
-    //             return;
-    //         }
-    //         else {
-    //             System.out.println("rejet:path of length 3 passing by an internal vertex between the root vertex and the opposed vertex in the hexagon");
-    //         }
-    //     }
-    // }
-//    public static void testBoltzmannNetworks() {
-//        Random r = new Random(System.currentTimeMillis());
-//        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-//        ReaderOfEvaluations.loadNetworkGeneratingFunctionsValues(in);
-//        Network network = Network.draw_dD(r);
-//        network.toScreenParameters();
-//        network.printHalfEdges();
-//    }
-//
-//    public static void testBoltzmann2connected() {
-//        Random r = new Random(System.currentTimeMillis());
-//        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-//        ReaderOfEvaluations.loadAllGeneratingFunctionsValues(in);
-//        TwoConnectedMap twoConnected = TwoConnectedMap.draw_dddB(r);
-//        twoConnected.toScreenParameters();
-//        twoConnected.printHalfEdges();
-//        twoConnected.printDegreeVertices();
-//    }
-
-    public static void testBoltzmannConnected() {
+    public static void testBoltzmannConnected(int n) throws IOException {
         Random r = new Random(System.currentTimeMillis());
+        PrintWriter out = new PrintWriter(System.out, true);
         ReaderOfEvaluations.loadAllGeneratingFunctionsValues("1000");
-        ConnectedMap connected = ConnectedMap.draw_dddC(r);
-        // stats
-        connected.toScreenParameters();
-        // graph
-        try {
-            PrintWriter out = new PrintWriter(System.out, true);
+        while (n-- > 0) {
+            ConnectedMap connected = ConnectedMap.draw_ddC(r);
             connected.printForBedini(out);
-        } catch (IOException e) {
-            System.out.println("IOException");
-            System.exit(-1);
         }
     }
 
