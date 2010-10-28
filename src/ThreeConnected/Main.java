@@ -1,15 +1,11 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package ThreeConnected;
 
 import dataWithEvaluations.ReaderOfEvaluations;
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.util.Random;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import maps.ThreeConnectedNetwork;
 
 /**
@@ -17,21 +13,18 @@ import maps.ThreeConnectedNetwork;
  * @author andrea
  */
 public class Main {
-
     public static void main(String[] args) {
-        testBoltzmann3connectedNetworks();
-    }
-
-    public static void testBoltzmann3connectedNetworks() {
+        int n = Integer.parseInt(args[0]);
         Random r = new Random(System.currentTimeMillis());
-        ReaderOfEvaluations.loadNetworkGeneratingFunctionsValues("1000");
-        ThreeConnectedNetwork threeConnectedNetwork = ThreeConnectedNetwork.draw_dxxK(r);
-        threeConnectedNetwork.toScreenParameters();
+        PrintWriter out = new PrintWriter(System.out, true);
         try {
-            PrintWriter out = new PrintWriter(System.out, true);
-            threeConnectedNetwork.printForBedini(out);
-        } catch (IOException e) {
-            System.out.println("IOException");
+            ReaderOfEvaluations.loadNetworkGeneratingFunctionsValues("1000");
+            while (n-- > 0) {
+                ThreeConnectedNetwork threeConnectedNetwork = ThreeConnectedNetwork.draw_dxxK(r);
+                threeConnectedNetwork.printForBedini(out);
+            }
+        } catch (IOException ex) {
+            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
             System.exit(-1);
         }
     }

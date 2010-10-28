@@ -1,16 +1,11 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package TwoConnected;
 
 import dataWithEvaluations.ReaderOfEvaluations;
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.util.Random;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import maps.TwoConnectedMap;
 
 /**
@@ -18,21 +13,18 @@ import maps.TwoConnectedMap;
  * @author andrea
  */
 public class Main {
-
     public static void main(String[] args) {
-        testBoltzmann2connected();
-    }
-
-    public static void testBoltzmann2connected() {
+        int n = Integer.parseInt(args[0]);
         Random r = new Random(System.currentTimeMillis());
-        ReaderOfEvaluations.loadTwoConnectedValues("1000");
-        TwoConnectedMap twoConnected = TwoConnectedMap.draw_dddB(r);
-        twoConnected.toScreenParameters();
+        PrintWriter out = new PrintWriter(System.out, true);
         try {
-            PrintWriter out = new PrintWriter(System.out, true);
-            twoConnected.printForBedini(out);
-        } catch (IOException e) {
-            System.out.println("IOException");
+            ReaderOfEvaluations.loadTwoConnectedValues("1000");
+            while (n-- > 0) {
+                TwoConnectedMap twoConnected = TwoConnectedMap.draw_dddB(r);
+                twoConnected.printForBedini(out);
+            }
+        } catch (IOException ex) {
+            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
             System.exit(-1);
         }
     }
