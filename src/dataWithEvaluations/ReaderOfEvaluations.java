@@ -19,6 +19,7 @@ public class ReaderOfEvaluations {
         readBigNumberBinaryTrees(reader);
         readBigNumber3connected(reader);
         readBigNumberNetworks(reader);
+        printVectors();
     }
 
     public static void loadTwoConnectedValues(String size) throws FileNotFoundException, IOException {
@@ -157,15 +158,16 @@ public class ReaderOfEvaluations {
         int i = 0;
         String s = "";
         s = reader.readLine();
-        s = reader.readLine();// System.out.println(s);
+        s = reader.readLine();
+        System.err.println(s);
         StringTokenizer st = new StringTokenizer(s);
         while (st.hasMoreTokens()) {
             double x = 0;
             try {
                 x = Double.parseDouble(st.nextToken());
             } catch (NumberFormatException e) {
-                System.out.println("problem when loading choose_vector, not a number");
-                System.out.println(x);
+                System.err.println("problem when loading choose_vector, not a number");
+                System.err.println(x);
             }
             vector.setDoubleAt(i++, x);
         }
