@@ -9,6 +9,8 @@ public class ChooseVector {
     /** Creates a new instance of ChooseVector */
     public ChooseVector(int n) {
         values = new double[n];
+        for (int i = 0; i < n; i ++)
+            values[i] = 1.0;
         this.nr_values = n;
     }
 
