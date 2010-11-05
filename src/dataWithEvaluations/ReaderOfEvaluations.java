@@ -9,9 +9,8 @@ import java.io.FileNotFoundException;
 import maps.*;
 
 public class ReaderOfEvaluations {
-
-    public static String FILE_NETWORKS = "../../src/dataWithEvaluations/values_networks";
-    public static String FILE_PLANAR_GRAPHS = "../../src/dataWithEvaluations/values_planar";
+    public static String FILE_NETWORKS = "values_networks";
+    public static String FILE_PLANAR_GRAPHS = "values_planar";
 
     public static void loadNetworkGeneratingFunctionsValues() throws FileNotFoundException, IOException {
         BufferedReader reader = new BufferedReader(new FileReader(FILE_NETWORKS));
