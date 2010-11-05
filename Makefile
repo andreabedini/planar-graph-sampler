@@ -5,16 +5,16 @@ dataWithEvaluations = $(wildcard src/dataWithEvaluations/*.java)
 sources = $(randomChoose) $(maps) $(dataWithEvaluations)
 classes = $(patsubst %.java, %.class, $(sources))
 
-all: ConnectedPlanar.jar TwoConnected.jar ThreeConnected.jar
+all: Connected.jar TwoConnected.jar ThreeConnected.jar
 
-ConnectedPlanar.jar: src/ConnectedPlanar/Main.class $(classes)
-	jar cf $@ $^
+Connected.jar: Connected.class $(classes)
+	jar cfe $@ Connected $< -C src .
 
-TwoConnected.jar: src/TwoConnected/Main.class $(classes)
-	jar cf $@ $^
+TwoConnected.jar: TwoConnected.class $(classes)
+	jar cfe $@ TwoConnected $< -C src .
 
-ThreeConnected.jar: src/ThreeConnected/Main.class $(classes)
-	jar cf $@ $^
+ThreeConnected.jar: ThreeConnected.class $(classes)
+	jar cfe $@ ThreeConnected $< -C src .
 
 %.class: %.java
 	javac -cp src $<

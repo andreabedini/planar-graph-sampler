@@ -1,5 +1,3 @@
-package ConnectedPlanar;
-
 import java.util.Random;
 import dataWithEvaluations.ReaderOfEvaluations;
 import java.io.IOException;
@@ -8,21 +6,21 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import maps.ConnectedMap;
 
-public class Main {
+public class Connected {
     public static void main(String[] args) {
-        int n = Integer.parseInt(args[0]);
-        Random r = new Random(System.currentTimeMillis());
-        PrintWriter out = new PrintWriter(System.out, true);
-        try {
-            ReaderOfEvaluations.loadAllGeneratingFunctionsValues();
-            while (n-- > 0) {
-                ConnectedMap connected = ConnectedMap.draw_dddC(r);
-                connected.printForBedini(out);
-            }
-        } catch (IOException ex) {
-            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
-            System.exit(-1);
-        }
+	int n = Integer.parseInt(args[0]);
+	Random r = new Random(System.currentTimeMillis());
+	PrintWriter out = new PrintWriter(System.out, true);
+	try {
+	    ReaderOfEvaluations.loadAllGeneratingFunctionsValues();
+	    while (n-- > 0) {
+		ConnectedMap connected = ConnectedMap.draw_dddC(r);
+		connected.printForBedini(out);
+	    }
+	} catch (IOException ex) {
+	    Logger.getLogger(Connected.class.getName()).log(Level.SEVERE, null, ex);
+	    System.exit(-1);
+	}
     }
 
 //    public static void collectStatisticInfo() throws IOException {
