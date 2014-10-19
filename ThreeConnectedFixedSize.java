@@ -10,20 +10,24 @@ import maps.ThreeConnectedNetwork;
  *
  * @author andrea
  */
-public class ThreeConnected {
+public class ThreeConnectedFixedSize {
     public static void main(String[] args) {
 	int n = Integer.parseInt(args[0]);
+	int m = Integer.parseInt(args[1]);
 	Random r = new Random(System.currentTimeMillis());
 	PrintWriter out = new PrintWriter(System.out, true);
 	try {
 	    ReaderOfEvaluations.loadNetworkGeneratingFunctionsValues();
-	    while (n-- > 0) {
+	    while (n > 0) {
 		ThreeConnectedNetwork threeConnectedNetwork = ThreeConnectedNetwork.draw_dxxK(r);
 		threeConnectedNetwork.toTwoConnectedMap();
-		threeConnectedNetwork.printForBedini(out);
+		if (threeConnectedNetwork.vertexList.size() == m) {
+		    threeConnectedNetwork.printForBedini(out);
+		    n--;
+		}
 	    }
 	} catch (IOException ex) {
-	    Logger.getLogger(ThreeConnected.class.getName()).log(Level.SEVERE, null, ex);
+	    Logger.getLogger(ThreeConnectedFixedSize.class.getName()).log(Level.SEVERE, null, ex);
 	    System.exit(-1);
 	}
     }

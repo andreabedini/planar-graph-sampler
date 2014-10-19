@@ -1,0 +1,2045 @@
+{VERSION 5 0 "Mac OS X" "5.0" }
+{USTYLETAB {PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 2" -1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered
+ List 3" -1 202 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 
+0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 
+1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3
+ 3 2 108 2 0 2 2 -1 1 }{PSTYLE "_pstyle90" -1 204 1 {CSTYLE "" -1 -1 "
+Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 
+}{PSTYLE "Ordered List 5" -1 205 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0
+ 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 2 -1 1 }{PSTYLE "_psty
+le92" -1 206 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0
+ 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle91" -1 207 1 {CSTYLE
+ "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "Annotation Title" -1 208 1 {CSTYLE "" -1 -1 "
+Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 
+1 }{PSTYLE "_pstyle100" -1 209 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle94
+" -1 210 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }
+1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE ""
+ -1 -1 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0
+ 2 2 -1 1 }{PSTYLE "_pstyle93" -1 211 1 {CSTYLE "" -1 -1 "Courier" 1 
+12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "_pstyle96" -1 212 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2
+ 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle95" -1
+ 213 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle98" -1 214 1 {CSTYLE "" -1 
+-1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "_pstyle97" -1 215 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0
+ 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle
+88" -1 216 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1
+ }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle89" -1 217 1 {CSTYLE "
+" -1 -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 
+2 2 -1 1 }{PSTYLE "Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier" 1 10
+ 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE 
+"Dash Item" -1 16 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
+1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle83" -1 218 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 255 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0
+ 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle82" -1 219 1 {CSTYLE "" -1 -1 "Ti
+mes" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "_pstyle81" -1 220 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2
+ 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle80" -1
+ 221 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError" -1 222 1 {CSTYLE ""
+ -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle87" -1 223 1 {CSTYLE "" -1 -1 "Cour
+ier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 
+}{PSTYLE "_pstyle86" -1 224 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 
+1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle85" 
+-1 225 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle84" -1 226 1 {CSTYLE "" -1
+ -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "_pstyle79" -1 227 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 
+255 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pst
+yle77" -1 228 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 
+0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle78" -1 229 1 
+{CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" -1 -1 "Tim
+es" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2
+ 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle74" -1 230
+ 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Warning" -1 7 1 {CSTYLE "" -1 -1 "C
+ourier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1
+ 1 }{PSTYLE "_pstyle76" -1 231 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1
+ 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle26
+" -1 232 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }
+1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle75" -1 233 1 {CSTYLE "" 
+-1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 
+2 -1 1 }{PSTYLE "_pstyle25" -1 234 1 {CSTYLE "" -1 -1 "Courier" 1 10 
+255 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE
+ "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 
+2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle24" -1 235 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printed Output" -1 6 1 {CSTYLE "" -1 
+-1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2
+ 2 -1 1 }{PSTYLE "_pstyle23" -1 236 1 {CSTYLE "" -1 -1 "Times" 1 14 0 
+0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "_pst
+yle22" -1 237 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 2 2 2 2 2 1 0 
+0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE
+ "" -1 -1 "Courier" 1 10 64 128 64 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 
+2 0 2 0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier" 1 
+9 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE
+ "_pstyle66" -1 238 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 
+2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle67" -1 239 1 {CSTYLE "" -1 -1 "Cour
+ier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 
+}{PSTYLE "_pstyle68" -1 240 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 
+1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle69" 
+-1 241 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1
+ }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Output" -1 11 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "_pstyle65" -1 242 1 {CSTYLE "" -1 -1 "Times" 1 14
+ 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "_
+pstyle64" -1 243 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1
+ 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle63" -1 244 1 
+{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle62" -1 245 1 {CSTYLE "" -1 -1 "
+Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 
+}{PSTYLE "_pstyle61" -1 246 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 
+2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle60" 
+-1 247 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 
+1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Title" -1 18 1 {CSTYLE "" -1 -1 "
+Times" 1 18 0 0 0 1 2 1 1 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 
+1 }{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "Courier" 1 10 255 0 255 1 
+2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 1"
+ -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1
+ 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle20" -1 248 1 {CSTYLE "" -1 
+-1 "Times" 1 14 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "_pstyle21" -1 249 1 {CSTYLE "" -1 -1 "Courier" 1 12 255
+ 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Hea
+ding 4" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 
+0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 3" -1 5 1 {CSTYLE 
+"" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0
+ 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 250 1 {CSTYLE "" -1 -1 "Couri
+er New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1
+ 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2
+ 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justif
+ied Maple Output" -1 12 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 
+2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "List Item" -1 14
+ 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 
+3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle99" -1 251 1 {CSTYLE "" -1 -1 "T
+imes" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{CSTYLE "Help Maple Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 
+0 0 1 }{CSTYLE "Help Italic" -1 42 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 
+0 0 1 }{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0 0 0 1 1 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 2 1 
+2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times" 1 12 0 0 255 1 2 2 2 2 2 
+2 0 0 0 1 }{CSTYLE "2D Math Small" -1 7 "Times" 1 1 0 0 0 1 2 2 2 2 2 
+2 0 0 0 1 }{CSTYLE "_cstyle20" -1 200 "Times" 1 14 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "Output Labels" -1 29 "Times" 1 8 0 0 0 1 2 2 2 2 2 
+2 0 0 0 1 }{CSTYLE "_cstyle23" -1 201 "Times" 1 12 0 0 0 1 2 2 2 2 2 2
+ 0 0 0 1 }{CSTYLE "_cstyle21" -1 202 "Courier" 1 12 255 0 0 1 2 1 2 2 
+1 2 0 0 0 1 }{CSTYLE "_cstyle22" -1 203 "Times" 1 12 0 0 0 1 2 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "_cstyle19" -1 204 "Times" 1 12 0 0 0 1 2 2 2 2 2 
+2 0 0 0 1 }{CSTYLE "_cstyle18" -1 205 "Times" 1 12 0 0 0 1 2 2 2 2 2 2
+ 0 0 0 1 }{CSTYLE "Maple Input Placeholder" -1 206 "Courier New" 1 12 
+200 0 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "_cstyle15" -1 207 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Code" -1 208 "Courier New" 1 
+12 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle17" -1 209 "Courier"
+ 1 12 255 0 0 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "_cstyle16" -1 210 "Times
+" 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle10" -1 211 "Times"
+ 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle11" -1 212 "Times" 
+1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle12" -1 213 "Times" 1
+ 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small" -1 214
+ "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" -1 34 "T
+imes" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined" -1 
+44 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 
+"Times" 1 12 255 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Header and Footer
+" -1 215 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Notes
+" -1 37 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Equation La
+bel" -1 216 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "LaTeX" 
+-1 32 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Dictionary Hy
+perlink" -1 45 "Times" 1 12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "P
+opup" -1 31 "Times" 1 12 0 128 128 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Hel
+p Fixed" -1 23 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "An
+notation Text" -1 217 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Math Bold" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1
+ }{CSTYLE "Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Normal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Nonterminal" -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 
+0 0 1 }{CSTYLE "Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Help Variable" -1 25 "Courier" 1 12 0 0 0 1 2 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12 0 0 0 
+1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 10 "Times" 1 1 
+0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Page Number" -1 33 "Times" 1 12 
+0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle1" -1 218 "Times" 1 18 0 
+0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle2" -1 219 "Times" 1 12 0 0 
+0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle3" -1 220 "Times" 1 14 0 0 0 
+1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle4" -1 221 "Times" 1 12 0 0 0 1 
+1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" -1 27 "Times" 1 10 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle9" -1 222 "Times" 1 12 0 0 0 1 2 2
+ 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 22 "Times" 1 12 0 0 0 1
+ 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle5" -1 223 "Times" 1 18 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle6" -1 224 "Times" 1 14 0 0 0 1 2 1
+ 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2" -1 16 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle8" -1 225 "Times" 1 14 0 0 0 1 
+2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Comment" -1 21 "Courier" 1 12 0 0 
+0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Caption Reference" -1 226 "Times" 1 
+12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Inert Output" -1 227 "Time
+s" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "2D Comment" -1 18 
+"Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Bol
+d" -1 41 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Hyperlink"
+ -1 17 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Prompt" 
+-1 1 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 
+2 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Text" -1 228 "Tim
+es" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Bold" -1 39 "Times
+" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Caption Text" -1 229 "Tim
+es" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 230 "Courier" 1 12
+ 255 0 0 1 2 1 2 2 2 2 0 0 0 1 }}
+{SECT 0 {EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }}}
+{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 11 "Digits:=40:" }}}{SECT 0 
+{PARA 233 "" 0 "" {TEXT 223 24 "3-connected->2-connected" }}{SECT 0 
+{PARA 231 "" 0 "" {TEXT 218 73 "Expression of M the generating functio
+n of rooted 3-connected planar maps" }}{EXCHG {PARA 230 "> " 0 "" 
+{MPLTEXT 1 0 63 "Exp_M:=x^2*y^2*(1/(1+x*y)+1/(1+y)-1-(1+u)^2*(1+v)^2/(
+1+u+v)^3);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&Exp_MG*()%\"xG\"\"#\"
+\"\")%\"yG\"\"#\"\"\",**&\"\"\"\"\"\",&\"\"\"\"\"\"*&%\"xG\"\"\"%\"yG
+\"\"\"\"\"\"!\"\"\"\"\"*&\"\"\"\"\"\",&\"\"\"\"\"\"%\"yG\"\"\"!\"\"\"
+\"\"\"\"\"!\"\"*(),&\"\"\"\"\"\"%\"uG\"\"\"\"\"#\"\"\"),&\"\"\"\"\"\"%
+\"vG\"\"\"\"\"#\"\"\"),(\"\"\"\"\"\"%\"uG\"\"\"%\"vG\"\"\"\"\"$!\"\"!
+\"\"\"\"\"" }}}}{SECT 0 {PARA 231 "" 0 "" {TEXT 218 61 "Expressions of
+ generating functions of bicolored binary trees" }}{EXCHG {PARA 228 ""
+ 0 "" {TEXT 219 420 "We obtain expressions of the generating functions
+ of bicolored binary trees and their partial derivatives. As they will
+ be evaluated at (x,D) in the systems given after, we replace y by D. \+
+These expressions will be placed in the systems verified by networks, \+
+pointed networks, and bi-pointed networks. Here u and v stand respecti
+vely for the generating functions of black-rooted and white-rooted bic
+olored binary trees. " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "sy
+stem_u_v:=\{u=x*D*(1+v)^2,v=D*(1+u)^2\};" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "<$/I\"uG6\"*(I\"xGF%\"\"\"I\"DG6$%*protectedGI(_syslibGF%F(,&F(F(I
+\"vGF%F(\"\"#/F.*&F)F(,&F(F(F$F(F/" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 126 "Equation_dxu_dxv:=subs(\{diff(u(x,D),x)=dxu,diff(v(x
+,D),x)=dxv,u(x,D)=u,v(x,D)=v\},diff(subs(u=u(x,D),v=v(x,D),system_u_v)
+,x));\n" }{MPLTEXT 1 0 57 "solution_dxu_dxv_u_v:=solve(Equation_dxu_dx
+v,\{dxu,dxv\});\n" }{MPLTEXT 1 0 126 "Equation_dyu_dyv:=subs(\{diff(u(
+x,D),D)=dyu,diff(v(x,D),D)=dyv,u(x,D)=u,v(x,D)=v\},diff(subs(u=u(x,D),
+v=v(x,D),system_u_v),D));\n" }{MPLTEXT 1 0 57 "solution_dyu_dyv_u_v:=s
+olve(Equation_dyu_dyv,\{dyu,dyv\});\n" }{MPLTEXT 1 0 31 "system_deriva
+te_binary_tree:=\{\n" }{MPLTEXT 1 0 39 "   dxu=subs(solution_dxu_dxv_u
+_v,dxu),\n" }{MPLTEXT 1 0 39 "   dxv=subs(solution_dxu_dxv_u_v,dxv),\n
+" }{MPLTEXT 1 0 39 "   dyu=subs(solution_dyu_dyv_u_v,dyu),\n" }
+{MPLTEXT 1 0 38 "   dyv=subs(solution_dyu_dyv_u_v,dyv)\n" }{MPLTEXT 1 
+0 3 "\};\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "<$/I$dxuG6\",&*&I\"DG6$%*p
+rotectedGI(_syslibGF%\"\"\",&F,F,I\"vGF%F,\"\"#F,**I\"xGF%F,F(F,F-F,I$
+dxvGF%F,F//F2,$*(F(F,,&F,F,I\"uGF%F,F,F$F,F/" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "<$/I$dxuG6\",$*(I\"DG6$%*protectedGI(_syslibGF%\"\"\",(F,
+F,I\"vGF%\"\"#*$F.F/F,F,,,!\"\"F,*&I\"xGF%F,F(F/\"\"%*(F4F,F(F/I\"uGF%
+F,F5*(F4F,F(F/F.F,F5**F4F,F(F/F.F,F7F,F5F2F2/I$dxvGF%,$**F(F/,&F,F,F7F
+,F,F-F,F1F2!\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 "<$/I$dyuG6\",&*&I\"xG
+F%\"\"\",&F)F)I\"vGF%F)\"\"#F)**F(F)I\"DG6$%*protectedGI(_syslibGF%F)F
+*F)I$dyvGF%F)F,/F2,&*$,&F)F)I\"uGF%F)F,F)*(F.F)F6F)F$F)F," }}{PARA 11 
+"" 1 "" {XPPMATH 20 "<$/I$dyuG6\",$*(I\"xGF%\"\"\",4*(I\"DG6$%*protect
+edGI(_syslibGF%F)I\"vGF%F)I\"uGF%\"\"#F2F)F)F0F2*$F0F2F)*&F,F)F1F2F2F,
+F2*&F,F)F1F)\"\"%*(F,F)F0F)F1F)F6*&F,F)F0F)F2F),,!\"\"F)*&F(F)F,F2F6*(
+F(F)F,F2F1F)F6*(F(F)F,F2F0F)F6**F(F)F,F2F0F)F1F)F6F:F:/I$dyvGF%,$*&,4F
+)F)*(F(F)F,F)F0F)F6**F(F)F,F)F0F)F1F)F6F1F2**F(F)F,F)F1F)F0F2F2*&F(F)F
+,F)F2*(F(F)F,F)F1F)F2*(F(F)F,F)F0F2F2*$F1F2F)F)F9F:F:" }}{PARA 11 "" 1
+ "" {XPPMATH 20 "<&/I$dxuG6\",$*(I\"DG6$%*protectedGI(_syslibGF%\"\"\"
+,(F,F,I\"vGF%\"\"#*$F.F/F,F,,,!\"\"F,*&I\"xGF%F,F(F/\"\"%*(F4F,F(F/I\"
+uGF%F,F5*(F4F,F(F/F.F,F5**F4F,F(F/F.F,F7F,F5F2F2/I$dxvGF%,$**F(F/,&F,F
+,F7F,F,F-F,F1F2!\"#/I$dyuGF%,$*(F4F,,4*(F(F,F.F,F7F/F/F,F,F.F/F0F,*&F(
+F,F7F/F/F(F/*&F(F,F7F,F5*(F(F,F.F,F7F,F5*&F(F,F.F,F/F,F1F2F2/I$dyvGF%,
+$*&,4F,F,*(F4F,F(F,F.F,F5**F4F,F(F,F.F,F7F,F5F7F/**F4F,F(F,F7F,F.F/F/*
+&F4F,F(F,F/*(F4F,F(F,F7F,F/*(F4F,F(F,F.F/F/*$F7F/F,F,F1F2F2" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "system_bi_derivate_binary_tr
+ee:=\{\n" }{MPLTEXT 1 0 187 "   dxxu=factor(subs(system_derivate_binar
+y_tree,subs(\{diff(u(x,D),x)=dxu,diff(v(x,D),x)=dxv,u(x,D)=u,v(x,D)=v
+\},diff(subs(\{u=u(x,D),v=v(x,D)\},subs(system_derivate_binary_tree,dx
+u)),x)))),\n" }{MPLTEXT 1 0 187 "   dxxv=factor(subs(system_derivate_b
+inary_tree,subs(\{diff(u(x,D),x)=dxu,diff(v(x,D),x)=dxv,u(x,D)=u,v(x,D
+)=v\},diff(subs(\{u=u(x,D),v=v(x,D)\},subs(system_derivate_binary_tree
+,dxv)),x)))),\n" }{MPLTEXT 1 0 187 "   dxyu=factor(subs(system_derivat
+e_binary_tree,subs(\{diff(u(x,D),x)=dxu,diff(v(x,D),x)=dxv,u(x,D)=u,v(
+x,D)=v\},diff(subs(\{u=u(x,D),v=v(x,D)\},subs(system_derivate_binary_t
+ree,dyu)),x)))),\n" }{MPLTEXT 1 0 187 "   dxyv=factor(subs(system_deri
+vate_binary_tree,subs(\{diff(u(x,D),x)=dxu,diff(v(x,D),x)=dxv,u(x,D)=u
+,v(x,D)=v\},diff(subs(\{u=u(x,D),v=v(x,D)\},subs(system_derivate_binar
+y_tree,dyv)),x)))),\n" }{MPLTEXT 1 0 187 "   dyyu=factor(subs(system_d
+erivate_binary_tree,subs(\{diff(u(x,D),D)=dyu,diff(v(x,D),D)=dyv,u(x,D
+)=u,v(x,D)=v\},diff(subs(\{u=u(x,D),v=v(x,D)\},subs(system_derivate_bi
+nary_tree,dyu)),D)))),\n" }{MPLTEXT 1 0 186 "   dyyv=factor(subs(syste
+m_derivate_binary_tree,subs(\{diff(u(x,D),D)=dyu,diff(v(x,D),D)=dyv,u(
+x,D)=u,v(x,D)=v\},diff(subs(\{u=u(x,D),v=v(x,D)\},subs(system_derivate
+_binary_tree,dyv)),D))))\n" }{MPLTEXT 1 0 2 "\};" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "<(/I%dxxuG6\",$**I\"DG6$%*protectedGI(_syslibGF%\"\"$,&\"
+\"\"F.I\"vGF%F.F,,8*(I\"xGF%F.F(F.F/\"\"#!\"\"**F2F.F(F3F/F.I\"uGF%F3
+\"\"'**F2F.F(F3F/F.F6F.\"#7*(F2F.F(F.F/F.!\"#*(F2F.F(F3F/F.F7F;F.*(F2F
+.F(F3F6F3F7F6F;*(F2F.F(F3F6F.F9*&F2F.F(F3F7*&F2F.F(F.F4F.,,F4F.F?\"\"%
+F>FBF<FBF8FB!\"$FB/I%dxxvGF%,$**F(F,F-F,,<*(F2F.F(F,F/F.\"#CF/F4**F2F.
+F(F,F/F.F6F3\"#s**F2F.F(F,F/F.F6F.FL**F2F.F(F,F/F.F6F,FJF4F.*&F2F.F(F,
+FJ*&F(F.F6F.!#;F(!\")*&F(F.F6F3FR*(F2F.F(F,F6F,FJ*(F2F.F(F,F6F.FL*(F2F
+.F(F,F6F3FLF.FAFCF3/I%dxyuGF%*(F-F.,doF4F.F(F;F/F4F8FRFP!\"%F?FenF>Fen
+F<FRFSF;**F2F.F(F3F/F3F6F.Fen*(F2F.F(F3F/F3FenFOFBFUF9FIFBFVF9FTFB*(F2
+F3F(FBF6F.\"#K*(F2F3F(FBF/F.\"#[*(F2F3F(FBF6F3\"#;*(F2F3F(FBF/F3F[o*(F
+2F3F(FBF/F,F]oFMF9FKF9FNFB**F2F3F(FBF/F.F6F.\"#'***F2F3F(FBF6F3F/F.F[o
+**F2F3F(FBF/F3F6F.Fao**F2F3F(FBF/F3F6F3F[o**F2F3F(FBF/F,F6F.Fin**F2F3F
+(FBF/F,F6F3F]o*&F2F3F(FBF]o*&F2F3F(F,Fen*(F2F3F(F,F/F.FQ*(F2F3F(F,F/F3
+!#C*(F2F3F(F,F/F,FQ*(F2F3F(F,F/FBFenF.FAFC/I%dxyvGF%,$**F(F.F-F.,jpF;F
+.F:FCF6F;F(F;F/F;F8\"\")FP!\"'F?F3F5FBF>FBF<FBF@F4FSFdp*&F/F.F6F.F;**F
+/F3F6F3F2F.F(F3F3FfnFBF1FCF=F3FgnF3*(F2F.F(F.F/F,F4FOFBFUF]oFIFBFVFJFT
+F]oFhnFJFjnFJF\\oFJF^oFJF_oFcp*(F(F,F6FBF2F.FB*&F(F.F6F,F;FMF]oFKFJFNF
+]oF`oFLFboFLFcoFLFdoFLFeoFJFfoFJ**F(F,F6FBF2F.F/F.FBFgoFcp**F2F3F(FBF/
+F3F6F,FJ**F2F3F(FBF/F,F6F,Fcp**F2F3F(FBF/F.F6F,FJ*(F2F3F(FBF6F,FcpF.FA
+FCF3/I%dyyuGF%,$*(F2F.,\\tF;F.F:F[p**F2F.F(F.F/F.F6F.F[pF6FenF(F4F/F;F
+8F[pFPFenF?FenF5F[p**F2F.F(F3F/F.F6F,FR**F2F.F(F.F6F.F/F3F[pF>!#7F<FRF
+@FR*(F2F.F(F.F6F.FRFSFdp*&F/F.F6F3F;FepFenFfpFgqFfnFgqF1F[pF=Fgq*(F2F.
+F(F3F6F,FenFgnFenFgpFRFhnFaoFjnFLF\\o\"$W\"F^oFLF_oFJ*$F6F3F;FipFen**F
+/F3F6F,F2F.F(F3Fen**F6F.F2F.F(F.F/F,FRF`o\"$)GFbo\"$K%FcoF_rFdoF`rFeoF
+aoFfoF[rFgoFJFho\"#?Fio\"#!)Fjo\"$?\"F\\pFbrF]pFar**F2F3F(F,F/F.F6F.\"
+$g\"**F2F3F(F,F/F3F6F.\"$S#**F2F3F(F,F/F,F6F.Fer**F2F3F(F,F/FBF6F.\"#S
+**F2F3F(F,F/F3F6F3Fcr**F2F3F(F,F/F,F6F3Fbr**F2F3F(F,F/F.F6F3Fbr**F2F3F
+(F,F6F3F/FBFarF[qF_rF\\qFaoF]qF_r*(F2F3F(F,F6F.Fjr*(F2F3F(F3F/F3!#?*(F
+2F3F(F3F/F.!#5*(F2F3F(F3F/F,Fas*(F2F3F(F3F/FBFcs*(F2F3F(F,F6F3Far*(F2F
+3F(F3F/\"\"&F;F^qFao*&F2F3F(F3F;*&F(F.F6FBF4**F2F3F(FBF/F.F6FBFL**F2F3
+F(FBF/F3F6FBFL**F/F,F6FBF2F3F(FBFJ*(F2F3F(FBF6FBFJF.FAFCF3/I%dyyvGF%,$
+*(F2F.,\\tF;F.F:Fen*(F(F.F/F.F6F3F[p*(F(F.F/F.F6F.F[pF6F;F(FRF/FenF8F[
+p*$F/F3F;FPF[p*&F(F.F/F.FRF?Fen**F/F,F2F.F(F3F6F.FRF5FgqF>FRF<Fgq*&F(F
+3F6F.FcsF@F4FSF[pFepFenFfpFgqFfnF[p*(F(F.F/F.F6F,FRF1FdpF=FenFgnFgqFgp
+Fen*&F(F3F6F3FasFOFar*(F/F,F2F.F(F3FenFUFbrFIFjrFVFcrFTFbr*(F2F.F(F,F/
+F3FarFhnFLFjnFaoF\\oFLF^oF[rF_oFao*(F/FBF2F3F(FBFJFhpFar*(F2F.F(F.F/FB
+F4*$F(F3F;*&F6F.F/F3F;FipFRFMFerFKFgrFNFer**F/F3F6F3F2F.F(F,Fcr**F2F.F
+(F,F/F3F6F.Fbr**F/F3F6F,F2F.F(F,FbrF`oF_rFboF_rFcoF`rFdoF`rFeoF_rFfoF_
+r**F/FBF2F3F(FBF6F.FL**F/FBF2F3F(FBF6F3FLFjpFjr**F(F,F/F3F6FBF2F.Far**
+F6F3F/F,F2F.F(F3FenFgoFJF[qF[rF\\qFaoF]qFao**F2F3F(FBF6F,F/FBFJF^qFJ*&
+F(F3F6F,Fas*&F(F3F6FBFcs*&F(F3F6FhsF;F.FAFCF3" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 35 "system_tri_derivate_binary_tree:=\{\n" }{MPLTEXT
+ 1 0 1 "\n" }{MPLTEXT 1 0 189 "dxxxu=factor(subs(system_derivate_binar
+y_tree,subs(\{diff(u(x,D),x)=dxu,diff(v(x,D),x)=dxv,u(x,D)=u,v(x,D)=v
+\},diff(subs(\{u=u(x,D),v=v(x,D)\},subs(system_bi_derivate_binary_tree
+,dxxu)),x)))),\n" }{MPLTEXT 1 0 189 "dxxxv=factor(subs(system_derivate
+_binary_tree,subs(\{diff(u(x,D),x)=dxu,diff(v(x,D),x)=dxv,u(x,D)=u,v(x
+,D)=v\},diff(subs(\{u=u(x,D),v=v(x,D)\},subs(system_bi_derivate_binary
+_tree,dxxv)),x)))),\n" }{MPLTEXT 1 0 189 "dxxyu=factor(subs(system_der
+ivate_binary_tree,subs(\{diff(u(x,D),x)=dxu,diff(v(x,D),x)=dxv,u(x,D)=
+u,v(x,D)=v\},diff(subs(\{u=u(x,D),v=v(x,D)\},subs(system_bi_derivate_b
+inary_tree,dxyu)),x)))),\n" }{MPLTEXT 1 0 189 "dxxyv=factor(subs(syste
+m_derivate_binary_tree,subs(\{diff(u(x,D),x)=dxu,diff(v(x,D),x)=dxv,u(
+x,D)=u,v(x,D)=v\},diff(subs(\{u=u(x,D),v=v(x,D)\},subs(system_bi_deriv
+ate_binary_tree,dxyv)),x)))),\n" }{MPLTEXT 1 0 189 "dxyyu=factor(subs(
+system_derivate_binary_tree,subs(\{diff(u(x,D),x)=dxu,diff(v(x,D),x)=d
+xv,u(x,D)=u,v(x,D)=v\},diff(subs(\{u=u(x,D),v=v(x,D)\},subs(system_bi_
+derivate_binary_tree,dyyu)),x)))),\n" }{MPLTEXT 1 0 189 "dxyyv=factor(
+subs(system_derivate_binary_tree,subs(\{diff(u(x,D),x)=dxu,diff(v(x,D)
+,x)=dxv,u(x,D)=u,v(x,D)=v\},diff(subs(\{u=u(x,D),v=v(x,D)\},subs(syste
+m_bi_derivate_binary_tree,dyyv)),x)))),\n" }{MPLTEXT 1 0 189 "dyyyu=fa
+ctor(subs(system_derivate_binary_tree,subs(\{diff(u(x,D),D)=dyu,diff(v
+(x,D),D)=dyv,u(x,D)=u,v(x,D)=v\},diff(subs(\{u=u(x,D),v=v(x,D)\},subs(
+system_bi_derivate_binary_tree,dyyu)),D)))),\n" }{MPLTEXT 1 0 188 "dyy
+yv=factor(subs(system_derivate_binary_tree,subs(\{diff(u(x,D),D)=dyu,d
+iff(v(x,D),D)=dyv,u(x,D)=u,v(x,D)=v\},diff(subs(\{u=u(x,D),v=v(x,D)\},
+subs(system_bi_derivate_binary_tree,dyyv)),D))))\n" }{MPLTEXT 1 0 2 "
+\}:" }}}}{SECT 0 {PARA 231 "" 0 "" {TEXT 218 59 "Expressions of genera
+ting functions of 3-connected networks" }}{EXCHG {PARA 228 "" 0 "" 
+{TEXT 219 468 "K is the generating function of networks such that the \+
+associated graph, obtained by adding the root edge, is 3-connected. K \+
+is equal to M/(2*x^2*y). We obtain expressions of K and its partial de
+rivatives with respect to the generating functions of bicolored binary
+ trees. As they will be evaluated at (x,D) in the systems given after,
+ we replace y by D. These expressions will be placed in the systems ve
+rified by networks, pointed networks, and bi-pointed networks.\n" }}}
+{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 102 "system_3_connected:=\{K=s
+ubs(y=D,1/(2*x^2*y)*x^2*y^2*(1/(1+x*y)+1/(1+y)-1-(1+u)^2*(1+v)^2/(1+u+
+v)^3))\};" }}{PARA 11 "" 1 "" {XPPMATH 20 "<#/I\"KG6\",$*&I\"DG6$%*pro
+tectedGI(_syslibG6\"\"\"\",**$,&\"\"\"\"\"\"*&I\"xG6\"\"\"\"I\"DG6$%*p
+rotectedGI(_syslibG6\"\"\"\"\"\"\"!\"\"\"\"\"*$,&\"\"\"\"\"\"I\"DG6$%*
+protectedGI(_syslibG6\"\"\"\"!\"\"\"\"\"!\"\"\"\"\"*(,&\"\"\"\"\"\"I\"
+uG6\"\"\"\"\"\"#,&\"\"\"\"\"\"I\"vG6\"\"\"\"\"\"#,(\"\"\"\"\"\"I\"uG6
+\"\"\"\"I\"vG6\"\"\"\"!\"$!\"\"\"\"\"#\"\"\"\"\"#" }}}{EXCHG {PARA 230
+ "> " 0 "" {MPLTEXT 1 0 31 "system_derivate_3_connected:=\{\n" }
+{MPLTEXT 1 0 162 "dxK=subs(system_derivate_binary_tree,subs(\{diff(u(x
+,D),x)=dxu,diff(v(x,D),x)=dxv,u(x,D)=u,v(x,D)=v\},diff(subs(u=u(x,D),v
+=v(x,D),subs(system_3_connected,K)),x))),\n" }{MPLTEXT 1 0 161 "dyK=su
+bs(system_derivate_binary_tree,subs(\{diff(u(x,D),D)=dyu,diff(v(x,D),D
+)=dyv,u(x,D)=u,v(x,D)=v\},diff(subs(u=u(x,D),v=v(x,D),subs(system_3_co
+nnected,K)),D)))\n" }{MPLTEXT 1 0 2 "\};" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "<$/I$dxKG6\",$*&I\"DG6$%*protectedGI(_syslibGF%\"\"\",**&,&F,F,*&I
+\"xGF%F,F(F,F,!\"#F(F,!\"\"*.,&F,F,I\"uGF%F,F,,&F,F,I\"vGF%F,\"\"#,(F,
+F,F6F,F8F,!\"$F(F,,(F,F,F8F9*$F8F9F,F,,,F3F,*&F1F,F(F9\"\"%*(F1F,F(F9F
+6F,F@*(F1F,F(F9F8F,F@**F1F,F(F9F8F,F6F,F@F3F9*.F5\"\"$F7F,F:F;F(F9F<F,
+F>F3F@**F5F9F7F9F:!\"%,&*(F(F,F<F,F>F3F3**F(F9F5F,F<F,F>F3F2F,FEF,#F,F
+9/I$dyKGF%,,*$F/F3FK*$,&F,F,F(F,F3FK#F3F9F,*(F5F9F7F9F:F;FR*&F(F,,,*&F
+/F2F1F,F3*$FQF2F3*.F5F,F7F9F:F;F1F,,4*(F(F,F8F,F6F9F9F,F,F8F9F=F,*&F(F
+,F6F9F9F(F9*&F(F,F6F,F@*(F(F,F8F,F6F,F@*&F(F,F8F,F9F,F>F3F9*,F5F9F7F,F
+:F;,4F,F,*(F1F,F(F,F8F,F@**F1F,F(F,F8F,F6F,F@F6F9**F1F,F(F,F6F,F8F9F9F
+0F9*(F1F,F(F,F6F,F9*(F1F,F(F,F8F9F9*$F6F9F,F,F>F3F9**F5F9F7F9F:FG,&*(F
+1F,FYF,F>F3F3*&FjnF,F>F3F3F,FEF,FK" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 34 "system_bi_derivate_3_connected:=\{\n" }{MPLTEXT 1 0 
+174 "dxxK=subs(system_derivate_binary_tree,subs(\{diff(u(x,D),x)=dxu,d
+iff(v(x,D),x)=dxv,u(x,D)=u,v(x,D)=v\},diff(subs(u=u(x,D),v=v(x,D),subs
+(system_derivate_3_connected,dxK)),x))),\n" }{MPLTEXT 1 0 174 "dxyK=su
+bs(system_derivate_binary_tree,subs(\{diff(u(x,D),x)=dxu,diff(v(x,D),x
+)=dxv,u(x,D)=u,v(x,D)=v\},diff(subs(u=u(x,D),v=v(x,D),subs(system_deri
+vate_3_connected,dyK)),x))),\n" }{MPLTEXT 1 0 173 "dyyK=subs(system_de
+rivate_binary_tree,subs(\{diff(u(x,D),D)=dyu,diff(v(x,D),D)=dyv,u(x,D)
+=u,v(x,D)=v\},diff(subs(u=u(x,D),v=v(x,D),subs(system_derivate_3_conne
+cted,dyK)),D)))\n" }{MPLTEXT 1 0 2 "\}:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 35 "system_tri_derivate_3_connected:=\{\n" }{MPLTEXT 1 0 
+179 "dxxxK=subs(system_derivate_binary_tree,subs(\{diff(u(x,D),x)=dxu,
+diff(v(x,D),x)=dxv,u(x,D)=u,v(x,D)=v\},diff(subs(u=u(x,D),v=v(x,D),sub
+s(system_bi_derivate_3_connected,dxxK)),x))),\n" }{MPLTEXT 1 0 179 "dx
+xyK=subs(system_derivate_binary_tree,subs(\{diff(u(x,D),x)=dxu,diff(v(
+x,D),x)=dxv,u(x,D)=u,v(x,D)=v\},diff(subs(u=u(x,D),v=v(x,D),subs(syste
+m_bi_derivate_3_connected,dxyK)),x))),\n" }{MPLTEXT 1 0 179 "dxyyK=sub
+s(system_derivate_binary_tree,subs(\{diff(u(x,D),D)=dyu,diff(v(x,D),D)
+=dyv,u(x,D)=u,v(x,D)=v\},diff(subs(u=u(x,D),v=v(x,D),subs(system_bi_de
+rivate_3_connected,dxyK)),D))),\n" }{MPLTEXT 1 0 178 "dyyyK=subs(syste
+m_derivate_binary_tree,subs(\{diff(u(x,D),D)=dyu,diff(v(x,D),D)=dyv,u(
+x,D)=u,v(x,D)=v\},diff(subs(u=u(x,D),v=v(x,D),subs(system_bi_derivate_
+3_connected,dyyK)),D)))\n" }{MPLTEXT 1 0 2 "\}:" }}}}{SECT 0 {PARA 231
+ "" 0 "" {TEXT 218 46 "Evaluation of generating functions of networks"
+ }}{SECT 0 {PARA 229 "" 0 "" {TEXT 220 8 "Networks" }}{EXCHG {PARA 230
+ "> " 0 "" {MPLTEXT 1 0 18 "system_network:=\{\n" }{MPLTEXT 1 0 11 "D=
+y+S+P+H,\n" }{MPLTEXT 1 0 15 "S=(y+P+H)*x*D,\n" }{MPLTEXT 1 0 35 "P=y*
+(exp(S+H)-1)+(exp(S+H)-S-H-1),\n" }{MPLTEXT 1 0 5 "H=K,\n" }{MPLTEXT 
+1 0 1 "\n" }{MPLTEXT 1 0 15 "u=x*D*(1+v)^2,\n" }{MPLTEXT 1 0 13 "v=D*(
+1+u)^2,\n" }{MPLTEXT 1 0 56 "K=1/2*D*(1/(1+x*D)+1/(1+D)-1-(1+u)^2*(1+v
+)^2/(1+u+v)^3)\n" }{MPLTEXT 1 0 2 "\};" }}{PARA 11 "" 1 "" {XPPMATH 20
+ "<)/I\"DG6$%*protectedGI(_syslibG6\",*I\"yGF(\"\"\"I\"SGF(F+I\"PGF(F+
+I\"HGF(F+/F.I\"KGF(/F0,$*&F$F+,**$,&F+F+*&I\"xGF(F+F$F+F+!\"\"F+*$,&F+
+F+F$F+F9F+F9F+*(,&F+F+I\"uGF(F+\"\"#,&F+F+I\"vGF(F+F?,(F+F+F>F+FAF+!\"
+$F9F+#F+F?/F-,,*&F*F+,&-I$expGF%6#,&F,F+F.F+F+F9F+F+F+FIF+F,F9F.F9F9F+
+/F,*(,(F*F+F-F+F.F+F+F8F+F$F+/F>*(F8F+F$F+F@F?/FA*&F$F+F=F?" }}}
+{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 26 "eval_network:=proc(x0,y0)
+\n" }{MPLTEXT 1 0 23 "global system_network:\n" }{MPLTEXT 1 0 58 "fsol
+ve(subs(\{x=x0,y=y0\},system_network),\{u,v,K,S,P,H,D\});\n" }{MPLTEXT
+ 1 0 9 "end proc;" }}{PARA 11 "" 1 "" {XPPMATH 20 "f*6$I#x0G6\"I#y0GF%
+F%F%F%-I'fsolveGF%6$-I%subsG%*protectedG6$<$/I\"xGF%9$/I\"yGF%9%I/syst
+em_networkGF%<)I\"DG6$F,I(_syslibGF%I\"HGF%I\"KGF%I\"PGF%I\"SGF%I\"uGF
+%I\"vGF%F%6#F5F%" }}}}{SECT 0 {PARA 229 "" 0 "" {TEXT 220 17 "Derivate
+ networks" }}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 29 "equation_deri
+vate_network:=\{\n" }{MPLTEXT 1 0 13 "dD=dS+dP+dH,\n" }{MPLTEXT 1 0 
+39 "dS=(dP+dH)*x*D+(y+P+H)*D+(y+P+H)*x*dD,\n" }{MPLTEXT 1 0 44 "dP=y*(
+dS+dH)*exp(S+H)+(dS+dH)*(exp(S+H)-1),\n" }{MPLTEXT 1 0 14 "dH=dxK+dD*d
+yK\n" }{MPLTEXT 1 0 2 "\};" }}{PARA 11 "" 1 "" {XPPMATH 20 "<&/I#dDG6
+\",(I#dSGF%\"\"\"I#dPGF%F(I#dHGF%F(/F*,&I$dxKGF%F(*&F$F(I$dyKGF%F(F(/F
+),&*(I\"yGF%F(,&F'F(F*F(F(-I$expG6$%*protectedGI(_syslibGF%6#,&I\"SGF%
+F(I\"HGF%F(F(F(*&F4F(,&F5F(!\"\"F(F(F(/F',(*(,&F)F(F*F(F(I\"xGF%F(I\"D
+GF7F(F(*&,(F3F(I\"PGF%F(F=F(F(FFF(F(*(FHF(FEF(F$F(F(" }}}{EXCHG {PARA 
+230 "> " 0 "" {MPLTEXT 1 0 72 "system_derivate_network:=solve(equation
+_derivate_network,\{dD,dS,dP,dH\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "<
+&/I#dDG6\",$*(-I$expG6$%*protectedGI(_syslibGF%6#,&I\"SGF%\"\"\"I\"HGF
+%F0F0,6**I\"xGF%F0I$dxKGF%F0I\"DGF*F0I\"yGF%F0F0*&F6F0F7F0F0*(F6F0F1F0
+F7F0F0*(F6F0I\"PGF%F0F7F0F0*&F6F0F1F0F0*&F6F0F;F0F0*&F6F0F7\"\"#F0F5F0
+*(F4F0F5F0F6F0F0*&F5F0F7F0F0F0,>*(F4F0F(F0F7F0F0*(F4F0F(F0F7F?F0*(F4F0
+F(F0F;F0F0**F4F0F(F0F;F0F7F0F0*(F4F0F(F0F1F0F0**F4F0F(F0F1F0F7F0F0*(F4
+F0F(F0F6F0F0**F4F0F(F0F6F0F7F0F0*(F7F0F(F0I$dyKGF%F0F0*&F(F0FLF0F0!\"
+\"F0*,F4F0F6F0F7F0F(F0FLF0F0**F4F0F6F0F(F0FLF0F0*&F4F0F6F0FNFNFN/I#dHG
+F%,$*&FBFN,BF5F0F@F0**F(F0F6F0F1F0FLF0F0*,F(F0F6F0F1F0FLF0F7F0F0**F(F0
+F4F0F5F0F7F0FN**F(F0F4F0F5F0F7F?FN**F(F0F4F0F5F0F;F0FN*,F(F0F4F0F5F0F;
+F0F7F0FN**F(F0F4F0F5F0F1F0FN*,F(F0F4F0F5F0F1F0F7F0FN**F(F0F4F0F5F0F6F0
+FN*,F(F0F4F0F5F0F6F0F7F0FN**F(F0F6F0F;F0FLF0F0*,F(F0F6F0F;F0FLF0F7F0F0
+**F6F0F7F0F(F0FLF0F0**F(F0F6F0F7F?FLF0F0F0FN/I#dPGF%,$*&,@FjnF0*(F(F0F
+6F0F7F0F0**F(F0F6F0F1F0F7F0F0**F(F0F6F0F;F0F7F0F0F<FNF=FNF8FN*(F(F0F6F
+0F1F0F0*(F(F0F6F0F;F0F0*(F(F0F6F0F7F?F0*&F(F0F5F0F0FinF0*(F(F0F5F0F7F0
+F0F5FNF@FNF0FBFNFN/I#dSGF%*&,DFZFNF^oF0FjnFNFhnFNFYFNF]oF0FfnFNFXF0F
+\\oF0F8FNFinFNF[oF0FenFNFgnFNFWF0F<FNF=FNF0FBFN" }}}{EXCHG {PARA 230 "
+> " 0 "" {MPLTEXT 1 0 35 "eval_derivate_network:=proc(x0,y0)\n" }
+{MPLTEXT 1 0 57 "local solutions_network, solutions_derivate_3_connect
+ed:\n" }{MPLTEXT 1 0 61 "global system_derivate_network, system_deriva
+te_3_connected:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 40 "solutions_ne
+twork:=eval_network(x0,y0):\n" }{MPLTEXT 1 0 108 "solutions_derivate_3
+_connected:=evalf(subs(\{x=x0,y=y0,op(solutions_network)\},system_deri
+vate_3_connected)):\n" }{MPLTEXT 1 0 107 "evalf(subs(\{x=x0,y=y0,op(so
+lutions_network),op(solutions_derivate_3_connected)\},system_derivate_
+network)):\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 9 "end proc;" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "f*6$I#x0G6\"I#y0GF%6$I2solutions_network
+GF%I?solutions_derivate_3_connectedGF%F%F%C%>8$-I-eval_networkGF%6$9$9
+%>8%-I&evalfG%*protectedG6#-I%subsGF66$<%-I#opGF66#F,/I\"xGF%F0/I\"yGF
+%F1I<system_derivate_3_connectedGF%-F56#-F96$<&F<-F=6#F3F?FAI8system_d
+erivate_networkGF%F%6$FKFCF%" }}}}{SECT 0 {PARA 229 "" 0 "" {TEXT 220 
+20 "Bi-derivate networks" }}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 
+32 "equation_bi_derivate_network:=\{\n" }{MPLTEXT 1 0 17 "ddD=ddS+ddP+
+ddH,\n" }{MPLTEXT 1 0 73 "ddS=(ddP+ddH)*x*D+2*(dP+dH)*D+2*(dP+dH)*x*dD
++2*(y+P+H)*dD+(y+P+H)*x*ddD,\n" }{MPLTEXT 1 0 89 "ddP=y*(ddS+ddH)*exp(
+S+H)+y*(dS+dH)^2*exp(S+H)+(ddS+ddH)*(exp(S+H)-1)+(dS+dH)^2*exp(S+H),\n
+" }{MPLTEXT 1 0 43 "ddH=dxxK+dD*dxyK+ddD*dyK+dD*dxyK+dD^2*dyyK\n" }
+{MPLTEXT 1 0 3 "\}:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 82 "sy
+stem_bi_derivate_network:=solve(equation_bi_derivate_network,\{ddD,ddS
+,ddP,ddH\}):" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 38 "eval_bi_d
+erivate_network:=proc(x0,y0)\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 
+120 "local solutions_network, solutions_derivate_network, solutions_de
+rivate_3_connected, solutions_bi_derivate_3_connected:\n" }{MPLTEXT 1 
+0 1 "\n" }{MPLTEXT 1 0 95 "global system_bi_pointed_network, system_de
+rivate_3_connected, system_bi_derivate_3_connected:\n" }{MPLTEXT 1 0 
+1 "\n" }{MPLTEXT 1 0 40 "solutions_network:=eval_network(x0,y0):\n" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 108 "solutions_derivate_3_connected:
+=evalf(subs(\{x=x0,y=y0,op(solutions_network)\},system_derivate_3_conn
+ected)):\n" }{MPLTEXT 1 0 114 "solutions_bi_derivate_3_connected:=eval
+f(subs(\{x=x0,y=y0,op(solutions_network)\},system_bi_derivate_3_connec
+ted)):\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 135 "solutions_derivate_n
+etwork:=evalf(subs(\{x=x0,y=y0,op(solutions_network),op(solutions_deri
+vate_3_connected)\},system_derivate_network)):\n" }{MPLTEXT 1 0 1 "\n"
+ }{MPLTEXT 1 0 179 "evalf(subs(\{x=x0,y=y0,op(solutions_network),op(so
+lutions_derivate_network),op(solutions_derivate_3_connected),op(soluti
+ons_bi_derivate_3_connected)\},system_bi_derivate_network)):\n" }
+{MPLTEXT 1 0 9 "end proc:" }}}}{SECT 0 {PARA 0 "" 0 "" {TEXT 220 21 "T
+ri-derivate networks" }{TEXT 228 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 32 "equation_bi_derivate_network:=\{\n" }{MPLTEXT 1 0 17 
+"ddD=ddS+ddP+ddH,\n" }{MPLTEXT 1 0 73 "ddS=(ddP+ddH)*x*D+2*(dP+dH)*D+2
+*(dP+dH)*x*dD+2*(y+P+H)*dD+(y+P+H)*x*ddD,\n" }{MPLTEXT 1 0 89 "ddP=y*(
+ddS+ddH)*exp(S+H)+y*(dS+dH)^2*exp(S+H)+(ddS+ddH)*(exp(S+H)-1)+(dS+dH)^
+2*exp(S+H),\n" }{MPLTEXT 1 0 43 "ddH=dxxK+dD*dxyK+ddD*dyK+dD*dxyK+dD^2
+*dyyK\n" }{MPLTEXT 1 0 3 "\}:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 33 "equation_tri_derivate_network:=\{\n" }{MPLTEXT 1 0 21 "dddD=dd
+dS+dddP+dddH,\n" }{MPLTEXT 1 0 195 "dddS=(dddP+dddH)*x*D+(ddP+ddH)*D+(
+ddP+ddH)*x*dD +2*(ddP+ddH)*D+2*(dP+dH)*dD   + 2*(ddP+ddH)*x*dD+2*(dP+d
+H)*dD+2*(dP+dH)*x*ddD+2*(dP+dH)*dD+2*(y+P+H)*ddD+(dP+dH)*x*ddD+(y+P+H)
+*ddD+(y+P+H)*x*dddD,\n" }{MPLTEXT 1 0 219 "dddP=y*(dddS+dddH)*exp(S+H)
++y*(ddS+ddH)*(dS+dH)*exp(S+H)   +2*y*(ddS+ddH)*(dS+dH)*exp(S+H)+y*(dS+
+dH)^3*exp(S+H)   +(dddS+dddH)*(exp(S+H)-1)+(ddS+ddH)*(dS+dH)*exp(S+H) \+
+  +2*(ddS+ddH)*(dS+dH)*exp(S+H)+(dS+dH)^3*exp(S+H),\n" }{MPLTEXT 1 0 
+6 "dddH=\n" }{MPLTEXT 1 0 146 "dxxxK+dD*dxxyK+ddD*dxyK+dD*dxxyK+dD^2*d
+xyyK +dddD*dyK+ddD*dxyK+ddD*dD*dyyK   +ddD*dxyK+dD*dxxyK+dD^2*dxyyK   \+
++2*ddD*dD*dyyK+dD^2*dxyyK+dD^3*dyyyK\n" }{MPLTEXT 1 0 3 "\}:\n" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 88 "system_tri_derivate_network:
+=solve(equation_tri_derivate_network,\{dddD,dddS,dddP,dddH\}):" }}}
+{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 39 "eval_tri_derivate_network:
+=proc(x0,y0)\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 217 "local solution
+s_network, solutions_derivate_network, solutions_bi_derivate_network, \+
+solutions_derivate_3_connected, solutions_bi_derivate_3_connected, sol
+utions_tri_derivate_3_connected, system_tri_derivate_networks:\n" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 123 "global system_bi_pointed_networ
+k, system_tri_pointed_network, system_derivate_3_connected, system_bi_
+derivate_3_connected:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 40 "soluti
+ons_network:=eval_network(x0,y0):\n" }{MPLTEXT 1 0 108 "solutions_deri
+vate_3_connected:=evalf(subs(\{x=x0,y=y0,op(solutions_network)\},syste
+m_derivate_3_connected)):\n" }{MPLTEXT 1 0 114 "solutions_bi_derivate_
+3_connected:=evalf(subs(\{x=x0,y=y0,op(solutions_network)\},system_bi_
+derivate_3_connected)):\n" }{MPLTEXT 1 0 116 "solutions_tri_derivate_3
+_connected:=evalf(subs(\{x=x0,y=y0,op(solutions_network)\},system_tri_
+derivate_3_connected)):\n" }{MPLTEXT 1 0 135 "solutions_derivate_netwo
+rk:=evalf(subs(\{x=x0,y=y0,op(solutions_network),op(solutions_derivate
+_3_connected)\},system_derivate_network)):\n" }{MPLTEXT 1 0 210 "solut
+ions_bi_derivate_network:=evalf(subs(\{x=x0,y=y0,op(solutions_network)
+,op(solutions_derivate_network),op(solutions_derivate_3_connected),op(
+solutions_bi_derivate_3_connected)\},system_bi_derivate_network)):\n" 
+}{MPLTEXT 1 0 278 "system_tri_derivate_networks:=subs(\{x=x0,y=y0,op(s
+olutions_network),op(solutions_derivate_network),op(solutions_bi_deriv
+ate_network),op(solutions_derivate_3_connected),op(solutions_bi_deriva
+te_3_connected),op(solutions_tri_derivate_3_connected)\},equation_tri_
+derivate_network):\n" }{MPLTEXT 1 0 60 "fsolve(system_tri_derivate_net
+works,\{dddD,dddS,dddP,dddH\}):\n" }{MPLTEXT 1 0 9 "end proc:" }}}}}
+{SECT 0 {PARA 231 "" 0 "" {TEXT 218 52 "Bender-Gao-Wormald singularity
+ analysis of x->D(x,y)" }}{SECT 0 {PARA 229 "" 0 "" {TEXT 220 36 "Find
+ing the singularity of x->D(x,y)" }}{EXCHG {PARA 228 "" 0 "" {TEXT 
+219 89 "We follow the notations of Gimenez-Noy for the system giving t
+he singularity of x->D(x,y)" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 
+0 31 "system_singularity_networks:=\{\n" }{MPLTEXT 1 0 30 "xsi=(1+3*t)
+*(1-t)^3/(16*t^3),\n" }{MPLTEXT 1 0 90 "Y=(1+2*t)/((1+3*t)*(1-t))*exp(
+-(t^2*(1-t)*(18+36*t+5*t^2))/(2*(3+t)*(1+2*t)*(1+3*t)^2))-1\n" }
+{MPLTEXT 1 0 2 "\}:" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 27 "fi
+nd_singularity:=proc(Y0)\n" }{MPLTEXT 1 0 56 "fsolve(subs(Y=Y0,system_
+singularity_networks),\{t,xsi\});\n" }{MPLTEXT 1 0 9 "end proc:" }}}
+{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 20 "find_singularity(1);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#<$/%\"tG$\"I@n6cR]/&y*H*em^kIj;PE'!#S/
+%$xsiG$\"I)QbfBUXSc_6RN8Tpw4\">Q!#T" }}}}{SECT 0 {PARA 229 "" 0 "" 
+{TEXT 220 45 "Development of x->D(x,y) near the singularity" }}{EXCHG 
+{PARA 230 "> " 0 "" {MPLTEXT 1 0 21 "system_alpha_beta:=\{\n" }
+{MPLTEXT 1 0 45 "alpha=144+592*t+664*t^2+135*t^3+6*t^4-5*t^5,\n" }
+{MPLTEXT 1 0 61 "beta=3*t*(1+t)*(400+1808*t+2527*t^2+1155*t^3+237*t^4+
+17*t^5)\n" }{MPLTEXT 1 0 3 "\}:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 
+19 "system_D0_D2_D3:=\{\n" }{MPLTEXT 1 0 27 "D_0=3*t^2/((1-t)*(1+3*t))
+,\n" }{MPLTEXT 1 0 59 "D_2=-(48*t^2*(1+t)*(1+2*t)^2*(18+6*t+t^2))/((1+
+3*t)*beta),\n" }{MPLTEXT 1 0 62 "D_3=384*t^3*(1+t)^2*(1+2*t)^2*(3+t)^2
+*alpha^(3/2)*beta^(-5/2)\n" }{MPLTEXT 1 0 2 "\}:" }}}{EXCHG {PARA 230 
+"> " 0 "" {MPLTEXT 1 0 24 "find_D0_D1_D2:=proc(Y0)\n" }{MPLTEXT 1 0 
+55 "global system_singularity_networks, system_alpha_beta:\n" }
+{MPLTEXT 1 0 29 "local solutions_singularity:\n" }{MPLTEXT 1 0 79 "sol
+utions_singularity:=fsolve(subs(Y=Y0,system_singularity_networks),\{t,
+xsi\}):\n" }{MPLTEXT 1 0 98 "evalf(fsolve(subs(solutions_singularity,s
+ubs(system_alpha_beta,system_D0_D2_D3)),\{D_0,D_2,D_3\}));\n" }
+{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 
+17 "find_D0_D1_D2(1);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#<%/%$D_0G$\"I
+OoN')=)31pFW,&z&)4LY<%4\"!#R/%$D_2G$!I(4(>@g?!z'Q`(*RF1)=CQ\\P\"!#S/%$
+D_3G$\"I&eZ@s-4S:W9aM>'=\"\\SHV&!#T" }}}}{SECT 0 {PARA 229 "" 0 "" 
+{TEXT 220 98 "Comparison between the development of x->D(x,y) and the \+
+evaluation-procedures near the singularity" }}{EXCHG {PARA 228 "" 0 ""
+ {TEXT 219 320 "Here we check that the approximate evluation of x->D(x
+,y) given by the development of Bender-Gao-Wormald corresponds to the \+
+exact evaluation given by our procedures. The argument k stands for th
+e decimal where we trunk the evaluation of the singularity (indeed we \+
+have to evaluate at a value near below the singularity)." }}}{SECT 0 
+{PARA 221 "" 0 "" {TEXT 221 8 "Networks" }}{EXCHG {PARA 230 "> " 0 "" 
+{MPLTEXT 1 0 68 "compare_network_exact_evaluation_approximate_evaluati
+on:=proc(Y0,k)\n" }{MPLTEXT 1 0 42 "local Rk, solutions_singularity, c
+ompare:\n" }{MPLTEXT 1 0 45 "solutions_singularity:=find_singularity(Y
+0):\n" }{MPLTEXT 1 0 45 "Rk:=subs(solutions_singularity,xsi)-10^(-k):
+\n" }{MPLTEXT 1 0 113 "compare[1]:=subs(fsolve(subs(solutions_singular
+ity,subs(system_alpha_beta,system_D0_D2_D3)),\{D_0,D_2,D_3\}),D_0):\n"
+ }{MPLTEXT 1 0 41 "compare[2]:=subs(eval_network(Rk,Y0),D):\n" }
+{MPLTEXT 1 0 36 "approx=compare[1],exact=compare[2];\n" }{MPLTEXT 1 0 
+9 "end proc:" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 62 "compare_n
+etwork_exact_evaluation_approximate_evaluation(2,18);" }}{PARA 11 "" 1
+ "" {XPPMATH 20 "6$/%'approxG$\"Ih;%4EO7]KbFBD3hd4RG5#!#R/%&exactG$\"I
+q:\")estM,$[u.D3hd4RG5#F'" }}}}{SECT 0 {PARA 221 "" 0 "" {TEXT 221 16 
+"Pointed networks" }}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 77 "compa
+re_derivate_network_exact_evaluation_approximate_evaluation:=proc(Y0,k
+)\n" }{MPLTEXT 1 0 69 "local Rk, R, D2, solutions_singularity, solutio
+ns_D0_D2_D3, compare:\n" }{MPLTEXT 1 0 45 "solutions_singularity:=find
+_singularity(Y0):\n" }{MPLTEXT 1 0 36 "R:=subs(solutions_singularity,x
+si):\n" }{MPLTEXT 1 0 15 "Rk:=R-10^(-k):\n" }{MPLTEXT 1 0 111 "solutio
+ns_D0_D2_D3:=fsolve(subs(solutions_singularity,subs(system_alpha_beta,
+system_D0_D2_D3)),\{D_0,D_2,D_3\}):\n" }{MPLTEXT 1 0 34 "D2:=subs(solu
+tions_D0_D2_D3,D_2):\n" }{MPLTEXT 1 0 19 "compare[1]:=-D2/R:\n" }
+{MPLTEXT 1 0 51 "compare[2]:=subs(eval_derivate_network(Rk,Y0),dD):\n"
+ }{MPLTEXT 1 0 36 "approx=compare[1],exact=compare[2];\n" }{MPLTEXT 1 
+0 9 "end proc:" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 71 "compare
+_derivate_network_exact_evaluation_approximate_evaluation(2,12);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6$/%'approxG$\"IueXDH*>^pc7U8?,`CqI&>!#Q
+/%&exactG$\"IfI&*34\\]hw%f!o)fZ%os0`>F'" }}}}{SECT 0 {PARA 221 "" 0 ""
+ {TEXT 221 19 "Bi-pointed networks" }}{EXCHG {PARA 230 "> " 0 "" 
+{MPLTEXT 1 0 80 "compare_bi_derivate_network_exact_evaluation_approxim
+ate_evaluation:=proc(Y0,k)\n" }{MPLTEXT 1 0 69 "local Rk, R, D3, solut
+ions_singularity, solutions_D0_D2_D3, compare:\n" }{MPLTEXT 1 0 45 "so
+lutions_singularity:=find_singularity(Y0):\n" }{MPLTEXT 1 0 36 "R:=sub
+s(solutions_singularity,xsi):\n" }{MPLTEXT 1 0 15 "Rk:=R-10^(-k):\n" }
+{MPLTEXT 1 0 111 "solutions_D0_D2_D3:=fsolve(subs(solutions_singularit
+y,subs(system_alpha_beta,system_D0_D2_D3)),\{D_0,D_2,D_3\}):\n" }
+{MPLTEXT 1 0 34 "D3:=subs(solutions_D0_D2_D3,D_3):\n" }{MPLTEXT 1 0 
+42 "compare[1]:=3*D3/(4*R^2)*(1-Rk/R)^(-1/2):\n" }{MPLTEXT 1 0 55 "com
+pare[2]:=subs(eval_bi_derivate_network(Rk,Y0),ddD):\n" }{MPLTEXT 1 0 
+36 "approx=compare[1],exact=compare[2];\n" }{MPLTEXT 1 0 9 "end proc:"
+ }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 74 "compare_bi_derivate_ne
+twork_exact_evaluation_approximate_evaluation(2,15);" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "6$/%'approxG$\"Iuj!G\"[V7S'R?0zjSNBO=0#!#I/%&exactG$\"
+I0AN?^&*zcZo;V_D)=DN=0#F'" }}}}{SECT 0 {PARA 20 "" 0 "" {TEXT 221 20 "
+Tri-pointed networks" }{TEXT 231 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 81 "compare_tri_derivate_network_exact_evaluation_approxi
+mate_evaluation:=proc(Y0,k)\n" }{MPLTEXT 1 0 69 "local Rk, R, D3, solu
+tions_singularity, solutions_D0_D2_D3, compare:\n" }{MPLTEXT 1 0 45 "s
+olutions_singularity:=find_singularity(Y0):\n" }{MPLTEXT 1 0 36 "R:=su
+bs(solutions_singularity,xsi):\n" }{MPLTEXT 1 0 15 "Rk:=R-10^(-k):\n" 
+}{MPLTEXT 1 0 111 "solutions_D0_D2_D3:=fsolve(subs(solutions_singulari
+ty,subs(system_alpha_beta,system_D0_D2_D3)),\{D_0,D_2,D_3\}):\n" }
+{MPLTEXT 1 0 34 "D3:=subs(solutions_D0_D2_D3,D_3):\n" }{MPLTEXT 1 0 
+42 "compare[1]:=3*D3/(8*R^3)*(1-Rk/R)^(-3/2):\n" }{MPLTEXT 1 0 57 "com
+pare[2]:=subs(eval_tri_derivate_network(Rk,Y0),dddD):\n" }{MPLTEXT 1 
+0 36 "approx=compare[1],exact=compare[2];\n" }{MPLTEXT 1 0 9 "end proc
+:" }{TEXT 232 0 "" }}{PARA 0 "" 0 "" {TEXT 232 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 232 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 75 "compare_tr
+i_derivate_network_exact_evaluation_approximate_evaluation(2,15);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6$/%'approxG$\"I'zh<?@g+#)>g_*=.x;\"=f-
+\"!#:/%&exactG$\"I\\fiF:Gge:)3<u-qn6=f-\"F'" }}}}}}{SECT 0 {PARA 231 "
+" 0 "" {TEXT 218 120 "When generating only networks, calculation of th
+e choose-vectors for the Boltzmann samplers of binary trees and networ
+ks" }}{SECT 0 {PARA 229 "" 0 "" {TEXT 220 34 "Choose of the size of th
+e networks" }}{EXCHG {PARA 220 "" 0 "" {TEXT 228 162 "The real y0 has \+
+to be chosen to give a desired balance between the number of vertices \+
+and number of edges. See the curve of mu(t) given by Bender, Gao and W
+ormald" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 6 "y0:=1;" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%#y0G\"\"\"" }}}{EXCHG {PARA 220 "" 0 "" 
+{TEXT 228 148 "Then we choose a size N around which we want the boltzm
+ann sampler for bi-pointed networks to have a good chance of picking u
+p networks of this size" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 
+11 "N:=1000000:" }}}{EXCHG {PARA 220 "" 0 "" {TEXT 228 209 "We calcula
+te the real x0 for which the Boltzmann sampler of bi-pointed networks \+
+has good chances of picking up networks of this size. This value x0 ve
+rifies x=R(1-1/2N) where R is the singularity of x->D(x,y0)" }}}
+{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 60 "R:=subs(find_singularity(y
+0),xsi); x0:=evalf(R*(1-1/(2*N)));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#
+>%\"RG$\"I)QbfBUXSc_6RN8Tpw4\">Q!#T" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#>%#x0G$\"IqUoLS\"p%o[[&o+D'Qdy5>Q!#T" }}}}{SECT 0 {PARA 219 "" 0 "" 
+{TEXT 224 56 "Calculating the choose-vectors of bicolored binary trees
+" }}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 41 "solutions_networks:=ev
+al_network(x0,y0); " }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%3solutions_ne
+tworksG<)/%\"HG$\"I=0i]'f)HA>;?Pc:4=$oK7#!#U/%\"KG$\"I=0i]'f)HA>;?Pc:4
+=$oK7#!#U/%\"PG$\"I!\\xUs:<kY*G\"*p0.J)=Fi\"[!#T/%\"SG$\"I.X'G')QYZ4,*
+HMIw'pT-*)Q%!#T/%\"uG$\"Iv!pr,WX/uBY(Qz#HSZ\\]J&!#S/%\"vG$\"I^8Ho$p^rY
+)[!>+V7>a%RmD!#R/%\"DG$\"IS?_0MR`n?$z;4(3PkX<%4\"!#R" }}}{EXCHG {PARA 
+230 "> " 0 "" {MPLTEXT 1 0 70 "u_eval:=subs(solutions_networks,u):v_ev
+al:=subs(solutions_networks,v):" }}}{EXCHG {PARA 230 "> " 0 "" 
+{MPLTEXT 1 0 33 "ch_1_or_u:=[evalf(1/(1+u_eval))];" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 "6#>%*ch_1_or_uG7#$\"IM*GoQIc]O-ls;>oL5D&Hl!#S" }}}
+{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 33 "ch_1_or_v:=[evalf(1/(1+v_e
+val))];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%*ch_1_or_vG7#$\"I#f5S0Az=
+fv%e&fm[*\\A&R!G!#S" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "ch_u
+_or_v:=[evalf(u_eval/(u_eval+v_eval))];" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%*ch_u_or_vG7#$\"I>sJ()\\.na2wa'=hudh%p:<!#S" }}}}{SECT 0 
+{PARA 226 "" 0 "" {TEXT 225 64 "Calculating the choose-vectors of poin
+ted bicolored binary trees" }}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 
+95 "solution_derivate_binary_tree:=subs(\{x=x0,op(solutions_networks)
+\},system_derivate_binary_tree);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%
+>solution_derivate_binary_treeG<&/%$dxuG$\"Ii`V\"4cCi`6RNRsaJ`iIK\"!#N
+/%$dxvG$\"I_]e[F5\"[LI/7@tTK5,UV%!#N/%$dyuG$\"Im&Q%H'*>V`'z]_\"f9)H^Jk
+7\"!#O/%$dyvG$\"I;!3HQq:sj$3#eU')QO8Wvx$!#O" }}}{EXCHG {PARA 225 "" 0 
+"" {TEXT 222 133 "Here pU and pV stand for the generating functions of
+ black-rooted and white-rooted bicolored binary trees with a pointed b
+lack vertex" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 228 "dxu_eval:
+=evalf(subs(solution_derivate_binary_tree,dxu)):dxv_eval:=evalf(subs(s
+olution_derivate_binary_tree,dxv)):dyu_eval:=evalf(subs(solution_deriv
+ate_binary_tree,dyu)):dyv_eval:=evalf(subs(solution_derivate_binary_tr
+ee,dyv)):" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 53 "ch_dxu_or_dx
+v:=[evalf(dxu_eval/(dxu_eval+dxv_eval))];" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%.ch_dxu_or_dxvG7#$\"I$=VC@L`q1=F)GJuL&Hv!)H#!#S" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 35 "D_eval:=subs(solutions_netwo
+rks,D);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'D_evalG$\"IS?_0MR`n?$z;4
+(3PkX<%4\"!#R" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 139 "choose_
+vector_dxu_Bernoulli:=[(1+v_eval)^2*D_eval/dxu_eval,x0*D_eval*dxv_eval
+*(1+v_eval)/dxu_eval,(1+v_eval)*x0*D_eval*dxv_eval/dxu_eval];\n" }
+{MPLTEXT 1 0 114 "choose_vector_dxu:=[choose_vector_dxu_Bernoulli[1],c
+hoose_vector_dxu_Bernoulli[1]+choose_vector_dxu_Bernoulli[2]];" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#>%<choose_vector_dxu_BernoulliG7%$\"I+
+pL\"f*z^#\\MzQQe@$Rr(=0\"!#U$\"I;L/-5u`F.133#R.VhSZ*\\!#S$\"I;L/-5u`F.
+133#R.VhSZ*\\!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%2choose_vector_d
+xuG7$$\"I+pL\"f*z^#\\MzQQe@$Rr(=0\"!#U$\"I&ocz**eiCnR>>zg'p&Qf_+&!#S" 
+}}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 25 "choose_vector_dxv:=[0.5
+];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%2choose_vector_dxvG7#$\"\"&!\"
+\"" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 53 "ch_dyu_or_dyv:=[eva
+lf(dyu_eval/(dyu_eval+dyv_eval))];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#
+>%.ch_dyu_or_dyvG7#$\"I@-O%zmRog_R\"*QI%)f:wpH#!#S" }}}{EXCHG {PARA 
+230 "> " 0 "" {MPLTEXT 1 0 126 "choose_vector_dyv_Bernoulli:=[(1+u_eva
+l)^2/dyv_eval,dyu_eval*D_eval*(1+u_eval)/dyv_eval,(1+u_eval)*D_eval*dy
+u_eval/dyv_eval];\n" }{MPLTEXT 1 0 114 "choose_vector_dyv:=[choose_vec
+tor_dyv_Bernoulli[1],choose_vector_dyv_Bernoulli[1]+choose_vector_dyv_
+Bernoulli[2]];" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%<choose_vector_dyv
+_BernoulliG7%$\"IbB.;#[R!*))4+o(pz.#3!34i!#V$\"I#)>*e-[b]**f6:5)*e*fa*
+o*\\!#S$\"I#)>*e-[b]**f6:5)*e*fa*o*\\!#S" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%2choose_vector_dyvG7$$\"IbB.;#[R!*))4+o(pz.#3!34i!#V$\"I9!3T(>
+X%\\+S)[)*=5/SX5.]!#S" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 135 
+"choose_vector_dyu_Bernoulli:=[x0*(1+v_eval)^2/dyu_eval,x0*D_eval*dyv_
+eval*(1+v_eval)/dyu_eval,x0*D_eval*(1+v_eval)*dyv_eval/dyu_eval];\n" }
+{MPLTEXT 1 0 114 "choose_vector_dyu:=[choose_vector_dyu_Bernoulli[1],c
+hoose_vector_dyu_Bernoulli[1]+choose_vector_dyu_Bernoulli[2]];" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#>%<choose_vector_dyu_BernoulliG7%$\"I8
+uJ)Q]jlF$*4Y/Xfb*)oBJ%!#V$\"IWe![#=<O.&pxu-A_b\"Q%y*\\!#S$\"IWe![#=<O.
+&pxu-A_b\"Q%y*\\!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%2choose_vecto
+r_dyuG7$$\"I8uJ)Q]jlF$*4Y/Xfb*)oBJ%!#V$\"IhT>v\"GQm\\IAD(zxW%=c@+&!#S"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 78 "ch_b_or_dxb:=[evalf((u_e
+val+v_eval)/(u_eval+v_eval+x0*dxu_eval+x0*dxv_eval))];" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>%,ch_b_or_dxbG7#$\"IAL\\b1a)[JL&z[9[wus%pS\"!#U" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 95 "ch_3b_or_dyb:=[evalf((3*u
+_eval+3*v_eval)/(3*u_eval+3*v_eval+D_eval*dyu_eval+D_eval*dyv_eval))];
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%-ch_3b_or_dybG7#$\"I')eQqx!>\"Rr
+%G>Pf1nHG!H<!#U" }}}}{SECT 0 {PARA 224 "" 0 "" {TEXT 211 54 "Calculati
+ng the choose-vectors of 3-connected networks" }}{EXCHG {PARA 230 "> "
+ 0 "" {MPLTEXT 1 0 198 "solution_derivate_3_connected:=subs(\{x=x0,op(
+eval_network(x0,y0))\},system_derivate_3_connected);solution_bi_deriva
+te_3_connected:=subs(\{x=x0,op(eval_network(x0,y0))\},system_bi_deriva
+te_3_connected);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%>solution_deriva
+te_3_connectedG<$/%$dyKG$\"IgQ=h*R%)4Se5(f#Q?N)pv!=#!#T/%$dxKG$\"IS!)y
+j4D$RM%3U0C*)*fCd#RD!#S" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%Asolution
+_bi_derivate_3_connectedG<%/%%dxxKG$\"IN.*etm<*z3&es(4gHi;Z6()!#O/%%dx
+yKG$\"Ibzz%[pCMuY4=3Tb$\\rfBu!#P/%%dyyKG$\"I:3pHTwD%=&Q?P`B[J?W>j!#Q" 
+}}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 190 "K_eval:=subs(solutions
+_networks,K);dxK_eval:=subs(solution_derivate_3_connected,dxK);dyK_eva
+l:=subs(solution_derivate_3_connected,dyK);dxyK_eval:=subs(solution_bi
+_derivate_3_connected,dxyK);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'K_e
+valG$\"I=0i]'f)HA>;?Pc:4=$oK7#!#U" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>
+%)dxK_evalG$\"IS!)yj4D$RM%3U0C*)*fCd#RD!#S" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%)dyK_evalG$\"IgQ=h*R%)4Se5(f#Q?N)pv!=#!#T" }}{PARA 11
+ "" 1 "" {XPPMATH 20 "6#>%*dxyK_evalG$\"Ibzz%[pCMuY4=3Tb$\\rfBu!#P" }}
+}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 43 "ch_K_in_dyK:=[evalf(K_eva
+l/(y0*dyK_eval))];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%,ch_K_in_dyKG7
+#$\"IO]#))y]dl>^y2Ee'Gk?QO(*!#T" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 49 "ch_dxK_in_dxyK:=[evalf(dxK_eval/(y0*dxyK_eval))];" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#>%/ch_dxK_in_dxyKG7#$\"I\\Ygh2q^X,fj]y^zQ8_?M!#
+V" }}}}{SECT 0 {PARA 229 "" 0 "" {TEXT 220 42 "Calculating the choose-
+vectors of networks" }}{EXCHG {PARA 220 "" 0 "" {TEXT 228 45 "We recal
+l the system verified by the networks" }}}{EXCHG {PARA 223 "> " 0 "" 
+{MPLTEXT 1 0 29 "system_verified_by_network:=\{" }{MPLTEXT 1 233 1 "\n
+" }{MPLTEXT 1 233 11 "D=y+S+P+H,\n" }{MPLTEXT 1 233 15 "S=(y+P+H)*x*D,
+\n" }{MPLTEXT 1 233 35 "P=y*(exp(S+H)-1)+(exp(S+H)-S-H-1),\n" }
+{MPLTEXT 1 233 5 "H=K\}:" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 
+40 "solutions_networks:=eval_network(x0,y0);" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#>%3solutions_networksG<)/%\"HG$\"I=0i]'f)HA>;?Pc:4=$oK7
+#!#U/%\"KG$\"I=0i]'f)HA>;?Pc:4=$oK7#!#U/%\"PG$\"I!\\xUs:<kY*G\"*p0.J)=
+Fi\"[!#T/%\"SG$\"I.X'G')QYZ4,*HMIw'pT-*)Q%!#T/%\"uG$\"Iv!pr,WX/uBY(Qz#
+HSZ\\]J&!#S/%\"vG$\"I^8Ho$p^rY)[!>+V7>a%RmD!#R/%\"DG$\"IS?_0MR`n?$z;4(
+3PkX<%4\"!#R" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 136 "Deval:=s
+ubs(solutions_networks,D):Seval:=subs(solutions_networks,S):Peval:=sub
+s(solutions_networks,P):Heval:=subs(solutions_networks,H):" }}}{EXCHG 
+{PARA 230 "> " 0 "" {MPLTEXT 1 0 114 "choose_vector_non_trivial_D_Bern
+oulli:=[evalf(Seval/(Deval-y0)),evalf(Peval/(Deval-y0)),evalf(Heval/(D
+eval-y0))];\n" }{MPLTEXT 1 0 154 "choose_vector_non_trivial_D:=[choose
+_vector_non_trivial_D_Bernoulli[1],choose_vector_non_trivial_D_Bernoul
+li[1]+choose_vector_non_trivial_D_Bernoulli[2]];" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#>%Fchoose_vector_non_trivial_D_BernoulliG7%$\"I&p^K$*ej
+eag'4!*eR[j/RgY!#S$\"I*QuLo\"f$y=;DNj)GSC'[T6&!#S$\"IJ'RP$Q\\+jEByjZ:8
+@\"4YD#!#T" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%<choose_vector_non_tri
+vial_DG7$$\"I&p^K$*ejeag'4!*eR[j/RgY!#S$\"I%3Emh]*pLn<iBXo)y3RXx*!#S" 
+}}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 179 "choose_vector_D_Bernou
+lli:=[evalf(y0/Deval),evalf(Seval/Deval),evalf(Peval/Deval),evalf(Heva
+l/Deval)];choose_vector_D[1]+choose_vector_D[2]+choose_vector_D[3]+cho
+ose_vector_D[4];\n" }{MPLTEXT 1 0 193 "choose_vector_D:=[choose_vector
+_D_Bernoulli[1],choose_vector_D_Bernoulli[1]+choose_vector_D_Bernoulli
+[2],choose_vector_D_Bernoulli[1]+choose_vector_D_Bernoulli[2]+choose_v
+ector_D_Bernoulli[3]];" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%:choose_ve
+ctor_D_BernoulliG7&$\"I``!zw`%oyqPl*oA'R3&4$R\"*!#S$\"I)HF&[&GQzt+eqXa
+\"3fP:6S!#T$\"I#o2z&\\!GD\\!G#3-3sO4*p,W!#T$\"IW`6X\")G)o#)z9eD1TGj?0%
+>!#U" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#,*&%0choose_vector_DG6#\"\"\"
+\"\"\"&%0choose_vector_DG6#\"\"#\"\"\"&%0choose_vector_DG6#\"\"$\"\"\"
+&%0choose_vector_DG6#\"\"%\"\"\"" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%
+0choose_vector_DG7%$\"I``!zw`%oyqPl*oA'R3&4$R\"*!#S$\"I$3eFiOyC:df`8Q/
+V)[US&*!#S$\"I^)[&=r6t,_=WP*erOz%f!)**!#S" }}}{EXCHG {PARA 230 "> " 0 
+"" {MPLTEXT 1 0 57 "choose_vector_P:=[evalf(y0*(exp(Seval+Heval)-1))/P
+eval];\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%0choose_vector_PG7#$\"I]
+4.%3J75)*)*o)4h)4FQ)zw(*!#S" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 
+0 116 "ch_y_or_P_or_H_Bernoulli:=[evalf(y0/(y0+Peval+Heval)),evalf(Pev
+al/(y0+Peval+Heval)),evalf(Heval/(y0+Peval+Heval))];\n" }{MPLTEXT 1 0 
+102 "ch_y_or_P_or_H:=[ch_y_or_P_or_H_Bernoulli[1],ch_y_or_P_or_H_Berno
+ulli[1]+ch_y_or_P_or_H_Bernoulli[2]];" }}{PARA 12 "" 1 "" {XPPMATH 20 
+"6#>%9ch_y_or_P_or_H_BernoulliG7%$\"IrPFr^9`lb#R.>&[8%H?7_*!#S$\"I4-#Q
+L>50,0af>T]Y+Oce%!#T$\"I$H?W`*GvTLR`1!p5+a5;-#!#U" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%/ch_y_or_P_or_HG7$$\"IrPFr^9`lb#R.>&[8%H?7_*!#S$\"I#z
+bY5Z#emgY$*4$*)*f%*Qyz**!#S" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 
+0 40 "ch_S_or_H:=[evalf(Seval/(Seval+Heval))];" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%*ch_S_or_HG7#$\"Iw,;&R;?))*f\"=cX08]CV&Q&*!#S" }}}
+{EXCHG {PARA 225 "" 0 "" {TEXT 222 201 "We compute the vector for the \+
+Poisson laws of parameter S+H. Notice that the 1+... is only used to h
+ave an output without exponent notation. When put in the file, the fir
+st 1 has to be replaced by a 0." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 40 "exp_S_plus_H:=evalf(exp(Seval+Heval)): \n" }{MPLTEXT 1 0 36 "p
+oisson_S_plus_H:=[seq(0,i=1..21)]:\n" }{MPLTEXT 1 0 44 "poisson_S_plus
+_H[1]:=evalf(1/exp_S_plus_H):\n" }{MPLTEXT 1 0 113 "for i from 2 to 21
+ do poisson_S_plus_H[i]:=poisson_S_plus_H[i-1]+evalf((Seval+Heval)^(i-
+1)/(i-1)!/exp_S_plus_H);\n" }{MPLTEXT 1 0 4 "od:\n" }{MPLTEXT 1 0 17 "
+poisson_S_plus_H;" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#77$\"I.4C)G&=X3.j
+IZAB@CAI]&*!#S$\"IjJ[vgQ)4/t0,)f$*\\BNt*)**!#S$\"Iwc&e)ekDs>C*4t*[BWJ%
+)****!#S$\"IUqQ4H1cm.f\"G'QO%)*>)******!#S$\"I`LA4wBaZTmn%RkfM)*******
+*!#S$\"IT$[8ef;A!>$G6iHt)**********!#S$\"IB_^(>VITLWTRy;*************!
+#S$\"IO#>Q\"errr@no@&***************!#S$\"IR/l+ma!e'))eb(*************
+****!#S$\"IJBQF9l>!)e())*******************!#S$\"IAiR%z(H_*H&*********
+*************!#S$\"Ie:4G??)>)************************!#S$\"IN#3*>Vi$**
+*************************!#S$\"IA8M]!z*****************************!#S
+$\"Ij&\\d$********************************!#S$\"Ik_\")****************
+******************!#S$\"I-&*************************************!#S$\"
+I+++++++++++++++++++5!#R$\"I+++++++++++++++++++5!#R$\"I+++++++++++++++
+++++5!#R$\"I+++++++++++++++++++5!#R" }}}{EXCHG {PARA 230 "> " 0 "" 
+{MPLTEXT 1 0 53 "exp_at_least_1_S_plus_H:=evalf(exp(Seval+Heval)-1): \+
+\n" }{MPLTEXT 1 0 47 "poisson_at_least_1_S_plus_H:=[seq(0,i=1..21)]:\n
+" }{MPLTEXT 1 0 78 "poisson_at_least_1_S_plus_H[1]:=evalf((Seval+Heval
+)/exp_at_least_1_S_plus_H):\n" }{MPLTEXT 1 0 23 "for i from 2 to 21 do
+ \n" }{MPLTEXT 1 0 116 "poisson_at_least_1_S_plus_H[i]:=poisson_at_lea
+st_1_S_plus_H[i-1]+evalf((Seval+Heval)^i/i!/exp_at_least_1_S_plus_H);
+\n" }{MPLTEXT 1 0 4 "od:\n" }{MPLTEXT 1 0 28 "poisson_at_least_1_S_plu
+s_H;" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#77$\"I<8DLm\"GVin\\HtA%>^Fqr(*
+!#S$\"I6Wg(H&R9Fh\"emY'*RP(>^'***!#S$\"Il\"eG%=\"=J&)H$4sQ0kp*f*****!#
+S$\"I3R/G,<;BN</=2&*=K'*******!#S$\"I([RS/Be@%*>&)pzY#=(*********!#S$
+\"IZY\")H!GLJO')[9^\\\")***********!#S$\"I.*oQG$*=,6esOO*)************
+*!#S$\"It4^^e!)ff7*\\c%****************!#S$\"I&>Mt.#*\\:x-](**********
+********!#S$\"IE(y-C$\\vua*)********************!#S$\"I?<k(yNJ$*f*****
+******************!#S$\"IUOU,IAe)*************************!#S$\"I')G:R
+T`****************************!#S$\"IcHDr&)***************************
+***!#S$\"I)*>*e*********************************!#S$\"II*))***********
+************************!#S$\"I-++++++++++++++++++5!#R$\"I0+++++++++++
++++++++5!#R$\"I0++++++++++++++++++5!#R$\"I0++++++++++++++++++5!#R$\"I0
+++++++++++++++++++5!#R" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 65 
+"exp_at_least_2_S_plus_H:=evalf(exp(Seval+Heval)-Seval-Heval-1): \n" }
+{MPLTEXT 1 0 47 "poisson_at_least_2_S_plus_H:=[seq(0,i=1..21)]:\n" }
+{MPLTEXT 1 0 82 "poisson_at_least_2_S_plus_H[1]:=evalf((Seval+Heval)^2
+/2/exp_at_least_2_S_plus_H):\n" }{MPLTEXT 1 0 23 "for i from 2 to 21 d
+o \n" }{MPLTEXT 1 0 124 "poisson_at_least_2_S_plus_H[i]:=poisson_at_le
+ast_2_S_plus_H[i-1]+evalf((Seval+Heval)^(i+1)/(i+1)!/exp_at_least_2_S_
+plus_H);\n" }{MPLTEXT 1 0 4 "od:\n" }{MPLTEXT 1 0 28 "poisson_at_least
+_2_S_plus_H;" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#77$\"ID&G0M58\\%y:Pwe'
+R1e:s%)*!#S$\"I\\%H?V16#z;!eG5\\o%olC)***!#S$\"I>*Q@Qx=*z\">08_;l*))Q)
+*****!#S$\"InoT!yi?vjHR1G$\\ew)*******!#S$\"IwS8=$=_bnpMh*Q%*=********
+**!#S$\"IEQQ\"HP$*=]b8=5M&************!#S$\"IpN24>KN9tzK>w************
+**!#S$\"IB(Q$f`5CKy00*)****************!#S$\"I&)[VX6Z[G:U&************
+*******!#S$\"Io4RrvYp\\C)*********************!#S$\"I]4Afp!)*y$*******
+*****************!#S$\"I\\SL5Tfz**************************!#S$\"Im2D<u
+$*****************************!#S$\"I,L1?)****************************
+***!#S$\"II$>&**********************************!#S$\"I00+++++++++++++
+++++5!#R$\"IH1+++++++++++++++++5!#R$\"IH1+++++++++++++++++5!#R$\"IH1++
++++++++++++++++5!#R$\"IH1+++++++++++++++++5!#R$\"IH1+++++++++++++++++5
+!#R" }}}}{SECT 0 {PARA 229 "" 0 "" {TEXT 220 51 "Calculating the choos
+e-vectors of derivate networks" }}{EXCHG {PARA 220 "" 0 "" {TEXT 228 
+49 "We recall the system verified by pointed networks" }}}{EXCHG 
+{PARA 230 "> " 0 "" {MPLTEXT 1 0 30 "equations_derivate_network:=\{\n"
+ }{MPLTEXT 1 0 13 "dD=dS+dP+dH,\n" }{MPLTEXT 1 0 39 "dS=(dP+dH)*x*D+(y
++P+H)*D+(y+P+H)*x*dD,\n" }{MPLTEXT 1 0 44 "dP=y*(dS+dH)*exp(S+H)+(dS+d
+H)*(exp(S+H)-1),\n" }{MPLTEXT 1 0 14 "dH=dxK+dD*dyK\n" }{MPLTEXT 1 0 
+2 "\}:" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 56 "solution_deriva
+te_network:=eval_derivate_network(x0,y0);" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#>%:solution_derivate_networkG<&/%#dHG$\"ICZHMI1P1Vm-=!H
+HyNMSK$!#S/%#dPG$\"IeulF]B%esarO=I[!\\yB!)=!#R/%#dDG$\"I>)3EN**)z^MQ-H
+jOB9ak)f$!#R/%#dSG$\"I\"*=_@!e>`Hi\\NCV-%HT+'Q\"!#R" }}}{EXCHG {PARA 
+230 "> " 0 "" {MPLTEXT 1 0 270 "dDeval:=subs(solution_derivate_network
+,dD):dSeval:=subs(solution_derivate_network,dS):dPeval:=subs(solution_
+derivate_network,dP):dHeval:=subs(solution_derivate_network,dH):dxKeva
+l:=subs(solution_derivate_3_connected,dxK):dyKeval:=subs(solution_deri
+vate_3_connected,dyK):" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 94 
+"choose_vector_dD_Bernoulli:=[evalf(dSeval/dDeval),evalf(dPeval/dDeval
+),evalf(dHeval/dDeval)];\n" }{MPLTEXT 1 0 110 "choose_vector_dD:=[choo
+se_vector_dD_Bernoulli[1],choose_vector_dD_Bernoulli[1]+choose_vector_
+dD_Bernoulli[2]];" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%;choose_vector_
+dD_BernoulliG7%$\"Id&>]!y],oA2T.'=)Ru1Y^Q!#S$\"I`&zeN2ud%[oMwQQ*y))[[A
+&!#S$\"Ik*35R[3@')GCC?vzqP/pB*!#T" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>
+%1choose_vector_dDG7$$\"Id&>]!y],oA2T.'=)Ru1Y^Q!#S$\"I5\"**3;:*y8rvvzC
+?Hi&4j2*!#S" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 148 "choose_ve
+ctor_dS_Bernoulli:=[evalf((dPeval+dHeval)*x0*Deval/dSeval),evalf((y0+P
+eval+Heval)*Deval/dSeval),evalf((y0+Peval+Heval)*x0*dDeval/dSeval)];\n
+" }{MPLTEXT 1 0 110 "choose_vector_dS:=[choose_vector_dS_Bernoulli[1],
+choose_vector_dS_Bernoulli[1]+choose_vector_dS_Bernoulli[2]];" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#>%;choose_vector_dS_BernoulliG7%$\"IF`
+rpN2+mI(*yS**Q=\\F1rm!#T$\"IA\\Y>K'QQ\"*>gAN_yEtI9H)!#S$\"I_NcB%Hh&zF3
+m`'3.C*HYT5!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%1choose_vector_dSG
+7$$\"IF`rpN2+mI(*yS**Q=\\F1rm!#T$\"IbkVw0(Q/A<RjM\"pf2q`e*)!#S" }}}
+{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 70 "choose_vector_dP:=[evalf(y
+0*(dSeval+dHeval)*exp(Seval+Heval)/dPeval)];" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%1choose_vector_dPG7#$\"IrE&R)oAMR&)o#[M6)>aZlp&*!#S" 
+}}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 42 "choose_vector_dH:=[eval
+f(dxKeval/dHeval)];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%1choose_vecto
+r_dHG7#$\"Id&=UXV=eOZ\"*>829,V#3Rw!#S" }}}{EXCHG {PARA 230 "> " 0 "" 
+{MPLTEXT 1 0 45 "ch_dP_or_dH:=[evalf(dPeval/(dPeval+dHeval))];" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%,ch_dP_or_dHG7#$\"I-V#eo4><[x%R&)R**
+RAvq(\\)!#S" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 45 "ch_dS_or_d
+H:=[evalf(dSeval/(dSeval+dHeval))];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#>%,ch_dS_or_dHG7#$\"I`f$yBmoVGWn^>O***z4jl!)!#S" }}}}{SECT 0 {PARA 
+229 "" 0 "" {TEXT 220 54 "Calculating the choose-vectors of bi-derivat
+e networks" }}{EXCHG {PARA 220 "" 0 "" {TEXT 228 52 "We recall the sys
+tem verified by bi-pointed networks" }}}{EXCHG {PARA 230 "> " 0 "" 
+{MPLTEXT 1 0 33 "equations_bi_derivate_network:=\{\n" }{MPLTEXT 1 0 
+17 "ddD=ddS+ddP+ddH,\n" }{MPLTEXT 1 0 73 "ddS=(ddP+ddH)*x*D+2*(dP+dH)*
+D+2*(dP+dH)*x*dD+2*(y+P+H)*dD+(y+P+H)*x*ddD,\n" }{MPLTEXT 1 0 89 "ddP=
+y*(ddS+ddH)*exp(S+H)+y*(dS+dH)^2*exp(S+H)+(ddS+ddH)*(exp(S+H)-1)+(dS+d
+H)^2*exp(S+H),\n" }{MPLTEXT 1 0 37 "ddH=dxxK+2*dD*dxyK+ddD*dyK+dD^2*dy
+yK\n" }{MPLTEXT 1 0 2 "\};" }}{PARA 11 "" 1 "" {XPPMATH 20 "<&/I$ddDG6
+\",(I$ddSGF%\"\"\"I$ddPGF%F(I$ddHGF%F(/F*,*I%dxxKGF%F(*&I#dDGF%F(I%dxy
+KGF%F(\"\"#*&F$F(I$dyKGF%F(F(*&F/F1I%dyyKGF%F(F(/F),**(I\"yGF%F(,&F'F(
+F*F(F(-I$expG6$%*protectedGI(_syslibGF%6#,&I\"SGF%F(I\"HGF%F(F(F(*(F9F
+(,&I#dSGF%F(I#dHGF%F(F1F;F(F(*&F:F(,&F;F(!\"\"F(F(F(*&FEF1F;F(F(/F',,*
+(,&F)F(F*F(F(I\"xGF%F(I\"DGF=F(F(*&,&I#dPGF%F(FGF(F(FQF(F1*(FSF(FPF(F/
+F(F1*&,(F9F(I\"PGF%F(FCF(F(F/F(F1*(FWF(FPF(F$F(F(" }}}{EXCHG {PARA 230
+ "> " 0 "" {MPLTEXT 1 0 165 "solution_bi_derivate_network:=eval_bi_der
+ivate_network(x0,y0);solutions_bi_derivate_3_connected:=subs(\{x=x0,op
+(eval_network(x0,y0))\},system_bi_derivate_3_connected);" }}{PARA 12 "
+" 1 "" {XPPMATH 20 "6#>%=solution_bi_derivate_networkG<&/%$ddSG$\"I+rj
+>$QpS>]rgB[DJa/j6$!#O/%$ddDG$\"I\"osOve_8Tpflr]6QDm\"[R!#N/%$ddHG$\"I[
+RX.oi?#zW([iY#)*4I$Qt:!#N/%$ddPG$\"I>]D=\"QR(*f4l/Br+&)\\_J1#!#N" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#>%Bsolutions_bi_derivate_3_connectedG<
+%/%%dxxKG$\"IN.*etm<*z3&es(4gHi;Z6()!#O/%%dxyKG$\"Ibzz%[pCMuY4=3Tb$\\r
+fBu!#P/%%dyyKG$\"I:3pHTwD%=&Q?P`B[J?W>j!#Q" }}}{EXCHG {PARA 230 "> " 0
+ "" {MPLTEXT 1 0 363 "ddDeval:=subs(solution_bi_derivate_network,ddD);
+ddSeval:=subs(solution_bi_derivate_network,ddS):ddPeval:=subs(soluti
+on_bi_derivate_network,ddP);ddHeval:=subs(solution_bi_derivate_networ
+k,ddH);dxxKeval:=subs(solutions_bi_derivate_3_connected,dxxK);dxyKev
+al:=subs(solutions_bi_derivate_3_connected,dxyK);dyyKeval:=subs(solut
+ions_bi_derivate_3_connected,dyyK);" }}{PARA 222 "" 1 "" {TEXT 234 0 "
+" }{HYPERLNK 234 "Error, invalid input: subs received solution_bi_deri
+vate_network, which is not valid for its 1st argument" 4 "http://www.m
+aplesoft.com/support/help/errors/view.aspx?path=Error,%20invalid%20inp
+ut%3A%20subs%20received%20solution_bi_derivate_network,%20which%20is%2
+0not%20valid%20for%20its%201st%20argument" "" }{TEXT 234 0 "" }}{PARA 
+222 "" 1 "" {TEXT 234 0 "" }{HYPERLNK 234 "Error, invalid input: subs \+
+received solution_bi_derivate_network, which is not valid for its 1st \+
+argument" 4 "http://www.maplesoft.com/support/help/errors/view.aspx?pa
+th=Error,%20invalid%20input%3A%20subs%20received%20solution_bi_derivat
+e_network,%20which%20is%20not%20valid%20for%20its%201st%20argument" ""
+ }{TEXT 234 0 "" }}{PARA 222 "" 1 "" {TEXT 234 0 "" }{HYPERLNK 234 "Er
+ror, invalid input: subs received solution_bi_derivate_network, which \+
+is not valid for its 1st argument" 4 "http://www.maplesoft.com/support
+/help/errors/view.aspx?path=Error,%20invalid%20input%3A%20subs%20recei
+ved%20solution_bi_derivate_network,%20which%20is%20not%20valid%20for%2
+0its%201st%20argument" "" }{TEXT 234 0 "" }}{PARA 222 "" 1 "" {TEXT 
+234 0 "" }{HYPERLNK 234 "Error, invalid input: subs received solution_
+bi_derivate_network, which is not valid for its 1st argument" 4 "http:
+//www.maplesoft.com/support/help/errors/view.aspx?path=Error,%20invali
+d%20input%3A%20subs%20received%20solution_bi_derivate_network,%20which
+%20is%20not%20valid%20for%20its%201st%20argument" "" }{TEXT 234 0 "" }
+}{PARA 222 "" 1 "" {TEXT 234 0 "" }{HYPERLNK 234 "Error, invalid input
+: subs received solutions_bi_derivate_3_connected, which is not valid \+
+for its 1st argument" 4 "http://www.maplesoft.com/support/help/errors/
+view.aspx?path=Error,%20invalid%20input%3A%20subs%20received%20solutio
+ns_bi_derivate_3_connected,%20which%20is%20not%20valid%20for%20its%201
+st%20argument" "" }{TEXT 234 0 "" }}{PARA 222 "" 1 "" {TEXT 234 0 "" }
+{HYPERLNK 234 "Error, invalid input: subs received solutions_bi_deriva
+te_3_connected, which is not valid for its 1st argument" 4 "http://www
+.maplesoft.com/support/help/errors/view.aspx?path=Error,%20invalid%20i
+nput%3A%20subs%20received%20solutions_bi_derivate_3_connected,%20which
+%20is%20not%20valid%20for%20its%201st%20argument" "" }{TEXT 234 0 "" }
+}{PARA 222 "" 1 "" {TEXT 234 0 "" }{HYPERLNK 234 "Error, invalid input
+: subs received solutions_bi_derivate_3_connected, which is not valid \+
+for its 1st argument" 4 "http://www.maplesoft.com/support/help/errors/
+view.aspx?path=Error,%20invalid%20input%3A%20subs%20received%20solutio
+ns_bi_derivate_3_connected,%20which%20is%20not%20valid%20for%20its%201
+st%20argument" "" }{TEXT 234 0 "" }}}{EXCHG {PARA 230 "> " 0 "" 
+{MPLTEXT 1 0 101 "choose_vector_ddD_Bernoulli:=[evalf(ddSeval/ddDeval)
+,evalf(ddPeval/ddDeval),evalf(ddHeval/ddDeval)];\n" }{MPLTEXT 1 0 114 
+"choose_vector_ddD:=[choose_vector_ddD_Bernoulli[1],choose_vector_ddD_
+Bernoulli[1]+choose_vector_ddD_Bernoulli[2]];" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#>%<choose_vector_ddD_BernoulliG7%$\"Ik)y+M/a;%eZ&*)yC&y
+_G/$*y!#T$\"I\\=sN\"RIr?oc?1HZ4\"ofD_!#S$\"Ib-FI/Uq3Uy/f%=uP!*)4&)R!#S
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%2choose_vector_ddDG7$$\"Ik)y+M/a
+;%eZ&*)yC&y_G/$*y!#T$\"IN(H(p&z&H\"z:_4a\"eA'4,\\,'!#S" }}}{EXCHG 
+{PARA 230 "> " 0 "" {MPLTEXT 1 0 240 "choose_vector_ddS_Bernoulli:=[ev
+alf((ddPeval+ddHeval)*x0*Deval/ddSeval),evalf(2*(dPeval+dHeval)*Deval/
+ddSeval),evalf(2*(dPeval+dHeval)*x0*dDeval/ddSeval),evalf(2*(y0+Peval+
+Heval)*dDeval/ddSeval),evalf((y0+Peval+Heval)*x0*ddDeval/ddSeval)];\n"
+ }{MPLTEXT 1 0 331 "choose_vector_ddS:=[choose_vector_ddS_Bernoulli[1]
+,choose_vector_ddS_Bernoulli[1]+choose_vector_ddS_Bernoulli[2],choose_
+vector_ddS_Bernoulli[1]+choose_vector_ddS_Bernoulli[2]+choose_vector_d
+dS_Bernoulli[3],choose_vector_ddS_Bernoulli[1]+choose_vector_ddS_Berno
+ulli[2]+choose_vector_ddS_Bernoulli[3]+choose_vector_ddS_Bernoulli[4]]
+;" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%<choose_vector_ddS_BernoulliG7'
+$\"I\"=&)[KL`rzum)yMWC_%oj([!#S$\"I)[CMC*fKG'e1)[.slnNx`:!#U$\"I]apyj0
+i%)\\j+9)>&*>r];&>!#V$\"IQZ]zVR&pHNX>7zF$pppDC!#U$\"IPo]#oC4'GE<h1?Pn
+\">&)=3&!#S" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%2choose_vector_ddSG7&
+$\"I\"=&)[KL`rzum)yMWC_%oj([!#S$\"IE%>tJfOMQ\"[N#o+@z=1>*[!#S$\"I@\")p
+t87U=?)o@?+L'Qy&Q*[!#S$\"IoJ\\<`2Rrt#)Q$*ziK3[6=\\!#S" }}}{EXCHG 
+{PARA 230 "> " 0 "" {MPLTEXT 1 0 242 "choose_vector_ddP_Bernoulli:=[ev
+alf(y0*(ddSeval+ddHeval)*exp(Seval+Heval)/ddPeval),evalf(y0*(dSeval+dH
+eval)^2*exp(Seval+Heval)/ddPeval),evalf((ddSeval+ddHeval)*(exp(Seval+H
+eval)-1)/ddPeval),evalf((dSeval+dHeval)^2*exp(Seval+Heval)/ddPeval)];
+\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 207 "choose_vector_ddP:=[choose
+_vector_ddP_Bernoulli[1],choose_vector_ddP_Bernoulli[1]+choose_vector_
+ddP_Bernoulli[2],choose_vector_ddP_Bernoulli[1]+choose_vector_ddP_Bern
+oulli[2]+choose_vector_ddP_Bernoulli[3]];" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#>%<choose_vector_ddP_BernoulliG7&$\"Ib;Dw[qg2f[`y>x@<ky
+m&*!#S$\"Ip5eUe$z/@c0J,Y6#GFm)\\\"!#V$\"Il>j?D*>(*zH*Q%HdeKdi@I%!#T$\"
+Ip5eUe$z/@c0J,Y6#GFm)\\\"!#V" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%2cho
+ose_vector_ddPG7%$\"Ib;Dw[qg2f[`y>x@<kym&*!#S$\"IOU47Gv\"QY'zaCJf%*z]G
+o&*!#S$\"IKu:k?&*yV%*o)R&)yrsL,&)***!#S" }}}{EXCHG {PARA 230 "> " 0 ""
+ {MPLTEXT 1 0 125 "choose_vector_ddH_Bernoulli:=[dxxKeval/ddHeval,2*dD
+eval*dxyKeval/ddHeval,ddDeval*dyKeval/ddHeval,dDeval^2*dyyKeval/ddHeva
+l];\n" }{MPLTEXT 1 0 207 "choose_vector_ddH:=[choose_vector_ddH_Bernou
+lli[1],choose_vector_ddH_Bernoulli[1]+choose_vector_ddH_Bernoulli[2],c
+hoose_vector_ddH_Bernoulli[1]+choose_vector_ddH_Bernoulli[2]+choose_ve
+ctor_ddH_Bernoulli[3]];" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%<choose_v
+ector_ddH_BernoulliG7&$\"IE**zgp&e,<En[aKUY[wn`&!#S$\"Icz$>\"HP)*p+D)f
+#z1\">B`eR$!#S$\"IF,X/?IDXLY0q/(*y%>yAZ&!#T$\"I-6<o#*RK`UxW@[-oRYU,_!#
+T" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%2choose_vector_ddHG7%$\"IE**zgp
+&e,<En[aKUY[wn`&!#S$\"I#)yts)HU,Cw\\3Z+`lrHE$*)!#S$\"I&*G=t+wmuD_&y^(>
+.Ov&)z%*!#S" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 50 "ch_ddP_or_
+ddH:=[evalf(ddPeval/(ddPeval+ddHeval))];" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%.ch_ddP_or_ddHG7#$\"I?\"[ztO&oL#Gwx/[*\\k2Stc!#S" }}}{EXCHG 
+{PARA 230 "> " 0 "" {MPLTEXT 1 0 50 "ch_ddS_or_ddH:=[evalf(ddSeval/(dd
+Seval+ddHeval))];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%.ch_ddS_or_ddHG
+7#$\"I'*[XjTMs\"Huhj+h4a*)*>`;!#S" }}}}{SECT 0 {PARA 216 "" 0 "" {TEXT
+ 212 12 "All together" }}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 11 "c
+h_1_or_u;\n" }{MPLTEXT 1 0 11 "ch_1_or_v;\n" }{MPLTEXT 1 0 11 "ch_u_or
+_v;\n" }{MPLTEXT 1 0 15 "ch_dxu_or_dxv;\n" }{MPLTEXT 1 0 19 "choose_ve
+ctor_dxu;\n" }{MPLTEXT 1 0 19 "choose_vector_dxv;\n" }{MPLTEXT 1 0 15 
+"ch_dyu_or_dyv;\n" }{MPLTEXT 1 0 19 "choose_vector_dyv;\n" }{MPLTEXT 
+1 0 19 "choose_vector_dyu;\n" }{MPLTEXT 1 0 13 "ch_K_in_dyK;\n" }
+{MPLTEXT 1 0 16 "ch_dxK_in_dxyK;\n" }{MPLTEXT 1 0 13 "ch_b_or_dxb;\n" 
+}{MPLTEXT 1 0 14 "ch_3b_or_dyb;\n" }{MPLTEXT 1 0 29 "choose_vector_non
+_trivial_D;\n" }{MPLTEXT 1 0 17 "choose_vector_D;\n" }{MPLTEXT 1 0 17 
+"choose_vector_P;\n" }{MPLTEXT 1 0 16 "ch_y_or_P_or_H;\n" }{MPLTEXT 1 
+0 11 "ch_S_or_H;\n" }{MPLTEXT 1 0 18 "poisson_S_plus_H;\n" }{MPLTEXT 
+1 0 29 "poisson_at_least_1_S_plus_H;\n" }{MPLTEXT 1 0 29 "poisson_at_l
+east_2_S_plus_H;\n" }{MPLTEXT 1 0 18 "choose_vector_dD;\n" }{MPLTEXT 
+1 0 18 "choose_vector_dS;\n" }{MPLTEXT 1 0 18 "choose_vector_dP;\n" }
+{MPLTEXT 1 0 18 "choose_vector_dH;\n" }{MPLTEXT 1 0 13 "ch_dP_or_dH;\n
+" }{MPLTEXT 1 0 13 "ch_dS_or_dH;\n" }{MPLTEXT 1 0 19 "choose_vector_dd
+D;\n" }{MPLTEXT 1 0 19 "choose_vector_ddS;\n" }{MPLTEXT 1 0 19 "choose
+_vector_ddP;\n" }{MPLTEXT 1 0 19 "choose_vector_ddH;\n" }{MPLTEXT 1 0 
+15 "ch_ddP_or_ddH;\n" }{MPLTEXT 1 0 14 "ch_ddS_or_ddH;" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#7#$\"IM*GoQIc]O-ls;>oL5D&Hl!#S" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 "6#7#$\"I#f5S0Az=fv%e&fm[*\\A&R!G!#S" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7#$\"I>sJ()\\.na2wa'=hudh%p:<!#S" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7#$\"I$=VC@L`q1=F)GJuL&Hv!)H#!#S" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7$$\"I+pL\"f*z^#\\MzQQe@$Rr(=0\"!#U$\"I&ocz**eiCnR>>zg'
+p&Qf_+&!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"\"&!\"\"" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#7#$\"I@-O%zmRog_R\"*QI%)f:wpH#!#S" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#7$$\"IbB.;#[R!*))4+o(pz.#3!34i!#V$\"I9!3T(>X
+%\\+S)[)*=5/SX5.]!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7$$\"I8uJ)Q]jl
+F$*4Y/Xfb*)oBJ%!#V$\"IhT>v\"GQm\\IAD(zxW%=c@+&!#S" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7#$\"IO]#))y]dl>^y2Ee'Gk?QO(*!#T" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7#$\"I\\Ygh2q^X,fj]y^zQ8_?M!#V" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7#$\"IAL\\b1a)[JL&z[9[wus%pS\"!#U" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7#$\"I')eQqx!>\"Rr%G>Pf1nHG!H<!#U" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7$$\"I&p^K$*ejeag'4!*eR[j/RgY!#S$\"I%3Emh]*pLn<iBXo)y3R
+Xx*!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7%$\"I``!zw`%oyqPl*oA'R3&4$R
+\"*!#S$\"I$3eFiOyC:df`8Q/V)[US&*!#S$\"I^)[&=r6t,_=WP*erOz%f!)**!#S" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"I]4.%3J75)*)*o)4h)4FQ)zw(*!#S" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#7$$\"IrPFr^9`lb#R.>&[8%H?7_*!#S$\"I#zb
+Y5Z#emgY$*4$*)*f%*Qyz**!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"Iw,
+;&R;?))*f\"=cX08]CV&Q&*!#S" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#77$\"I.4
+C)G&=X3.jIZAB@CAI]&*!#S$\"IjJ[vgQ)4/t0,)f$*\\BNt*)**!#S$\"Iwc&e)ekDs>C
+*4t*[BWJ%)****!#S$\"IUqQ4H1cm.f\"G'QO%)*>)******!#S$\"I`LA4wBaZTmn%Rkf
+M)********!#S$\"IT$[8ef;A!>$G6iHt)**********!#S$\"IB_^(>VITLWTRy;*****
+********!#S$\"IO#>Q\"errr@no@&***************!#S$\"IR/l+ma!e'))eb(****
+*************!#S$\"IJBQF9l>!)e())*******************!#S$\"IAiR%z(H_*H&
+**********************!#S$\"Ie:4G??)>)************************!#S$\"IN
+#3*>Vi$***************************!#S$\"IA8M]!z***********************
+******!#S$\"Ij&\\d$********************************!#S$\"Ik_\")*******
+***************************!#S$\"I-&**********************************
+***!#S$\"I+++++++++++++++++++5!#R$\"I+++++++++++++++++++5!#R$\"I++++++
++++++++++++++5!#R$\"I+++++++++++++++++++5!#R" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#77$\"I<8DLm\"GVin\\HtA%>^Fqr(*!#S$\"I6Wg(H&R9Fh\"emY'*R
+P(>^'***!#S$\"Il\"eG%=\"=J&)H$4sQ0kp*f*****!#S$\"I3R/G,<;BN</=2&*=K'**
+*****!#S$\"I([RS/Be@%*>&)pzY#=(*********!#S$\"IZY\")H!GLJO')[9^\\\")**
+*********!#S$\"I.*oQG$*=,6esOO*)*************!#S$\"It4^^e!)ff7*\\c%***
+*************!#S$\"I&>Mt.#*\\:x-](******************!#S$\"IE(y-C$\\vua
+*)********************!#S$\"I?<k(yNJ$*f***********************!#S$\"IU
+OU,IAe)*************************!#S$\"I')G:RT`************************
+****!#S$\"IcHDr&)******************************!#S$\"I)*>*e***********
+**********************!#S$\"II*))***********************************!#
+S$\"I-++++++++++++++++++5!#R$\"I0++++++++++++++++++5!#R$\"I0++++++++++
+++++++++5!#R$\"I0++++++++++++++++++5!#R$\"I0++++++++++++++++++5!#R" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#77$\"ID&G0M58\\%y:Pwe'R1e:s%)*!#S$\"I
+\\%H?V16#z;!eG5\\o%olC)***!#S$\"I>*Q@Qx=*z\">08_;l*))Q)*****!#S$\"InoT
+!yi?vjHR1G$\\ew)*******!#S$\"IwS8=$=_bnpMh*Q%*=**********!#S$\"IEQQ\"H
+P$*=]b8=5M&************!#S$\"IpN24>KN9tzK>w**************!#S$\"IB(Q$f`
+5CKy00*)****************!#S$\"I&)[VX6Z[G:U&*******************!#S$\"Io
+4RrvYp\\C)*********************!#S$\"I]4Afp!)*y$**********************
+**!#S$\"I\\SL5Tfz**************************!#S$\"Im2D<u$**************
+***************!#S$\"I,L1?)*******************************!#S$\"II$>&*
+*********************************!#S$\"I00+++++++++++++++++5!#R$\"IH1+
+++++++++++++++++5!#R$\"IH1+++++++++++++++++5!#R$\"IH1+++++++++++++++++
+5!#R$\"IH1+++++++++++++++++5!#R$\"IH1+++++++++++++++++5!#R" }}{PARA 11
+ "" 1 "" {XPPMATH 20 "6#7$$\"Id&>]!y],oA2T.'=)Ru1Y^Q!#S$\"I5\"**3;:*y8
+rvvzC?Hi&4j2*!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7$$\"IF`rpN2+mI(*y
+S**Q=\\F1rm!#T$\"IbkVw0(Q/A<RjM\"pf2q`e*)!#S" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7#$\"IrE&R)oAMR&)o#[M6)>aZlp&*!#S" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7#$\"Id&=UXV=eOZ\"*>829,V#3Rw!#S" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7#$\"I-V#eo4><[x%R&)R**RAvq(\\)!#S" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7#$\"I`f$yBmoVGWn^>O***z4jl!)!#S" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7$$\"Ik)y+M/a;%eZ&*)yC&y_G/$*y!#T$\"IN(H(p&z&H\"z:_4a\"
+eA'4,\\,'!#S" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#7&$\"I\"=&)[KL`rzum)yM
+WC_%oj([!#S$\"IE%>tJfOMQ\"[N#o+@z=1>*[!#S$\"I@\")pt87U=?)o@?+L'Qy&Q*[!
+#S$\"IoJ\\<`2Rrt#)Q$*ziK3[6=\\!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7
+%$\"Ib;Dw[qg2f[`y>x@<kym&*!#S$\"IOU47Gv\"QY'zaCJf%*z]Go&*!#S$\"IKu:k?&
+*yV%*o)R&)yrsL,&)***!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7%$\"IE**zg
+p&e,<En[aKUY[wn`&!#S$\"I#)yts)HU,Cw\\3Z+`lrHE$*)!#S$\"I&*G=t+wmuD_&y^(
+>.Ov&)z%*!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"I?\"[ztO&oL#Gwx/[
+*\\k2Stc!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"I'*[XjTMs\"Huhj+h4
+a*)*>`;!#S" }}}}}}{SECT 0 {PARA 233 "" 0 "" {TEXT 223 25 "2-connected \+
+planar graphs" }}{SECT 0 {PARA 217 "" 0 "" {TEXT 213 66 "Evaluation of
+ the generating function of 2-connected planar graphs" }{TEXT 235 0 ""
+ }}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 79 "beta_1:=z*(6*x-2+x*z)/(
+4*x)+(1+z)*ln((1+y)/(1+z))-ln(1+z)/2+ln(1+x*z)/(2*x^2):\n" }{MPLTEXT 
+1 0 167 "beta_2:=(2*(1+x)*(1+w)*(z+w^2)+3*(w-z))/(2*(1+w)^2)-1/(2*x)*l
+n(1+x*z+x*w+x*w^2)+(1-4*x)/(2*x)*ln(1+w)+(1-4*x+2*x^2)/(4*x)*ln((1-x+x
+*z-x*w+x*w^2)/((1-x)*(z+w^2+1+w))):\n" }{MPLTEXT 1 0 47 "B:=subs(z=D,w
+=D*(1+u),x^2/2*beta_1-x/4*beta_2);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#
+>%\"BG,&*&#\"\"\"\"\"#\"\"\"*&)%\"xG\"\"#\"\"\",***\"\"%!\"\"%\"DG\"\"
+\",(*&\"\"'\"\"\"%\"xG\"\"\"\"\"\"\"\"#!\"\"*&%\"xG\"\"\"%\"DG\"\"\"\"
+\"\"\"\"\"%\"xG!\"\"\"\"\"*&,&\"\"\"\"\"\"%\"DG\"\"\"\"\"\"-%#lnG6#*&,
+&\"\"\"\"\"\"%\"yG\"\"\"\"\"\",&\"\"\"\"\"\"%\"DG\"\"\"!\"\"\"\"\"\"\"
+\"*&#\"\"\"\"\"#\"\"\"-%#lnG6#,&\"\"\"\"\"\"%\"DG\"\"\"\"\"\"!\"\"*&#
+\"\"\"\"\"#\"\"\"*&-%#lnG6#,&\"\"\"\"\"\"*&%\"xG\"\"\"%\"DG\"\"\"\"\"
+\"\"\"\")%\"xG\"\"#!\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"*&#\"\"\"\"\"%\"
+\"\"*&%\"xG\"\"\",**(\"\"#!\"\",(**\"\"#\"\"\",&\"\"\"\"\"\"%\"xG\"\"
+\"\"\"\",&\"\"\"\"\"\"*&%\"DG\"\"\",&\"\"\"\"\"\"%\"uG\"\"\"\"\"\"\"\"
+\"\"\"\",&%\"DG\"\"\"*&)%\"DG\"\"#\"\"\"),&\"\"\"\"\"\"%\"uG\"\"\"\"\"
+#\"\"\"\"\"\"\"\"\"\"\"\"*(\"\"$\"\"\"%\"DG\"\"\",&\"\"\"\"\"\"%\"uG\"
+\"\"\"\"\"\"\"\"*&\"\"$\"\"\"%\"DG\"\"\"!\"\"\"\"\"),&\"\"\"\"\"\"*&%
+\"DG\"\"\",&\"\"\"\"\"\"%\"uG\"\"\"\"\"\"\"\"\"\"\"#!\"\"\"\"\"*&#\"\"
+\"\"\"#\"\"\"*&%\"xG!\"\"-%#lnG6#,*\"\"\"\"\"\"*&%\"xG\"\"\"%\"DG\"\"
+\"\"\"\"*(%\"xG\"\"\"%\"DG\"\"\",&\"\"\"\"\"\"%\"uG\"\"\"\"\"\"\"\"\"*
+(%\"xG\"\"\")%\"DG\"\"#\"\"\"),&\"\"\"\"\"\"%\"uG\"\"\"\"\"#\"\"\"\"\"
+\"\"\"\"\"\"\"!\"\"*&#\"\"\"\"\"#\"\"\"*(,&\"\"\"\"\"\"*&\"\"%\"\"\"%
+\"xG\"\"\"!\"\"\"\"\"%\"xG!\"\"-%#lnG6#,&\"\"\"\"\"\"*&%\"DG\"\"\",&\"
+\"\"\"\"\"%\"uG\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"*&#\"\"\"\"\"%\"\"
+\"*(,(\"\"\"\"\"\"*&\"\"%\"\"\"%\"xG\"\"\"!\"\"*&\"\"#\"\"\")%\"xG\"\"
+#\"\"\"\"\"\"\"\"\"%\"xG!\"\"-%#lnG6#*(,,\"\"\"\"\"\"%\"xG!\"\"*&%\"xG
+\"\"\"%\"DG\"\"\"\"\"\"*(%\"xG\"\"\"%\"DG\"\"\",&\"\"\"\"\"\"%\"uG\"\"
+\"\"\"\"!\"\"*(%\"xG\"\"\")%\"DG\"\"#\"\"\"),&\"\"\"\"\"\"%\"uG\"\"\"
+\"\"#\"\"\"\"\"\"\"\"\",&\"\"\"\"\"\"%\"xG!\"\"!\"\",*%\"DG\"\"\"*&)%
+\"DG\"\"#\"\"\"),&\"\"\"\"\"\"%\"uG\"\"\"\"\"#\"\"\"\"\"\"\"\"\"\"\"\"
+*&%\"DG\"\"\",&\"\"\"\"\"\"%\"uG\"\"\"\"\"\"\"\"\"!\"\"\"\"\"\"\"\"\"
+\"\"\"\"\"\"\"\"!\"\"" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 18 "
+system_network:=\{\n" }{MPLTEXT 1 0 11 "D=y+S+P+H,\n" }{MPLTEXT 1 0 
+15 "S=(y+P+H)*x*D,\n" }{MPLTEXT 1 0 35 "P=y*(exp(S+H)-1)+(exp(S+H)-S-H
+-1),\n" }{MPLTEXT 1 0 5 "H=K,\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 
+15 "u=x*D*(1+v)^2,\n" }{MPLTEXT 1 0 13 "v=D*(1+u)^2,\n" }{MPLTEXT 1 0 
+56 "K=1/2*D*(1/(1+x*D)+1/(1+D)-1-(1+u)^2*(1+v)^2/(1+u+v)^3)\n" }
+{MPLTEXT 1 0 3 "\}:\n" }{MPLTEXT 1 0 26 "eval_network:=proc(x0,y0)\n" 
+}{MPLTEXT 1 0 23 "global system_network:\n" }{MPLTEXT 1 0 58 "fsolve(s
+ubs(\{x=x0,y=y0\},system_network),\{u,v,K,S,P,H,D\});\n" }{MPLTEXT 1 
+0 9 "end proc:" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 29 "eval_2c
+onnected:=proc(x0,y0)\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 25 "global
+ system_network,B:\n" }{MPLTEXT 1 0 25 "local solutions_network:\n" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 77 "solutions_network:=fsolve(subs(
+\{x=x0,y=y0\},system_network),\{u,v,K,S,P,H,D\}):\n" }{MPLTEXT 1 0 50 
+"evalf(subs(\{x=x0,y=y0,op(solutions_network)\},B));\n" }{MPLTEXT 1 0 
+9 "end proc:" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 39 "B0=eval_2
+connected(.038191097669411,1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/%#B
+0G$\"GWX01ksV:&\\0R+L7r&*pR(!#T" }}}}{SECT 0 {PARA 217 "" 0 "" {TEXT 
+213 75 "Evaluation of the generating function of derivate 2-connected \+
+planar graphs" }}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 160 "dBx:=sub
+s(\{DISS(x,y)=D,diff(DISS(x,y),x)=dD,u(x,DISS(x,y))=u,D[1](u)(x,DISS(x
+,y))=dxu,D[2](u)(x,DISS(x,y))=dyu\},diff(subs(\{D=DISS(x,y),u=u(x,DISS
+(x,y))\},B),x)):" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 38 "eval_
+derivate_2connected:=proc(x0,y0)\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 
+0 117 "local solutions_network, solutions_derivate_network, solutions_
+derivate_3_connected, solutions_derivate_binary_tree:\n" }{MPLTEXT 1 
+0 1 "\n" }{MPLTEXT 1 0 171 "global dBx, system_network, system_derivat
+e_network, system_bi_derivate_network, system_derivate_3_connected, sy
+stem_bi_derivate_3_connected, system_derivate_binary_tree:\n" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 77 "solutions_network:=fsolve(subs(
+\{x=x0,y=y0\},system_network),\{u,v,K,S,P,H,D\}):\n" }{MPLTEXT 1 0 1 "
+\n" }{MPLTEXT 1 0 108 "solutions_derivate_binary_tree:=evalf(subs(\{x=
+x0,y=y0,op(solutions_network)\},system_derivate_binary_tree)):\n" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 108 "solutions_derivate_3_connected:
+=evalf(subs(\{x=x0,y=y0,op(solutions_network)\},system_derivate_3_conn
+ected)):\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 
+135 "solutions_derivate_network:=evalf(subs(\{x=x0,y=y0,op(solutions_n
+etwork),op(solutions_derivate_3_connected)\},system_derivate_network))
+:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 118 "evalf(subs(\{x=x0,y=y0,op
+(solutions_network),op(solutions_derivate_network),op(solutions_deriva
+te_binary_tree)\},dBx));\n" }{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG 
+{PARA 230 "> " 0 "" {MPLTEXT 1 0 45 "eval_derivate_2connected(.0381910
+97669411,1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"H-iH>IhN&z]N>w!fCG!
+=0R!#S" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 23 "B2=-%*.03819109
+7669411;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/%#B2G$!IP=9#\\Tn`=]*\\:E0
+%e@J9\\\"!#U" }}}}{SECT 0 {PARA 217 "" 0 "" {TEXT 213 78 "Evaluation o
+f the generating function of bi-derivate 2-connected planar graphs" }}
+{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 342 "dBxx:=subs(\{DISS(x,y)=D,
+diff(DISS(x,y),x)=dD,diff(DISS(x,y),x,x)=ddD,u(x,DISS(x,y))=u,D[1](u)(
+x,DISS(x,y))=dxu,D[2](u)(x,DISS(x,y))=dyu,D[1,1](u)(x,DISS(x,y))=dxxu,
+D[1,2](u)(x,DISS(x,y))=dxyu,D[2,2](u)(x,DISS(x,y))=dyyu\},diff(subs(\{
+D=DISS(x,y),dD=diff(DISS(x,y),x),u=u(x,DISS(x,y)),dxu=D[1](u)(x,DISS(x
+,y)),dyu=D[2](u)(x,DISS(x,y))\},dBx),x)):" }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 41 "eval_bi_derivate_2connected:=proc(x0,y0)\n" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 218 "local solutions_network, soluti
+ons_derivate_network, solutions_bi_derivate_network, solutions_derivat
+e_binary_tree, solutions_bi_derivate_binary_tree, solutions_derivate_3
+_connected, solutions_bi_derivate_3_connected:\n" }{MPLTEXT 1 0 1 "\n"
+ }{MPLTEXT 1 0 203 "global dBxx, system_network, system_derivate_netwo
+rk, system_bi_derivate_network, system_derivate_binary_tree, system_bi
+_derivate_binary_tree,system_derivate_3_connected, system_bi_derivate_
+3_connected:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 77 "solutions_netwo
+rk:=fsolve(subs(\{x=x0,y=y0\},system_network),\{u,v,K,S,P,H,D\}):\n" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 108 "solutions_derivate_binary_tree:
+=evalf(subs(\{x=x0,y=y0,op(solutions_network)\},system_derivate_binary
+_tree)):\n" }{MPLTEXT 1 0 114 "solutions_bi_derivate_binary_tree:=eval
+f(subs(\{x=x0,y=y0,op(solutions_network)\},system_bi_derivate_binary_t
+ree)):\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 143 "solutions_derivate_3
+_connected:=evalf(subs(\{x=x0,y=y0,op(solutions_network),op(solutions_
+derivate_binary_tree)\},system_derivate_3_connected)):\n" }{MPLTEXT 1 
+0 187 "solutions_bi_derivate_3_connected:=evalf(subs(\{x=x0,y=y0,op(so
+lutions_network),op(solutions_derivate_binary_tree),op(solutions_bi_de
+rivate_binary_tree)\},system_bi_derivate_3_connected)):\n" }{MPLTEXT 
+1 0 1 "\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 135 "solutions_derivate_
+network:=evalf(subs(\{x=x0,y=y0,op(solutions_network),op(solutions_der
+ivate_3_connected)\},system_derivate_network)):\n" }{MPLTEXT 1 0 210 "
+solutions_bi_derivate_network:=evalf(subs(\{x=x0,y=y0,op(solutions_net
+work),op(solutions_derivate_network),op(solutions_derivate_3_connected
+),op(solutions_bi_derivate_3_connected)\},system_bi_derivate_network))
+:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 191 "eval
+f(subs(\{x=x0,y=y0,op(solutions_network),op(solutions_derivate_network
+),op(solutions_bi_derivate_network),op(solutions_derivate_binary_tree)
+,op(solutions_bi_derivate_binary_tree)\},dBxx));\n" }{MPLTEXT 1 0 1 "
+\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG {PARA 
+230 "> " 0 "" {MPLTEXT 1 0 48 "eval_bi_derivate_2connected(.0381910976
+69411,1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"IT!=Hx1.>aYEM@_wavm>0
+\"!#R" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 26 "B4=.038191097669
+411^2*%/2;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/%#B4G$\"Ic:sTV)y-Tq%y[u
+>.XGyrw!#V" }}}}{SECT 0 {PARA 4 "" 0 "" {TEXT 213 78 "Evaluation of th
+e generating function of tri-derivate 2-connected planar graph" }{TEXT
+ 236 1 "s" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 603 "dBxxx:=subs(\{
+DISS(x,y)=D,diff(DISS(x,y),x)=dD,diff(DISS(x,y),x,x)=ddD,diff(DISS(x,y
+),x,x,x)=dddD,u(x,DISS(x,y))=u,D[1](u)(x,DISS(x,y))=dxu,D[2](u)(x,DISS
+(x,y))=dyu,D[1,1](u)(x,DISS(x,y))=dxxu,D[1,2](u)(x,DISS(x,y))=dxyu,D[2
+,2](u)(x,DISS(x,y))=dyyu,D[1,1,1](u)(x,DISS(x,y))=dxxxu,D[1,1,2](u)(x,
+DISS(x,y))=dxxyu,D[1,2,2](u)(x,DISS(x,y))=dxyyu,D[2,2,2](u)(x,DISS(x,y
+))=dyyyu\},diff(subs(\{D=DISS(x,y),dD=diff(DISS(x,y),x),ddD=diff(DISS(
+x,y),x,x),u=u(x,DISS(x,y)),dxu=D[1](u)(x,DISS(x,y)),dyu=D[2](u)(x,DISS
+(x,y)),dxxu=D[1,1](u)(x,DISS(x,y)),dxyu=D[1,2](u)(x,DISS(x,y)),dyyu=D[
+2,2](u)(x,DISS(x,y))\},dBxx),x)):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 42 "eval_tri_derivate_2connected:=proc(x0,y0)\n" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 322 "local solutions_network, soluti
+ons_derivate_network, solutions_bi_derivate_network, solutions_tri_der
+ivate_network, solutions_derivate_binary_tree, solutions_bi_derivate_b
+inary_tree, solutions_tri_derivate_binary_tree, solutions_derivate_3_c
+onnected, solutions_bi_derivate_3_connected, solutions_tri_derivate_3_
+connected:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 299 "global dBxxx, sy
+stem_network, system_derivate_network, system_bi_derivate_network, sys
+tem_tri_derivate_network, system_derivate_binary_tree, system_bi_deriv
+ate_binary_tree, system_tri_derivate_binary_tree,system_derivate_3_con
+nected, system_bi_derivate_3_connected, system_tri_derivate_3_connecte
+d:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 77 "solutions_network:=fsolve
+(subs(\{x=x0,y=y0\},system_network),\{u,v,K,S,P,H,D\}):\n" }{MPLTEXT 
+1 0 1 "\n" }{MPLTEXT 1 0 108 "solutions_derivate_binary_tree:=evalf(su
+bs(\{x=x0,y=y0,op(solutions_network)\},system_derivate_binary_tree)):
+\n" }{MPLTEXT 1 0 114 "solutions_bi_derivate_binary_tree:=evalf(subs(
+\{x=x0,y=y0,op(solutions_network)\},system_bi_derivate_binary_tree)):
+\n" }{MPLTEXT 1 0 116 "solutions_tri_derivate_binary_tree:=evalf(subs(
+\{x=x0,y=y0,op(solutions_network)\},system_tri_derivate_binary_tree)):
+\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 143 "solutions_derivate_3_conne
+cted:=evalf(subs(\{x=x0,y=y0,op(solutions_network),op(solutions_deriva
+te_binary_tree)\},system_derivate_3_connected)):\n" }{MPLTEXT 1 0 187 
+"solutions_bi_derivate_3_connected:=evalf(subs(\{x=x0,y=y0,op(solution
+s_network),op(solutions_derivate_binary_tree),op(solutions_bi_derivate
+_binary_tree)\},system_bi_derivate_3_connected)):\n" }{MPLTEXT 1 0 
+228 "solutions_tri_derivate_3_connected:=evalf(subs(\{x=x0,y=y0,op(sol
+utions_network),op(solutions_derivate_binary_tree),op(solutions_bi_der
+ivate_binary_tree),op(solutions_tri_derivate_binary_tree)\},system_tri
+_derivate_3_connected)):\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 1 "\n" 
+}{MPLTEXT 1 0 135 "solutions_derivate_network:=evalf(subs(\{x=x0,y=y0,
+op(solutions_network),op(solutions_derivate_3_connected)\},system_deri
+vate_network)):\n" }{MPLTEXT 1 0 210 "solutions_bi_derivate_network:=e
+valf(subs(\{x=x0,y=y0,op(solutions_network),op(solutions_derivate_netw
+ork),op(solutions_derivate_3_connected),op(solutions_bi_derivate_3_con
+nected)\},system_bi_derivate_network)):\n" }{MPLTEXT 1 0 285 "solution
+s_tri_derivate_network:=evalf(subs(\{x=x0,y=y0,op(solutions_network),o
+p(solutions_derivate_network),op(solutions_bi_derivate_network),op(sol
+utions_derivate_3_connected),op(solutions_bi_derivate_3_connected),op(
+solutions_tri_derivate_3_connected)\},system_tri_derivate_network)):\n
+" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 266 "evalf(s
+ubs(\{x=x0,y=y0,op(solutions_network),op(solutions_derivate_network),o
+p(solutions_bi_derivate_network),op(solutions_tri_derivate_network),op
+(solutions_derivate_binary_tree),op(solutions_bi_derivate_binary_tree)
+,op(solutions_tri_derivate_binary_tree)\},dBxxx));\n" }{MPLTEXT 1 0 1 
+"\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 49 "eval_tri_derivate_2connected(.03819109766
+9411,1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"<!=m:M8^1*o0AyD\"!#?" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 58 "solutions_singularity:=fin
+d_singularity(1):R:=subs(%,xsi);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%
+\"RG$\"I)QbfBUXSc_6RN8Tpw4\">Q!#T" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 49 "eval_tri_derivate_2connected(.038191097669411,1);" }}
+{PARA 0 "" 0 "" {TEXT 232 0 "" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"<!
+=m:M8^1*o0AyD\"!#?" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 61 "B5=-(
+.038191097669411^3*%*8)*(1-.038191097669411/R)^(1/2)/15;" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#/%#B5G$!I#Q@G'\\QqL)*)GSTqq-[i=]$!#X" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 175 "eval_tri_derivate_2connected(.0381
+91097669,1);dx:=0.00000000000000001;evalf((eval_bi_derivate_2connected
+(.038191097669+dx,1)-eval_bi_derivate_2connected(.038191097669,1))/dx)
+;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"?*=3<P**4/\\r$Re$=f$!#D" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#dxG$\"\"\"!#<" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"I+++++++&Qr4ubhYjmd=f$!#N" }}}}{SECT 0 {PARA 4 "" 0 
+"" {TEXT 236 0 "" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 237 23 "Connected \+
+planar graphs" }}{SECT 0 {PARA 3 "" 0 "" {TEXT 213 72 "Evaluation of t
+he generating function of pointed connected planar graphs" }{TEXT 237 
+0 "" }}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 22 "inverse_F:=proc(x,y
+0)\n" }{MPLTEXT 1 0 47 "evalf(x*exp(-eval_derivate_2connected(x,y0)));
+\n" }{MPLTEXT 1 0 9 "end proc;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%*i
+nverse_FGf*6$%\"xG%#y0G6\"6\"6\"-%&evalfG6#*&%\"xG\"\"\"-%$expG6#,$-%9
+eval_derivate_2connectedG6$%\"xG%#y0G!\"\"\"\"\"6\"6\"6\"" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "eval_F:=proc(z,y0) \n" }{MPLTEXT 1 
+0 22 "local inverse_F_at_z:\n" }{MPLTEXT 1 0 46 "inverse_F_at_z:=x-> e
+valf(inverse_F(x,y0)-z):\n" }{MPLTEXT 1 0 24 "fsolve(inverse_F_at_z):
+\n" }{MPLTEXT 1 0 10 "end proc:\n" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 26 "eval_F(.03672841258183,1);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"I])zM\"y'o>m2o%*HCSpw4\">Q!#T" }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 56 "inverse_F(.03819109766940242994680766196867813
+479850,1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"IH6&3++++++++++$=e7%G
+n$!#T" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 213 64 "Evaluation of the gen
+erating function of connected planar graphs" }{TEXT 237 0 "" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "eval_C:=proc(z,y)\n" }{MPLTEXT 1 0 
+15 "local value_F:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 22 "value_F:=
+eval_F(z,y):\n" }{MPLTEXT 1 0 72 "value_F*log(z)-value_F*log(value_F)+
+value_F+eval_2connected(value_F,y):\n" }{MPLTEXT 1 0 9 "end proc;" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'eval_CGf*6$%\"zG%\"yG6#%(value_FG6
+\"6\"C$>%(value_FG-%'eval_FG6$%\"zG%\"yG,**&%(value_FG\"\"\"-%$logG6#%
+\"zG\"\"\"\"\"\"*&%(value_FG\"\"\"-%$logG6#%(value_FG\"\"\"!\"\"%(valu
+e_FG\"\"\"-%0eval_2connectedG6$%(value_FG%\"yG\"\"\"6\"6\"6\"" }}}}
+{SECT 0 {PARA 3 "" 0 "" {TEXT 213 76 "Evaluation of the generating fun
+ction of bi-derivate connected planar graphs" }{TEXT 237 0 "" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "eval_derivate_inverse_F:=pro
+c(x0,y0)\n" }{MPLTEXT 1 0 91 "   evalf(exp(-eval_derivate_2connected(x
+0,y0))*(1-x0*eval_bi_derivate_2connected(x0,y0))):\n" }{MPLTEXT 1 0 9 
+"end proc:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "eval_bi_deriv
+ate_connected:=proc(z0,y0)\n" }{MPLTEXT 1 0 15 "local F,dC,dF:\n" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 18 "F:=eval_F(z0,y0):\n" }{MPLTEXT 
+1 0 44 "dF:=evalf(1/eval_derivate_inverse_F(F,y0)):\n" }{MPLTEXT 1 0 
+22 "evalf(-F/z0^2+dF/z0):\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 10 "en
+d proc:\n" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 213 77 "Evaluation of the
+ generating function of tri-derivate connected planar graphs" }{TEXT 
+237 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "eval_bi_derivate_
+inverse_F:=proc(x0,y0)\n" }{MPLTEXT 1 0 168 "   evalf(exp(-eval_deriva
+te_2connected(x0,y0))*(-2*eval_bi_derivate_2connected(x0,y0)+x0*eval_b
+i_derivate_2connected(x0,y0)^2-x0*eval_tri_derivate_2connected(x0,y0))
+):\n" }{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT
+ 1 0 41 "eval_tri_derivate_connected:=proc(z0,y0)\n" }{MPLTEXT 1 0 19 
+"local F,dC,ddF,dF:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 18 "F:=eval_
+F(z0,y0):\n" }{MPLTEXT 1 0 44 "dF:=evalf(1/eval_derivate_inverse_F(F,y
+0)):\n" }{MPLTEXT 1 0 79 "ddF:=evalf(-eval_bi_derivate_inverse_F(F,y0)
+/eval_derivate_inverse_F(F,y0)^3):\n" }{MPLTEXT 1 0 34 "evalf(ddF/z0-2
+*dF/z0^2+2*F/z0^3):\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 10 "end proc
+:\n" }}}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 237 50 "Planar graphs and conn
+ected planar graphs together" }}{EXCHG {PARA 0 "" 0 "" {TEXT 232 165 "
+We want to make the expensive calculation of the inverse just once, so
+ we derive from one evaluation of F all the generating functions of co
+nnected and planar graphs" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+45 "evaluate_planar_and_connected:=proc(z0,F,y0)\n" }{MPLTEXT 1 0 74 "
+local dF,ddF,Ceval,dCeval,ddCeval,dddCeval,Geval,dGeval,ddGeval,dddGev
+al:\n" }{MPLTEXT 1 0 44 "dF:=evalf(1/eval_derivate_inverse_F(F,y0)):\n
+" }{MPLTEXT 1 0 79 "ddF:=evalf(-eval_bi_derivate_inverse_F(F,y0)/eval_
+derivate_inverse_F(F,y0)^3):\n" }{MPLTEXT 1 0 21 "dCeval:=evalf(F/z0):
+\n" }{MPLTEXT 1 0 51 "Ceval:=F*log(z0)-F*log(F)+F+eval_2connected(F,y0
+):\n" }{MPLTEXT 1 0 31 "ddCeval:=evalf(-F/z0^2+dF/z0):\n" }{MPLTEXT 1 
+0 44 "dddCeval:=evalf(ddF/z0-2*dF/z0^2+2*F/z0^3):\n" }{MPLTEXT 1 0 26 
+"Geval:=evalf(exp(Ceval)):\n" }{MPLTEXT 1 0 29 "dGeval:=evalf(dCeval*G
+eval):\n" }{MPLTEXT 1 0 45 "ddGeval:=evalf(ddCeval*Geval+dCeval*dGeval
+):\n" }{MPLTEXT 1 0 65 "dddGeval:=evalf(dddCeval*Geval+2*ddCeval*dGeva
+l+dCeval*ddGeval):\n" }{MPLTEXT 1 0 91 "\{C=Ceval,dC=dCeval,ddC=ddCeva
+l,dddC=dddCeval,G=Geval,dG=dGeval,ddG=ddGeval,dddG=dddGeval\}:\n" }
+{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+92 "evaluate_planar_and_connected(.03672841258183,.0381910976694024299
+4680766196867816797991,1);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#<*/%#dCG
+$\"I1=g:Sq%QHOBT2G$4[V#)R5!#R/%$ddCG$\"HpDz54zHXYc3\\oVp^K]=\"!#Q/%%dd
+dCG$\"I>]\"\\n-'og%395uerH$Hq.J!#M/%\"GG$\"I(zY^ll,65**)zam'p![!\\\"Q5
+!#R/%#dGG$\"IW@7(fK%HU%fb*)4qKrl#\\z5!#R/%$ddGG$\"IDsLt]sfx<2Lr\"=ry7B
+FN#!#R/%%dddGG$\"Ijvv*f]hKx/RgCU@UHc@A$!#M/%\"CG$\"I`*>9/oF_V03\\[boCg
+ORu$!#T" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 237 34 "Calculating all the
+ choose-vectors" }}{SECT 0 {PARA 4 "" 0 "" {TEXT 236 71 "Choice of the
+ number of vertices and possibly of balance edges-vertices" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 232 42 "N is the wanted average number of vertic
+es" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "N:=10000: mu:=2: y0:=
+1:" }}}}{SECT 0 {PARA 206 "" 0 "" {TEXT 210 76 "Finding the good z fro
+m singularity of generating functions of planar graphs" }}{EXCHG 
+{PARA 211 "> " 0 "" {MPLTEXT 1 209 60 "h_t:=t^2*(1-t)*(18+36*t+5*t^2)/
+(2*(3+t)*(1+2*t)*(1+3*t)^2):\n" }{MPLTEXT 1 209 43 "y0_t:=(1+2*t)/((1+
+3*t)*(1-t))*exp(-h_t)-1:\n" }{MPLTEXT 1 209 174 "rho:=-1/16*sqrt(1+3*t
+)*(-1+t)^3/t^3*exp(1/16*ln(1+t)*(3*t-1)*(1+t)^3/t^3-1/32*ln(1+2*t)*(1+
+3*t)*(-1+t)^3/t^3-1/64*(-1+t)*(185*t^4+698*t^3-217*t^2-160*t+6)/t/(1+3
+*t)^2/(3+t)):" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 37 "find_sin
+gularity_connected:=proc(y0)\n" }{MPLTEXT 1 0 39 "evalf(subs(t=fsolve(
+y0_t=y0,t), rho));\n" }{MPLTEXT 1 0 9 "end proc;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%;find_singularity_connectedGf*6#%#y0G6\"6\"6\"-%&eval
+fG6#-%%subsG6$/%\"tG-%'fsolveG6$/%%y0_tG%#y0G%\"tG%$rhoG6\"6\"6\"" }}}
+{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 34 "Rc:=find_singularity_conne
+cted(1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#RcG$\"IsW\"3a.%=<mZ$H?#
+Q=e7%Gn$!#T" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 4 "1/%;" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"I_(GeW\\^!e%zqYw&)eox(oAF!#Q" }}}
+{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 26 "z0:=evalf(Rc*(1-1/(2*N)));
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#z0G$\"IJuj?wJNV>Y#QG\"47;wlsO!#
+T" }}}}{SECT 1 {PARA 210 "" 0 "" {TEXT 200 117 "If a particular balanc
+e edge-vertices is wanted, execute this part to find the good y from t
+he balance edges-vertices" }}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 
+202 48 "rho_t:=-1/16*sqrt(1+3*t)*(-1+t)^3*t^(-3)*exp(A);" }{MPLTEXT 1 
+0 0 "" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&rho_tG,$*&#\"\"\"\"#;\"\"
+\"**),&\"\"\"\"\"\"*&\"\"$\"\"\"%\"tG\"\"\"\"\"\"#\"\"\"\"\"#\"\"\"),&
+\"\"\"!\"\"%\"tG\"\"\"\"\"$\"\"\")%\"tG\"\"$!\"\"-%$expG6#%\"AG\"\"\"
+\"\"\"!\"\"" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 202 138 "A:=log(
+1+t)*(3*t-1)*(1+t)^3/(16*t^3)-log(1+2*t)*(1+3*t)*(-1+t)^3/(32*t^3)-(-1
++t)*(185*t^4+698*t^3-217*t^2-160*t+6)/(64*t*(1+3*t)^2*(3+t));" }
+{MPLTEXT 1 0 0 "" }}{PARA 227 "" 1 "" {XPPMATH 20 "6#>%\"AG,(*,#\"\"\"
+\"#;\"\"\"-%#lnG6#,&\"\"\"\"\"\"%\"tG\"\"\"\"\"\",&*&\"\"$\"\"\"%\"tG
+\"\"\"\"\"\"\"\"\"!\"\"\"\"\"),&\"\"\"\"\"\"%\"tG\"\"\"\"\"$\"\"\")%\"
+tG\"\"$!\"\"\"\"\"*,#\"\"\"\"#K\"\"\"-%#lnG6#,&\"\"\"\"\"\"*&\"\"#\"\"
+\"%\"tG\"\"\"\"\"\"\"\"\",&\"\"\"\"\"\"*&\"\"$\"\"\"%\"tG\"\"\"\"\"\"
+\"\"\"),&\"\"\"!\"\"%\"tG\"\"\"\"\"$\"\"\")%\"tG\"\"$!\"\"!\"\"*.#\"\"
+\"\"#k\"\"\",&\"\"\"!\"\"%\"tG\"\"\"\"\"\",,*&\"$&=\"\"\")%\"tG\"\"%\"
+\"\"\"\"\"*&\"$)p\"\"\")%\"tG\"\"$\"\"\"\"\"\"*&\"$<#\"\"\")%\"tG\"\"#
+\"\"\"!\"\"*&\"$g\"\"\"\"%\"tG\"\"\"!\"\"\"\"'\"\"\"\"\"\"%\"tG!\"\"),
+&\"\"\"\"\"\"*&\"\"$\"\"\"%\"tG\"\"\"\"\"\"\"\"#!\"\",&\"\"$\"\"\"%\"t
+G\"\"\"!\"\"!\"\"" }{TEXT 20 0 "" }}}{EXCHG {PARA 230 "> " 0 "" 
+{MPLTEXT 1 202 87 "Y:=(1+2*t)/(1+3*t)/(1-t)*exp(-t^2*(1-t)*(18+36*t+5*
+t^2)/(2*(3+t)*(1+2*t)*(1+3*t)^2))-1;" }{MPLTEXT 1 0 0 "" }}{PARA 227 "
+" 1 "" {XPPMATH 20 "6#>%\"YG,&**,&\"\"\"\"\"\"*&\"\"#\"\"\"%\"tG\"\"\"
+\"\"\"\"\"\",&\"\"\"\"\"\"*&\"\"$\"\"\"%\"tG\"\"\"\"\"\"!\"\",&\"\"\"
+\"\"\"%\"tG!\"\"!\"\"-%$expG6#,$*0#\"\"\"\"\"#\"\"\")%\"tG\"\"#\"\"\",
+&\"\"\"\"\"\"%\"tG!\"\"\"\"\",(\"#=\"\"\"*&\"#O\"\"\"%\"tG\"\"\"\"\"\"
+*&\"\"&\"\"\")%\"tG\"\"#\"\"\"\"\"\"\"\"\",&\"\"$\"\"\"%\"tG\"\"\"!\"
+\",&\"\"\"\"\"\"*&\"\"#\"\"\"%\"tG\"\"\"\"\"\"!\"\"),&\"\"\"\"\"\"*&\"
+\"$\"\"\"%\"tG\"\"\"\"\"\"\"\"#!\"\"!\"\"\"\"\"\"\"\"\"\"\"!\"\"" }
+{TEXT 20 0 "" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 202 42 "rho_sub
+t_prime:=simplify(diff(rho_t, t)):\n" }{MPLTEXT 1 202 31 "Y_prime:=sim
+plify(diff(Y, t)):\n" }{MPLTEXT 1 202 51 "rho_prime_t:=simplify( rho_s
+ubt_prime*1/Y_prime ):\n" }{MPLTEXT 1 202 38 "mu_t:=simplify(-Y*rho_pr
+ime_t/rho_t):\n" }{MPLTEXT 1 202 35 "t_mu:=mu->fsolve(mu_t=mu, t, 0..1
+):" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 74 "y_from_expected_edges:=expe
+ct_edges->evalf(subs(t=t_mu(expect_edges),Y)):\n" }{MPLTEXT 1 0 28 "y_
+from_expected_edges(1.1);\n" }{MPLTEXT 1 0 26 "y_from_expected_edges(2
+);\n" }{MPLTEXT 1 0 28 "y_from_expected_edges(2.2);\n" }{MPLTEXT 1 0 
+27 "y_from_expected_edges(2.9);" }}{PARA 227 "" 1 "" {XPPMATH 20 "6#$
+\"Q\\$pCE;.!Qc)fd;ON?'3ZBG9o'H\"!#\\" }{TEXT 20 0 "" }}{PARA 227 "" 1 
+"" {XPPMATH 20 "6#$\"R/L%o/N!e\\X\"Hv2,)R;>_#HiI3Mh!#\\" }{TEXT 20 0 "
+" }}{PARA 227 "" 1 "" {XPPMATH 20 "6#$\"RdpZ5Mvj:/2Hl08o[S6wd#H,(p*!#
+\\" }{TEXT 20 0 "" }}{PARA 227 "" 1 "" {XPPMATH 20 "6#$\"Shzzc&z+^!)zm
+;&R?#H#ebgmhoy!Q\"!#[" }{TEXT 20 0 "" }}}{EXCHG {PARA 230 "> " 0 "" 
+{MPLTEXT 1 202 33 "plot(mu_t, t=0+0.0001..1-0.0001);" }{TEXT 230 0 "" 
+}}{PARA 213 "" 1 "" {TEXT 238 0 "" }{GLPLOT2D 400 400 400 {PLOTDATA 2 
+"6%-%'CURVESG6$7S7$$\"#5!\"&$\"1$[E*\\u$*****!#;7$$\"2KL$et%z#*=#!#=$
+\"2m)Gxb#e^+\"!#;7$$\"2k;/5*)ea3%!#=$\"1N)Qk;#z;5!#:7$$\"1L$36'4\"z@'!
+#<$\"2bc1>OMi.\"!#;7$$\"1L$exI)\\k$)!#<$\"28=+I?H81\"!#;7$$\"2nTX*H$)3
+]5!#<$\"2Qo15W%y!4\"!#;7$$\"2M32jce\"[7!#<$\"27z)e*\\%Q@6!#;7$$\"0v$QB
+)[KX\"!#:$\"2mO6lLWe:\"!#;7$$\"2M3P1Y``m\"!#<$\"2p@;e+kR>\"!#;7$$\"0vG
+c(yxw=!#:$\"2)H$>()>bSB\"!#;7$$\"2nm6Q(QD%4#!#<$\"12/Dsr5x7!#:7$$\"2M$
+eQ^o!eG#!#<$\"1i[W.%*H;8!#:7$$\".N\\8]9]#!#8$\"2n?w.b1;O\"!#;7$$\".D0(
+)yzr#!#8$\"2Bb<&Hn939!#;7$$\".l!HWkEH!#8$\"2s/!Q4%3QX\"!#;7$$\"1$3PnuK
+h6$!#;$\"2#4t&G^Oe\\\"!#;7$$\"1n;:%o_9M$!#;$\"2)eQ()*Hrja\"!#;7$$\"1nm
+SE#GB`$!#;$\"2A+K:.d&*e\"!#;7$$\"0v8(e=OaP!#:$\"/W$y>@,k\"!#87$$\"2mmc
+aC**3&R!#<$\"2QFBz_&4&o\"!#;7$$\"0v8#3>`mT!#:$\"2N=`9\"ffM<!#;7$$\"0DT
+e>l=P%!#:$\"2#R$fw))>=y\"!#;7$$\"2m;/1%*3he%!#<$\"2wX6VDC6$=!#;7$$\"2l
+Tbzd^Gy%!#<$\"2d&*\\Qx#Qw=!#;7$$\"2L$eM\"4l]*\\!#<$\"2oD:'4k8D>!#;7$$
+\"1$3P-H&\\:_!#;$\"27+/fekc(>!#;7$$\"0DmjU!Q2a!#:$\"2uX\\zTC&>?!#;7$$
+\"1L3DI;i9c!#;$\"1Y:C!)\\tm?!#:7$$\"-Vs?sGe!#7$\"2cM)>FuI:@!#;7$$\"/vW
+&ex\"Qg!#9$\"1-laGZgi@!#:7$$\"0v$Hkl$3C'!#:$\"2=cmhER\"3A!#;7$$\"/D*y!
+[&eY'!#9$\"2k#>E(z9%eA!#;7$$\"1nm&yqV!om!#;$\"1#[H%y-K.B!#:7$$\".D\\^B
+R)o!#8$\"1&=$fi2(4N#!#:7$$\"1$3xhqU&zq!#;$\"1'oGA&\\(QR#!#:7$$\".:?:1M
+H(!#8$\"2'Q\"\\cBs/W#!#;7$$\"1;/y()\\j%\\(!#;$\"2WF)GFY,%[#!#;7$$\"0v3
+E5x\\q(!#:$\"2ug(*>$)3#HD!#;7$$\"1m;*o'\\i5z!#;$\"0R!\\$GsId#!#97$$\"0
+vVBA>f7)!#:$\"2KbJ*Rok=E!#;7$$\"1MLnyJFL$)!#;$\"29?ILg,Am#!#;7$$\"1Le
+\"yaA`a)!#;$\"2X'\\fCbR1F!#;7$$\"1;/7Tghb()!#;$\"2#***GHau)\\F!#;7$$\"
+-B@R&)[*)!#7$\"2vm!4<&>&*y#!#;7$$\"1n\">(QjKq\"*!#;$\"1H[+EPfMG!#:7$$
+\"1LL64RTo$*!#;$\"1\"Gd()\\zX(G!#:7$$\"0v8Zd;'z&*!#:$\"2a9\"4H0(o\"H!#
+;7$$\"0DYXZk<y*!#:$\"1$QjcM=q&H!#:7$$\"%****!\"%$\"1u#HB!R!)**H!#:-%&C
+OLORG6&%$RGBG$\"#5!\"\"$\"\"!!\"\"$\"\"!!\"\"-%%VIEWG6$;$\"1)*********
+******!#?$\"%****!\"%;$\"1i\"f%=a(**f*!#;$\"2n+wa5+)RI!#;-%+AXESLABELS
+G6$Q\"t6\"Q!6\"" 1 2 2 1 10 1 2 0 0 4 2 1.0 45.0 45.0 0 0 "Curve 1" }}
+{TEXT 203 0 "" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 31 "y0:=y_fr
+om_expected_edges(mu):\n" }}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+18 "x0:=eval_F(z0,y0);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#x0G$\"IrH
+2&fHU&>KGz9o*H$>3\"*=Q!#T" }}}{SECT 0 {PARA 219 "" 0 "" {TEXT 224 56 "
+Calculating the choose-vectors of bicolored binary trees" }}{EXCHG 
+{PARA 230 "> " 0 "" {MPLTEXT 1 0 41 "solutions_networks:=eval_network(
+x0,y0); " }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%3solutions_networksG<)/%
+\"KG$\"I&\\k')***eA9#)p)[\"Gq>h-iA@!#U/%\"PG$\"I-3e36'[oF4[(*)GYs=w&e
+\"[!#T/%\"SG$\"It;Dw!*R/&HK*Rs2D[g%H')Q%!#T/%\"HG$\"I&\\k')***eA9#)p)[
+\"Gq>h-iA@!#U/%\"DG$\"I*)p%=>:LR6OO%RoK0\"\\nT4\"!#R/%\"uG$\"Ii#p?&ejp
+(zCk+h:G0,vXD&!#S/%\"vG$\"IF0*yEUbl2%eV!>?uyF]ha#!#R" }}}{EXCHG {PARA 
+230 "> " 0 "" {MPLTEXT 1 0 70 "u_eval:=subs(solutions_networks,u):v_ev
+al:=subs(solutions_networks,v):" }}}{EXCHG {PARA 230 "> " 0 "" 
+{MPLTEXT 1 0 33 "ch_1_or_u:=[evalf(1/(1+u_eval))];" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 "6#>%*ch_1_or_uG7#$\"I(z^C1mkAm)o#o[?G:U5ab'!#S" }}}
+{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 33 "ch_1_or_v:=[evalf(1/(1+v_e
+val))];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%*ch_1_or_vG7#$\"I`3\\4)o`
+4DR.W.J1OXf*>G!#S" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "ch_u_o
+r_v:=[evalf(u_eval/(u_eval+v_eval))];" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#>%*ch_u_or_vG7#$\"Igt-hR$*Q_TN<;.7y]?p5<!#S" }}}}{SECT 0 {PARA 226 
+"" 0 "" {TEXT 225 64 "Calculating the choose-vectors of pointed bicolo
+red binary trees" }}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 95 "soluti
+on_derivate_binary_tree:=subs(\{x=x0,op(solutions_networks)\},system_d
+erivate_binary_tree);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%>solution_d
+erivate_binary_treeG<&/%$dxuG$\"IZXl'yK')\\\\(*>3#*\\&=\\f#\\G\"!#O/%$
+dxvG$\"I!=#>]c!pr6%zxy%GM(R_N*G%!#O/%$dyuG$\"I?>)o1[E]r)y2L&3`ZfxC4\"!
+#P/%$dyvG$\"Ij,'oR2$\\cumu22!4p.#>qO!#P" }}}{EXCHG {PARA 225 "" 0 "" 
+{TEXT 222 133 "Here pU and pV stand for the generating functions of bl
+ack-rooted and white-rooted bicolored binary trees with a pointed blac
+k vertex" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 228 "dxu_eval:=ev
+alf(subs(solution_derivate_binary_tree,dxu)):dxv_eval:=evalf(subs(solu
+tion_derivate_binary_tree,dxv)):dyu_eval:=evalf(subs(solution_derivate
+_binary_tree,dyu)):dyv_eval:=evalf(subs(solution_derivate_binary_tree,
+dyv)):" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 53 "ch_dxu_or_dxv:=
+[evalf(dxu_eval/(dxu_eval+dxv_eval))];" }}{PARA 11 "" 1 "" {XPPMATH 20
+ "6#>%.ch_dxu_or_dxvG7#$\"IoKy****ps6n%3&)4$3\"f6(40B!#S" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 35 "D_eval:=subs(solutions_networks,D);
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'D_evalG$\"I*)p%=>:LR6OO%RoK0\"
+\\nT4\"!#R" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 139 "choose_vec
+tor_dxu_Bernoulli:=[(1+v_eval)^2*D_eval/dxu_eval,x0*D_eval*dxv_eval*(1
++v_eval)/dxu_eval,(1+v_eval)*x0*D_eval*dxv_eval/dxu_eval];\n" }
+{MPLTEXT 1 0 114 "choose_vector_dxu:=[choose_vector_dxu_Bernoulli[1],c
+hoose_vector_dxu_Bernoulli[1]+choose_vector_dxu_Bernoulli[2]];" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#>%<choose_vector_dxu_BernoulliG7%$\"I]
+:c>[FP8k)o-=X\\NkG32\"!#T$\"I@>-fi8Lzcl)4u_Aycek%\\!#S$\"I@>-fi8Lzcl)4
+u_Aycek%\\!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%2choose_vector_dxuG
+7$$\"I]:c>[FP8k)o-=X\\NkG32\"!#T$\"Iw!y4ujo1KW8!fsu<K9a`]!#S" }}}
+{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 25 "choose_vector_dxv:=[0.5];"
+ }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%2choose_vector_dxvG7#$\"\"&!\"\""
+ }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 53 "ch_dyu_or_dyv:=[evalf(
+dyu_eval/(dyu_eval+dyv_eval))];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%.
+ch_dyu_or_dyvG7#$\"I(oI*[61%e^X,\"ptk?2X$QH#!#S" }}}{EXCHG {PARA 230 "
+> " 0 "" {MPLTEXT 1 0 126 "choose_vector_dyv_Bernoulli:=[(1+u_eval)^2/
+dyv_eval,dyu_eval*D_eval*(1+u_eval)/dyv_eval,(1+u_eval)*D_eval*dyu_eva
+l/dyv_eval];\n" }{MPLTEXT 1 0 114 "choose_vector_dyv:=[choose_vector_d
+yv_Bernoulli[1],choose_vector_dyv_Bernoulli[1]+choose_vector_dyv_Berno
+ulli[2]];" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%<choose_vector_dyv_Bern
+oulliG7%$\"Iw@*pN)3(\\N*GM#>o$>(yB.M'!#U$\"IX]@eX^A`&GQ!fJS1\"Q)Ho\\!#
+S$\"IX]@eX^A`&GQ!fJS1\"Q)Ho\\!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%
+2choose_vector_dyvG7$$\"Iw@*pN)3(\\N*GM#>o$>(yB.M'!#U$\"In\\yTa[xY9<'4
+%of$*=;qJ]!#S" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 135 "choose_
+vector_dyu_Bernoulli:=[x0*(1+v_eval)^2/dyu_eval,x0*D_eval*dyv_eval*(1+
+v_eval)/dyu_eval,x0*D_eval*(1+v_eval)*dyv_eval/dyu_eval];\n" }{MPLTEXT
+ 1 0 114 "choose_vector_dyu:=[choose_vector_dyu_Bernoulli[1],choose_ve
+ctor_dyu_Bernoulli[1]+choose_vector_dyu_Bernoulli[2]];" }}{PARA 12 "" 
+1 "" {XPPMATH 20 "6#>%<choose_vector_dyu_BernoulliG7%$\"Il$4+7bMExN?#G
+l3+dO$eR%!#U$\"I^**RCFo8@)*)etc*\\rJ3-y\\!#S$\"I^**RCFo8@)*)etc*\\rJ3-
+y\\!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%2choose_vector_dyuG7$$\"Il
+$4+7bMExN?#Gl3+dO$eR%!#U$\"IX+gvsJ')y,6kK/]Go\"z>-&!#S" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 78 "ch_b_or_dxb:=[evalf((u_eval+v_eval)
+/(u_eval+v_eval+x0*dxu_eval+x0*dxv_eval))];" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%,ch_b_or_dxbG7#$\"InE!QE0o5Wk!e(Qe0u>!QA9!#T" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 95 "ch_3b_or_dyb:=[evalf((3*u_ev
+al+3*v_eval)/(3*u_eval+3*v_eval+D_eval*dyu_eval+D_eval*dyv_eval))];" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%-ch_3b_or_dybG7#$\"I'p0C>;Ft*o*)yez
+0c)*=cP<!#T" }}}}{SECT 0 {PARA 224 "" 0 "" {TEXT 211 54 "Calculating t
+he choose-vectors of 3-connected networks" }}{EXCHG {PARA 230 "> " 0 "
+" {MPLTEXT 1 0 198 "solution_derivate_3_connected:=subs(\{x=x0,op(eval
+_network(x0,y0))\},system_derivate_3_connected);solution_bi_derivate_3
+_connected:=subs(\{x=x0,op(eval_network(x0,y0))\},system_bi_derivate_3
+_connected);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%>solution_derivate_3
+_connectedG<$/%$dxKG$\"I/g$eMme!R(\\NS06uw!3`*\\#!#S/%$dyKG$\"I,XB'\\B
+^Xr**pCfB2-eIo9#!#T" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%Asolution_bi_
+derivate_3_connectedG<%/%%dxyKG$\"I?c%*oRXp*z!)QYo#)o'))>\")4s!#Q/%%dx
+xKG$\"IS2Iw=(H[Z\"pP!f-`(Gd.,%)!#P/%%dyyKG$\"I&*zN4qL]L'f7%eF'fueC97'!
+#R" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 190 "K_eval:=subs(solut
+ions_networks,K);dxK_eval:=subs(solution_derivate_3_connected,dxK);dyK
+_eval:=subs(solution_derivate_3_connected,dyK);dxyK_eval:=subs(solutio
+n_bi_derivate_3_connected,dxyK);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%
+'K_evalG$\"I&\\k')***eA9#)p)[\"Gq>h-iA@!#U" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%)dxK_evalG$\"I/g$eMme!R(\\NS06uw!3`*\\#!#S" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%)dyK_evalG$\"I,XB'\\B^Xr**pCfB2-eIo9#!#T" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%*dxyK_evalG$\"I?c%*oRXp*z!)QYo#)o'
+))>\")4s!#Q" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 43 "ch_K_in_dy
+K:=[evalf(K_eval/(y0*dyK_eval))];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>
+%,ch_K_in_dyKG7#$\"Il619l-qYE/B<#\\4=iFs))*!#T" }}}{EXCHG {PARA 0 "> "
+ 0 "" {MPLTEXT 1 0 49 "ch_dxK_in_dxyK:=[evalf(dxK_eval/(y0*dxyK_eval))
+];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%/ch_dxK_in_dxyKG7#$\"I*z#G#ye@
+cowAIC8S4.YoY$!#U" }}}}{SECT 0 {PARA 229 "" 0 "" {TEXT 220 42 "Calcula
+ting the choose-vectors of networks" }}{EXCHG {PARA 220 "" 0 "" {TEXT 
+228 45 "We recall the system verified by the networks" }}}{EXCHG 
+{PARA 223 "> " 0 "" {MPLTEXT 1 0 29 "system_verified_by_network:=\{" }
+{MPLTEXT 1 233 1 "\n" }{MPLTEXT 1 233 11 "D=y+S+P+H,\n" }{MPLTEXT 1 
+233 15 "S=(y+P+H)*x*D,\n" }{MPLTEXT 1 233 35 "P=y*(exp(S+H)-1)+(exp(S+
+H)-S-H-1),\n" }{MPLTEXT 1 233 5 "H=K\}:" }}}{EXCHG {PARA 230 "> " 0 ""
+ {MPLTEXT 1 0 40 "solutions_networks:=eval_network(x0,y0);" }}{PARA 12
+ "" 1 "" {XPPMATH 20 "6#>%3solutions_networksG<)/%\"KG$\"I&\\k')***eA9
+#)p)[\"Gq>h-iA@!#U/%\"PG$\"I-3e36'[oF4[(*)GYs=w&e\"[!#T/%\"SG$\"It;Dw!
+*R/&HK*Rs2D[g%H')Q%!#T/%\"HG$\"I&\\k')***eA9#)p)[\"Gq>h-iA@!#U/%\"DG$
+\"I*)p%=>:LR6OO%RoK0\"\\nT4\"!#R/%\"uG$\"Ii#p?&ejp(zCk+h:G0,vXD&!#S/%
+\"vG$\"IF0*yEUbl2%eV!>?uyF]ha#!#R" }}}{EXCHG {PARA 230 "> " 0 "" 
+{MPLTEXT 1 0 136 "Deval:=subs(solutions_networks,D):Seval:=subs(soluti
+ons_networks,S):Peval:=subs(solutions_networks,P):Heval:=subs(solution
+s_networks,H):" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 114 "choose
+_vector_non_trivial_D_Bernoulli:=[evalf(Seval/(Deval-y0)),evalf(Peval/
+(Deval-y0)),evalf(Heval/(Deval-y0))];\n" }{MPLTEXT 1 0 154 "choose_vec
+tor_non_trivial_D:=[choose_vector_non_trivial_D_Bernoulli[1],choose_ve
+ctor_non_trivial_D_Bernoulli[1]+choose_vector_non_trivial_D_Bernoulli[
+2]];" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%Fchoose_vector_non_trivial_D
+_BernoulliG7%$\"I1Cf&=S15tK!zya.Ki1XgY!#S$\"I#yi)G%=\\vQ?eY-tW)4.99^!#
+S$\"I$Q[a&QTW9)o9b'\\\"\\$y-4aA!#T" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#
+>%<choose_vector_non_trivial_DG7$$\"I1Cf&=S15tK!zya.Ki1XgY!#S$\"I)=bWh
+eb&=J&[M]3l@(4fu(*!#S" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 103 
+"choose_vector_D_Bernoulli:=[evalf(y0/Deval),evalf(Seval/Deval),evalf(
+Peval/Deval),evalf(Heval/Deval)];\n" }{MPLTEXT 1 0 193 "choose_vector_
+D:=[choose_vector_D_Bernoulli[1],choose_vector_D_Bernoulli[1]+choose_v
+ector_D_Bernoulli[2],choose_vector_D_Bernoulli[1]+choose_vector_D_Bern
+oulli[2]+choose_vector_D_Bernoulli[3]];" }}{PARA 12 "" 1 "" {XPPMATH 
+20 "6#>%:choose_vector_D_BernoulliG7&$\"I<c(*4c_+#f3TUVui+fo$R\"*!#S$
+\"IYy#R]NY)4!zm+RybWAI4,%!#T$\"Ix&RH?_PPsuW-Piyay*Q,W!#T$\"IgUwL>cjjMg
+xs*[\"Q%*3%*R>!#U" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%0choose_vector_
+DG7%$\"I<c(*4c_+#f3TUVui+fo$R\"*!#S$\"I-%o.;*)*)H\\wZKFK3Dhh/a*!#S$\"I
+gBm!Qkj`'RAF5&=c5f+1)**!#S" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 
+0 57 "choose_vector_P:=[evalf(y0*(exp(Seval+Heval)-1))/Peval];\n" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%0choose_vector_PG7#$\"I08>Q\"[!HMvZ?
+ePt!yF9ox*!#S" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 116 "ch_y_or
+_P_or_H_Bernoulli:=[evalf(y0/(y0+Peval+Heval)),evalf(Peval/(y0+Peval+H
+eval)),evalf(Heval/(y0+Peval+Heval))];\n" }{MPLTEXT 1 0 102 "ch_y_or_P
+_or_H:=[ch_y_or_P_or_H_Bernoulli[1],ch_y_or_P_or_H_Bernoulli[1]+ch_y_o
+r_P_or_H_Bernoulli[2]];" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%9ch_y_or_
+P_or_H_BernoulliG7%$\"I<H[p&[fR\"p.s:Td*>nf7_*!#S$\"IGPqLc8'eUBU@^iBJ4
+.`e%!#T$\"I+:n9nyVXV2a1L'*=p=+@?!#U" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#>%/ch_y_or_P_or_HG7$$\"I<H[p&[fR\"p.s:Td*>nf7_*!#S$\"I!H`G8iXlDfMpO53
+8)**yz**!#S" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 40 "ch_S_or_H:
+=[evalf(Seval/(Seval+Heval))];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%*c
+h_S_or_HG7#$\"Io#o?4ysJt](4X*=KIA]'Q&*!#S" }}}{EXCHG {PARA 225 "" 0 ""
+ {TEXT 222 201 "We compute the vector for the Poisson laws of paramete
+r S+H. Notice that the 1+... is only used to have an output without ex
+ponent notation. When put in the file, the first 1 has to be replaced \+
+by a 0." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "exp_S_plus_H:=ev
+alf(exp(Seval+Heval)): \n" }{MPLTEXT 1 0 36 "poisson_S_plus_H:=[seq(0,
+i=1..21)]:\n" }{MPLTEXT 1 0 44 "poisson_S_plus_H[1]:=evalf(1/exp_S_plu
+s_H):\n" }{MPLTEXT 1 0 113 "for i from 2 to 21 do poisson_S_plus_H[i]:
+=poisson_S_plus_H[i-1]+evalf((Seval+Heval)^(i-1)/(i-1)!/exp_S_plus_H);
+\n" }{MPLTEXT 1 0 4 "od:\n" }{MPLTEXT 1 0 17 "poisson_S_plus_H;" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#77$\"IU&*yF(\\lO-:&R0q_d\"[M.b*!#S$\"I
+B<o%))plu@;H8?5!o2]t*)**!#S$\"Ivg?r\\`5Uhb>GB*y$yJ%)****!#S$\"IQ,im[,]
+#*ziU/,tO+#)******!#S$\"I$RUa:ilHkju_umlM)********!#S$\"I7:g%)=(zTmDJS
+;Nt)**********!#S$\"ImQ:%3-#H[GoWEo\"*************!#S$\"I:7pM8-z?2h'>_
+***************!#S$\"I4+ZGcX\\\\&\\dv*****************!#S$\"IK=j@@!e;q
+w))*******************!#S$\"IyNB%>d-LI&**********************!#S$\"I31
+$*\\Hy*>)************************!#S$\"I3c]\"QIO**********************
+*****!#S$\"I!*\\zr!z*****************************!#S$\"Ik+#e$*********
+***********************!#S$\"Iua\")**********************************!
+#S$\"I'\\*************************************!#S$\"I%****************
+***********************!#S$\"I&***************************************
+!#S$\"I&***************************************!#S$\"I&***************
+************************!#S" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 
+0 53 "exp_at_least_1_S_plus_H:=evalf(exp(Seval+Heval)-1): \n" }
+{MPLTEXT 1 0 47 "poisson_at_least_1_S_plus_H:=[seq(0,i=1..21)]:\n" }
+{MPLTEXT 1 0 78 "poisson_at_least_1_S_plus_H[1]:=evalf((Seval+Heval)/e
+xp_at_least_1_S_plus_H):\n" }{MPLTEXT 1 0 23 "for i from 2 to 21 do \n
+" }{MPLTEXT 1 0 116 "poisson_at_least_1_S_plus_H[i]:=poisson_at_least_
+1_S_plus_H[i-1]+evalf((Seval+Heval)^i/i!/exp_at_least_1_S_plus_H);\n" 
+}{MPLTEXT 1 0 4 "od:\n" }{MPLTEXT 1 0 28 "poisson_at_least_1_S_plus_H;
+" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#77$\"I%QuA9j,\\Af$o]R0J!Q><x*!#S$
+\"IJ!G$3C8_xFq]XAA%G[7l***!#S$\"IIgS::=jVfFZ^0XTy*f*****!#S$\"I9GaounP
+(3**eaq2(HK'*******!#S$\"I//tAD^&edH$G_)\\$=(*********!#S$\"I`!QX5@xVL
+HoRK]\")***********!#S$\"I@cZb(H&)pWvA\"p$*)*************!#S$\"I[&[p@e
+Smxu\"oX****************!#S$\"IbcVw@)=mC>](******************!#S$\"IxN
+#))o758b&*)********************!#S$\"IE'[fE>a'*f**********************
+*!#S$\"Iu1ALwMe)*************************!#S$\"IJl$GeM&***************
+*************!#S$\"IA$=Fd)******************************!#S$\"I(Q'*e**
+*******************************!#S$\"I<)))****************************
+*******!#S$\"I$*)*************************************!#S$\"I@********
+******************************!#S$\"I@********************************
+******!#S$\"I@**************************************!#S$\"I@**********
+****************************!#S" }}}{EXCHG {PARA 230 "> " 0 "" 
+{MPLTEXT 1 0 65 "exp_at_least_2_S_plus_H:=evalf(exp(Seval+Heval)-Seval
+-Heval-1): \n" }{MPLTEXT 1 0 47 "poisson_at_least_2_S_plus_H:=[seq(0,i
+=1..21)]:\n" }{MPLTEXT 1 0 82 "poisson_at_least_2_S_plus_H[1]:=evalf((
+Seval+Heval)^2/2/exp_at_least_2_S_plus_H):\n" }{MPLTEXT 1 0 23 "for i \+
+from 2 to 21 do \n" }{MPLTEXT 1 0 124 "poisson_at_least_2_S_plus_H[i]:
+=poisson_at_least_2_S_plus_H[i-1]+evalf((Seval+Heval)^(i+1)/(i+1)!/exp
+_at_least_2_S_plus_H);\n" }{MPLTEXT 1 0 4 "od:\n" }{MPLTEXT 1 0 28 "po
+isson_at_least_2_S_plus_H;" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#77$\"IX:
+3^O8zTZ^L7Jnk_nAZ)*!#S$\"Iy+^DP3s4'f382r*3DoC)***!#S$\"Iv'>`j[O%H=@y4L
+P]#*Q)*****!#S$\"IMC;qsE\"GtcBdn3@m()*******!#S$\"Ie(3\"*>>O%\\wsg%et*
+=**********!#S$\"I!4de![u2E9Si1V`************!#S$\"I2!H>\")H%3$f6\\0i(
+**************!#S$\"I)fe!o7uet(*p0*)****************!#S$\"I\">NKH6A&[X
+U&*******************!#S$\"I0B!*3P#eDY#)*********************!#S$\"Im$
+)fkT\"[z$************************!#S$\"I`ouf?hz***********************
+***!#S$\"Icp(oZP*****************************!#S$\"IYgB?)*************
+******************!#S$\"ISz]**********************************!#S$\"IB
+J************************************!#S$\"IjV************************
+************!#S$\"ImV************************************!#S$\"ImV****
+********************************!#S$\"ImV*****************************
+*******!#S$\"ImV************************************!#S" }}}}{SECT 0 
+{PARA 229 "" 0 "" {TEXT 220 51 "Calculating the choose-vectors of deri
+vate networks" }}{EXCHG {PARA 220 "" 0 "" {TEXT 228 49 "We recall the \+
+system verified by pointed networks" }}}{EXCHG {PARA 230 "> " 0 "" 
+{MPLTEXT 1 0 30 "equations_derivate_network:=\{\n" }{MPLTEXT 1 0 13 "d
+D=dS+dP+dH,\n" }{MPLTEXT 1 0 39 "dS=(dP+dH)*x*D+(y+P+H)*D+(y+P+H)*x*dD
+,\n" }{MPLTEXT 1 0 44 "dP=y*(dS+dH)*exp(S+H)+(dS+dH)*(exp(S+H)-1),\n" 
+}{MPLTEXT 1 0 14 "dH=dxK+dD*dyK\n" }{MPLTEXT 1 0 2 "\}:" }}}{EXCHG 
+{PARA 230 "> " 0 "" {MPLTEXT 1 0 56 "solution_derivate_network:=eval_d
+erivate_network(x0,y0);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%:solution
+_derivate_networkG<&/%#dHG$\"I\\IpkAxT^:nsu]`M2x7pK!#S/%#dSG$\"I&=orYB
+jg_s5-\")[A!p:*[Q\"!#R/%#dPG$\"I:zN'*\\*yv!zowmQggf1+t=!#R/%#dDG$\"I1a
+***o&Ry)eF]W=1j$**\\![e$!#R" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 
+0 270 "dDeval:=subs(solution_derivate_network,dD):dSeval:=subs(solutio
+n_derivate_network,dS):dPeval:=subs(solution_derivate_network,dP):dHev
+al:=subs(solution_derivate_network,dH):dxKeval:=subs(solution_derivate
+_3_connected,dxK):dyKeval:=subs(solution_derivate_3_connected,dyK):" }
+}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 94 "choose_vector_dD_Bernoul
+li:=[evalf(dSeval/dDeval),evalf(dPeval/dDeval),evalf(dHeval/dDeval)];
+\n" }{MPLTEXT 1 0 110 "choose_vector_dD:=[choose_vector_dD_Bernoulli[1
+],choose_vector_dD_Bernoulli[1]+choose_vector_dD_Bernoulli[2]];" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#>%;choose_vector_dD_BernoulliG7%$\"IS<
+m.<gC'eg]Ot-4L1FK'Q!#S$\"IH_5O^s;)[U-t\\O7#fF$[A&!#S$\"It-L-;t'eDpp/p2
+'yu<S>\"*!#T" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%1choose_vector_dDG7$
+$\"IS<m.<gC'eg]Ot-4L1FK'Q!#S$\"IppwRoKTuII&4BR@D#)f!)3*!#S" }}}{EXCHG 
+{PARA 230 "> " 0 "" {MPLTEXT 1 0 148 "choose_vector_dS_Bernoulli:=[eva
+lf((dPeval+dHeval)*x0*Deval/dSeval),evalf((y0+Peval+Heval)*Deval/dSeva
+l),evalf((y0+Peval+Heval)*x0*dDeval/dSeval)];\n" }{MPLTEXT 1 0 110 "ch
+oose_vector_dS:=[choose_vector_dS_Bernoulli[1],choose_vector_dS_Bernou
+lli[1]+choose_vector_dS_Bernoulli[2]];" }}{PARA 12 "" 1 "" {XPPMATH 20
+ "6#>%;choose_vector_dS_BernoulliG7%$\"I\\^%fqbNNH')***[5<_%eJwj'!#T$
+\"Ily$3\"3`[ryOn(*R7zPP+)H)!#S$\"IEwc=O6;*\\LEu*)ecP5L#Q5!#S" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%1choose_vector_dSG7$$\"I\\^%fqbNNH')***[5<
+_%eJwj'!#T$\"I!QK9Q')Q3]mtD5TVi*owh*)!#S" }}}{EXCHG {PARA 230 "> " 0 "
+" {MPLTEXT 1 0 70 "choose_vector_dP:=[evalf(y0*(dSeval+dHeval)*exp(Sev
+al+Heval)/dPeval)];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%1choose_vecto
+r_dPG7#$\"I*z()\\!GE+'Ha?r@PJ]H%op&*!#S" }}}{EXCHG {PARA 230 "> " 0 ""
+ {MPLTEXT 1 0 42 "choose_vector_dH:=[evalf(dxKeval/dHeval)];" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%1choose_vector_dHG7#$\"I2;FArm\"39;U45!*
+\\9okek(!#S" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 45 "ch_dP_or_d
+H:=[evalf(dPeval/(dPeval+dHeval))];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#>%,ch_dP_or_dHG7#$\"I$RIS1DD:3fAa,o>aQuR^)!#S" }}}{EXCHG {PARA 230 ">
+ " 0 "" {MPLTEXT 1 0 45 "ch_dS_or_dH:=[evalf(dSeval/(dSeval+dHeval))];
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%,ch_dS_or_dHG7#$\"Io&Q#)e\"G$3Fe
+mP=&*Ql_W-4)!#S" }}}}{SECT 0 {PARA 229 "" 0 "" {TEXT 220 54 "Calculati
+ng the choose-vectors of bi-derivate networks" }}{EXCHG {PARA 220 "" 0
+ "" {TEXT 228 52 "We recall the system verified by bi-pointed networks
+" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 33 "equations_bi_derivate
+_network:=\{\n" }{MPLTEXT 1 0 17 "ddD=ddS+ddP+ddH,\n" }{MPLTEXT 1 0 
+73 "ddS=(ddP+ddH)*x*D+2*(dP+dH)*D+2*(dP+dH)*x*dD+2*(y+P+H)*dD+(y+P+H)*
+x*ddD,\n" }{MPLTEXT 1 0 89 "ddP=y*(ddS+ddH)*exp(S+H)+y*(dS+dH)^2*exp(S
++H)+(ddS+ddH)*(exp(S+H)-1)+(dS+dH)^2*exp(S+H),\n" }{MPLTEXT 1 0 37 "dd
+H=dxxK+2*dD*dxyK+ddD*dyK+dD^2*dyyK\n" }{MPLTEXT 1 0 2 "\}:" }}}{EXCHG 
+{PARA 230 "> " 0 "" {MPLTEXT 1 0 165 "solution_bi_derivate_network:=ev
+al_bi_derivate_network(x0,y0);solutions_bi_derivate_3_connected:=subs(
+\{x=x0,op(eval_network(x0,y0))\},system_bi_derivate_3_connected);" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#>%=solution_bi_derivate_networkG<&/%$d
+dDG$\"I$*pq8DAe6Y.Qv\\&QGGXW%Q!#O/%$ddSG$\"Id&)\\g)=_>`![\"*G\"\\V`u&Q
+YJ!#P/%$ddPG$\"Iw6(>>4(z2#**3c5/v&R')e6?!#O/%$ddHG$\"IkfoN9**e]t)zo&f
+\"H(o!=#=:!#O" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%Bsolutions_bi_deriv
+ate_3_connectedG<%/%%dxyKG$\"I?c%*oRXp*z!)QYo#)o'))>\")4s!#Q/%%dxxKG$
+\"IS2Iw=(H[Z\"pP!f-`(Gd.,%)!#P/%%dyyKG$\"I&*zN4qL]L'f7%eF'fueC97'!#R" 
+}}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 357 "ddDeval:=subs(solution
+_bi_derivate_network,ddD):ddSeval:=subs(solution_bi_derivate_network,d
+dS):ddPeval:=subs(solution_bi_derivate_network,ddP):ddHeval:=subs(solu
+tion_bi_derivate_network,ddH):dxxKeval:=subs(solutions_bi_derivate_3_c
+onnected,dxxK):dxyKeval:=subs(solutions_bi_derivate_3_connected,dxyK):
+dyyKeval:=subs(solutions_bi_derivate_3_connected,dyyK):" }}}{EXCHG 
+{PARA 230 "> " 0 "" {MPLTEXT 1 0 101 "choose_vector_ddD_Bernoulli:=[ev
+alf(ddSeval/ddDeval),evalf(ddPeval/ddDeval),evalf(ddHeval/ddDeval)];\n
+" }{MPLTEXT 1 0 114 "choose_vector_ddD:=[choose_vector_ddD_Bernoulli[1
+],choose_vector_ddD_Bernoulli[1]+choose_vector_ddD_Bernoulli[2]];" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#>%<choose_vector_ddD_BernoulliG7%$\"I]
+vJ>>&QzkpXd<LZKfQU=)!#T$\"I#ob'G&ohVohuPP//y&[XK_!#S$\"IqDTziW%3N\"3l3
+B7(GG@\"\\R!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%2choose_vector_ddD
+G7$$\"I]vJ>>&QzkpXd<LZKfQU=)!#T$\"IPue?Pb:\\'=\\8pxGrry30'!#S" }}}
+{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 240 "choose_vector_ddS_Bernoul
+li:=[evalf((ddPeval+ddHeval)*x0*Deval/ddSeval),evalf(2*(dPeval+dHeval)
+*Deval/ddSeval),evalf(2*(dPeval+dHeval)*x0*dDeval/ddSeval),evalf(2*(y0
++Peval+Heval)*dDeval/ddSeval),evalf((y0+Peval+Heval)*x0*ddDeval/ddSeva
+l)];\n" }{MPLTEXT 1 0 331 "choose_vector_ddS:=[choose_vector_ddS_Berno
+ulli[1],choose_vector_ddS_Bernoulli[1]+choose_vector_ddS_Bernoulli[2],
+choose_vector_ddS_Bernoulli[1]+choose_vector_ddS_Bernoulli[2]+choose_v
+ector_ddS_Bernoulli[3],choose_vector_ddS_Bernoulli[1]+choose_vector_dd
+S_Bernoulli[2]+choose_vector_ddS_Bernoulli[3]+choose_vector_ddS_Bernou
+lli[4]];" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%<choose_vector_ddS_Berno
+ulliG7'$\"ILc6wGEhx'*puO:1N#oExo%!#S$\"IDydc*GGu&4s!\\]j,*ej0I:!#T$\"I
+4r+6[[lOCQit!ynsJ#Q9>!#U$\"I!eAU(z'>)e\"*Hnr(GE8+cKR#!#T$\"IZUp#e-'R'[
+ue[X\"RXe#)z+\\!#S" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%2choose_vector
+_ddSG7&$\"ILc6wGEhx'*puO:1N#oExo%!#S$\"I;MxrdaNt<xB()y2C=BtS[!#S$\"I([
+$))>1?s(f&R(zmX899w)f[!#S$\"IXdI<uRg8b79X&3Y:u,#*4&!#S" }}}{EXCHG 
+{PARA 230 "> " 0 "" {MPLTEXT 1 0 242 "choose_vector_ddP_Bernoulli:=[ev
+alf(y0*(ddSeval+ddHeval)*exp(Seval+Heval)/ddPeval),evalf(y0*(dSeval+dH
+eval)^2*exp(Seval+Heval)/ddPeval),evalf((ddSeval+ddHeval)*(exp(Seval+H
+eval)-1)/ddPeval),evalf((dSeval+dHeval)^2*exp(Seval+Heval)/ddPeval)];
+\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 207 "choose_vector_ddP:=[choose
+_vector_ddP_Bernoulli[1],choose_vector_ddP_Bernoulli[1]+choose_vector_
+ddP_Bernoulli[2],choose_vector_ddP_Bernoulli[1]+choose_vector_ddP_Bern
+oulli[2]+choose_vector_ddP_Bernoulli[3]];" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#>%<choose_vector_ddP_BernoulliG7&$\"I6NsrzRkJU1(fqFpuL
+\"\\S&*!#S$\"It3Z(>H\"4zQ*yo(3t35KGD:!#U$\"Il1FVW>u2*y<\\ww*G$)*H+H%!#
+T$\"It3Z(>H\"4zQ*yo(3t35KGD:!#U" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%2
+choose_vector_ddPG7%$\"I6NsrzRkJU1(fqFpuL\"\\S&*!#S$\"I?#)pj#*[VqJ%RZ,
+:q&pTub&*!#S$\"I'GD!3(3471@J7p7**y;ZZ)**!#S" }}}{EXCHG {PARA 230 "> " 
+0 "" {MPLTEXT 1 0 125 "choose_vector_ddH_Bernoulli:=[dxxKeval/ddHeval,
+2*dDeval*dxyKeval/ddHeval,ddDeval*dyKeval/ddHeval,dDeval^2*dyyKeval/dd
+Heval];\n" }{MPLTEXT 1 0 207 "choose_vector_ddH:=[choose_vector_ddH_Be
+rnoulli[1],choose_vector_ddH_Bernoulli[1]+choose_vector_ddH_Bernoulli[
+2],choose_vector_ddH_Bernoulli[1]+choose_vector_ddH_Bernoulli[2]+choos
+e_vector_ddH_Bernoulli[3]];" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%<choo
+se_vector_ddH_BernoulliG7&$\"I4B:`ym)y@+E>R>C>A%[Lb!#S$\"I/`+fCb(3aP/B
+`FZoo]ZS$!#S$\"IXH*e>[0eGV*\\[%>d&pMAOa!#T$\"I[4`#o[sl7z'>48\"GFWF9=&!
+#T" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%2choose_vector_ddHG7%$\"I4B:`y
+m)y@+E>R>C>A%[Lb!#S$\"I8w:7.Awex.BCp9x3\\BQ*)!#S$\"I3puJ^FM(3K!3p)=FdD
+d=[*!#S" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 0 50 "ch_ddP_or_ddH:
+=[evalf(ddPeval/(ddPeval+ddHeval))];" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#>%.ch_ddP_or_ddHG7#$\"I)GHV-.$Qua!HbzJL(QM'))p&!#S" }}}{EXCHG {PARA 
+230 "> " 0 "" {MPLTEXT 1 0 50 "ch_ddS_or_ddH:=[evalf(ddSeval/(ddSeval+
+ddHeval))];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%.ch_ddS_or_ddHG7#$\"I
+qO%>'HBIA>E#HE8A#fnl;<!#S" }}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+64 "solution_planar_graphs:=evaluate_planar_and_connected(z0,x0,y0);" 
+}}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%7solution_planar_graphsG<*/%#dCG$
+\"IX_8_w(zYqiI.R(*y><A)R5!#R/%$ddCG$\"Hzd!z#))HWE1\\%=gzOU[%\\=\"!#Q/%
+%dddCG$\"GvKB<C.O'*HQ\">_:wI<xp#!#O/%\"GG$\"I5.37L<eoZ#fO!e5nlq9Q5!#R/
+%#dGG$\"I%fgw=)y;N`iX-y'fmL)[z5!#R/%$ddGG$\"I+5>Pk+85bIrZ)yPz\"Hi_B!#R
+/%%dddGG$\"I@GS.3kdgbc_4!4L:3&3,L!#Q/%\"CG$\"IITVTB$=C_r3bw(3=ZcuVP!#T
+" }}}{SECT 0 {PARA 4 "" 0 "" {TEXT 236 59 "Calculating the choose-vect
+ors of 2-connected planar graphs" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 164 "B_eval:=eval_2connected(x0,y0);dB_eval:=eval_derivate_2connec
+ted(x0,y0);ddB_eval:=eval_bi_derivate_2connected(x0,y0);dddB_eval:=eva
+l_tri_derivate_2connected(x0,y0);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>
+%'B_evalG$\"G>=y)*=.HZ)*['Qcid!)=iR(!#T" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%(dB_evalG$\"HOMt4*4;\"R-z_t$G805(\\!R!#S" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%)ddB_evalG$\"I)o\"Q;U5Oc(*z0I&G>hZ)*=0\"!#R" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%*dddB_evalG$\"F$olXe)>$z:)HY+ut^C()z\"!#N"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "ch_xy_in_dB:=[x0*y0/dB_e
+val];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%,ch_xy_in_dBG7#$\"I'fu&)oxj
+*Gnlxh*f\"*[w8'z(*!#S" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "ch
+_y_in_ddB:=[y0/ddB_eval];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%,ch_y_i
+n_ddBG7#$\"Iu$\\Z$[%oix$e6lU*3T'3i1&*!#S" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 58 "ch_nontrivialD_or_dD:=[(D_eval-y0)/(x0*dDeval+D_eval-
+y0)];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%5ch_nontrivialD_or_dDG7#$\"
+I#zZT<S[$)4(Gk)4I3o::`2%!#S" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+43 "ch_dD_or_ddD:=[dDeval/(dDeval+x0*ddDeval)];" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%-ch_dD_or_ddDG7#$\"Isr7!32&Gf%>b]*)[.d?-NQ#!#T" }}}}
+{SECT 0 {PARA 4 "" 0 "" {TEXT 236 57 "Calculating the choose-vectors o
+f connected planar graphs" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+168 "C_eval:=subs(solution_planar_graphs,C);dC_eval:=subs(solution_pla
+nar_graphs,dC);ddC_eval:=subs(solution_planar_graphs,ddC);dddC_eval:=s
+ubs(solution_planar_graphs,dddC);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>
+%'C_evalG$\"IITVTB$=C_r3bw(3=ZcuVP!#T" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#>%(dC_evalG$\"IX_8_w(zYqiI.R(*y><A)R5!#R" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%)ddC_evalG$\"Hzd!z#))HWE1\\%=gzOU[%\\=\"!#Q" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%*dddC_evalG$\"GvKB<C.O'*HQ\">_:wI<xp#!#O" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "exp_dB:=evalf(exp(dB_eval
+)): \n" }{MPLTEXT 1 0 30 "poisson_dB:=[seq(0,i=1..22)]:\n" }{MPLTEXT 
+1 0 32 "poisson_dB[1]:=evalf(1/exp_dB):\n" }{MPLTEXT 1 0 89 "for i fro
+m 2 to 22 do poisson_dB[i]:=poisson_dB[i-1]+evalf(dB_eval^(i-1)/(i-1)!
+/exp_dB):\n" }{MPLTEXT 1 0 4 "od:\n" }{MPLTEXT 1 0 11 "poisson_dB;" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#78$\"I_UyAxn%>^,4W;;vl,Hqh*!#S$\"IjPDb
+Q!e]Sk3dLjF7@rD***!#S$\"IHq=(RR\"=)*f&pFECM\"=O!*****!#S$\"I_0sZ#=Ob')
+fBWk8A41*******!#S$\"I3fO`#*[psUG-)[VvE*********!#S$\"IHsc!>9:@&H())3T
+P_***********!#S$\"I9%\\qKOV`RtP.Xt*************!#S$\"I8*3x?&Hd8;fZq)*
+**************!#S$\"I%=bi)e5q2e#Q%******************!#S$\"IQczT&p#[>2y
+********************!#S$\"I/*\\uuz!z@#***********************!#S$\"IF$
+)4uJ#ou*************************!#S$\"IlQ%\\mR#***********************
+*****!#S$\"IE#>'zy******************************!#S$\"I&)3[%**********
+***********************!#S$\"IMl)***********************************!#
+S$\"Ir**************************************!#S$\"I+++++++++++++++++++
+5!#R$\"I+++++++++++++++++++5!#R$\"I+++++++++++++++++++5!#R$\"I++++++++
++++++++++++5!#R$\"I+++++++++++++++++++5!#R" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 53 "ch_dC_or_ddC:=[evalf(dC_eval/(z0*ddC_eval+dC_eval))
+];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%-ch_dC_or_ddCG7#$\"If'[+j#zHfP
+4R_N6(GN*G)f*!#S" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 63 "ch_2ddC
+_or_dddC:=[evalf(2*ddC_eval/(z0*dddC_eval+2*ddC_eval))];" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#>%0ch_2ddC_or_dddCG7#$\"I))3ugvYy*\\#pS-'3EjFR=0
+(!#S" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 209 "choose_vector_dddC
+_Bernoulli:=[evalf((2*ddC_eval+z0*dddC_eval)*ddB_eval*dC_eval/dddC_eva
+l),evalf((dC_eval+z0*ddC_eval)^2*dddB_eval*dC_eval/dddC_eval),evalf((d
+C_eval+z0*ddC_eval)*ddB_eval*ddC_eval/dddC_eval)];\n" }{MPLTEXT 1 0 
+67 "choose_vector_dddC[1]+choose_vector_dddC[2]+choose_vector_dddC[3];
+\n" }{MPLTEXT 1 0 118 "choose_vector_dddC:=[choose_vector_dddC_Bernoul
+li[1],choose_vector_dddC_Bernoulli[1]+choose_vector_dddC_Bernoulli[2]]
+;" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%=choose_vector_dddC_BernoulliG7
+%$\"II`F5#R&ezerc?]'4Pb!ei8!#S$\"I]yiX$)ezsgc)z5J8r<xo8)!#S$\"I;^.TWs=
+w/=Z9(Qq<pAa+&!#T" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#,(&%3choose_vecto
+r_dddCG6#\"\"\"\"\"\"&%3choose_vector_dddCG6#\"\"#\"\"\"&%3choose_vect
+or_dddCG6#\"\"$\"\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%3choose_vec
+tor_dddCG7$$\"II`F5#R&ezerc?]'4Pb!ei8!#S$\"I!=.fbF\"Q_>GbGhH#3td%*\\*!
+#S" }}}}{SECT 0 {PARA 4 "" 0 "" {TEXT 236 47 "Calculating the choose-v
+ectors of planar graphs" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 168 "
+G_eval:=subs(solution_planar_graphs,G);dG_eval:=subs(solution_planar_g
+raphs,dG);ddG_eval:=subs(solution_planar_graphs,ddG);dddG_eval:=subs(s
+olution_planar_graphs,dddG);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'G_e
+valG$\"I5.37L<eoZ#fO!e5nlq9Q5!#R" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%
+(dG_evalG$\"I%fgw=)y;N`iX-y'fmL)[z5!#R" }}{PARA 11 "" 1 "" {XPPMATH 20
+ "6#>%)ddG_evalG$\"I+5>Pk+85bIrZ)yPz\"Hi_B!#R" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%*dddG_evalG$\"I@GS.3kdgbc_4!4L:3&3,L!#Q" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "exp_C:=evalf(exp(C_eval)): \n" }
+{MPLTEXT 1 0 29 "poisson_C:=[seq(0,i=1..21)]:\n" }{MPLTEXT 1 0 30 "poi
+sson_C[1]:=evalf(1/exp_C):\n" }{MPLTEXT 1 0 22 "for i from 2 to 21 do
+\n" }{MPLTEXT 1 0 63 "poisson_C[i]:=poisson_C[i-1]+evalf(C_eval^(i-1)/
+(i-1)!/exp_C) \n" }{MPLTEXT 1 0 4 "od:\n" }{MPLTEXT 1 0 10 "poisson_C;
+" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#77$\"IAa3X\"3d7ypTXyR>=hYDj*!#S$\"
+I&piD%RE$*Q-$>kc07jlkJ***!#S$\"I+uHVZs0.*o3.q(Q[n\\\"*****!#S$\"Ii$QYF
+#[y_*oPy!*4Wc?*******!#S$\"I[Sa.F**e\")>wJA8(fS*********!#S$\"I%*f86!H
+(H(fUUq#oH'***********!#S$\"I+(o0hqw&)[JSz?!)*************!#S$\"Ill;HH
+CpG[xU2****************!#S$\"ITzs-xO+?'3:'******************!#S$\"I^;=
+kb+BZf&)********************!#S$\"I)G^</Wp)4&***********************!#
+S$\"I5^;Kk7Z)*************************!#S$\"I!f&yW)f&*****************
+***********!#S$\"IB%*=B))******************************!#S$\"IVL1(****
+*****************************!#S$\"ILJ********************************
+****!#S$\"I))**************************************!#S$\"I++++++++++++
++++++++5!#R$\"I+++++++++++++++++++5!#R$\"I+++++++++++++++++++5!#R$\"I+
+++++++++++++++++++5!#R" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 53 "c
+hoose_vector_ddG:=[evalf(ddC_eval*G_eval/ddG_eval)];" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "6#>%2choose_vector_ddGG7#$\"I!R9nLyD,r@<fVx$H[?$)G_!#S
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 137 "choose_vector_dddG_Ber
+noulli:=[evalf(dddC_eval*G_eval/dddG_eval),evalf(2*ddC_eval*dG_eval/dd
+dG_eval),evalf(dC_eval*ddG_eval/dddG_eval)];\n" }{MPLTEXT 1 0 118 "cho
+ose_vector_dddG:=[choose_vector_dddG_Bernoulli[1],choose_vector_dddG_B
+ernoulli[1]+choose_vector_dddG_Bernoulli[2]];" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#>%=choose_vector_dddG_BernoulliG7%$\"Is))yqJ?$G!\\<AS2%
+G@yfR[)!#S$\"I;:5i%3U^w=UFQI#Rx)z(\\x!#T$\"Id(4+$)fPl?KS]@iB8IA1T(!#T"
+ }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%3choose_vector_dddGG7$$\"Is))yqJ?
+$G!\\<AS2%G@yfR[)!#S$\"IC!**p,CY$znf\\yPw')px$*e#*!#S" }}}}{SECT 0 
+{PARA 4 "" 0 "" {TEXT 236 18 "All choose-vectors" }}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 11 "ch_1_or_u;\n" }{MPLTEXT 1 0 11 "ch_1_or_v;\n" 
+}{MPLTEXT 1 0 11 "ch_u_or_v;\n" }{MPLTEXT 1 0 15 "ch_dxu_or_dxv;\n" }
+{MPLTEXT 1 0 19 "choose_vector_dxu;\n" }{MPLTEXT 1 0 19 "choose_vector
+_dxv;\n" }{MPLTEXT 1 0 15 "ch_dyu_or_dyv;\n" }{MPLTEXT 1 0 19 "choose_
+vector_dyv;\n" }{MPLTEXT 1 0 19 "choose_vector_dyu;\n" }{MPLTEXT 1 0 
+13 "ch_K_in_dyK;\n" }{MPLTEXT 1 0 16 "ch_dxK_in_dxyK;\n" }{MPLTEXT 1 
+0 13 "ch_b_or_dxb;\n" }{MPLTEXT 1 0 14 "ch_3b_or_dyb;\n" }{MPLTEXT 1 
+0 29 "choose_vector_non_trivial_D;\n" }{MPLTEXT 1 0 17 "choose_vector_
+D;\n" }{MPLTEXT 1 0 17 "choose_vector_P;\n" }{MPLTEXT 1 0 16 "ch_y_or_
+P_or_H;\n" }{MPLTEXT 1 0 11 "ch_S_or_H;\n" }{MPLTEXT 1 0 18 "poisson_S
+_plus_H;\n" }{MPLTEXT 1 0 29 "poisson_at_least_1_S_plus_H;\n" }
+{MPLTEXT 1 0 29 "poisson_at_least_2_S_plus_H;\n" }{MPLTEXT 1 0 18 "cho
+ose_vector_dD;\n" }{MPLTEXT 1 0 18 "choose_vector_dS;\n" }{MPLTEXT 1 
+0 18 "choose_vector_dP;\n" }{MPLTEXT 1 0 18 "choose_vector_dH;\n" }
+{MPLTEXT 1 0 13 "ch_dP_or_dH;\n" }{MPLTEXT 1 0 13 "ch_dS_or_dH;\n" }
+{MPLTEXT 1 0 19 "choose_vector_ddD;\n" }{MPLTEXT 1 0 19 "choose_vector
+_ddS;\n" }{MPLTEXT 1 0 19 "choose_vector_ddP;\n" }{MPLTEXT 1 0 19 "cho
+ose_vector_ddH;\n" }{MPLTEXT 1 0 15 "ch_ddP_or_ddH;\n" }{MPLTEXT 1 0 
+15 "ch_ddS_or_ddH;\n" }{MPLTEXT 1 0 13 "ch_xy_in_dB;\n" }{MPLTEXT 1 0 
+13 "ch_y_in_ddB;\n" }{MPLTEXT 1 0 22 "ch_nontrivialD_or_dD;\n" }
+{MPLTEXT 1 0 14 "ch_dD_or_ddD;\n" }{MPLTEXT 1 0 12 "poisson_dB;\n" }
+{MPLTEXT 1 0 14 "ch_dC_or_ddC;\n" }{MPLTEXT 1 0 17 "ch_2ddC_or_dddC;\n
+" }{MPLTEXT 1 0 20 "choose_vector_dddC;\n" }{MPLTEXT 1 0 11 "poisson_C
+;\n" }{MPLTEXT 1 0 19 "choose_vector_ddG;\n" }{MPLTEXT 1 0 20 "choose_
+vector_dddG;\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"I(z^C1mkAm)o#o[
+?G:U5ab'!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"I`3\\4)o`4DR.W.J1O
+Xf*>G!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"Igt-hR$*Q_TN<;.7y]?p5
+<!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"IoKy****ps6n%3&)4$3\"f6(4
+0B!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7$$\"I]:c>[FP8k)o-=X\\NkG32\"
+!#T$\"Iw!y4ujo1KW8!fsu<K9a`]!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$
+\"\"&!\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"I(oI*[61%e^X,\"ptk?
+2X$QH#!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7$$\"Iw@*pN)3(\\N*GM#>o$>
+(yB.M'!#U$\"In\\yTa[xY9<'4%of$*=;qJ]!#S" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#7$$\"Il$4+7bMExN?#Gl3+dO$eR%!#U$\"IX+gvsJ')y,6kK/]Go\"z>-&!#S" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"Il619l-qYE/B<#\\4=iFs))*!#T" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"I*z#G#ye@cowAIC8S4.YoY$!#U" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"InE!QE0o5Wk!e(Qe0u>!QA9!#T" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"I'p0C>;Ft*o*)yez0c)*=cP<!#T" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#7$$\"I1Cf&=S15tK!zya.Ki1XgY!#S$\"I)=bW
+heb&=J&[M]3l@(4fu(*!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7%$\"I<c(*4c
+_+#f3TUVui+fo$R\"*!#S$\"I-%o.;*)*)H\\wZKFK3Dhh/a*!#S$\"IgBm!Qkj`'RAF5&
+=c5f+1)**!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"I08>Q\"[!HMvZ?ePt
+!yF9ox*!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7$$\"I<H[p&[fR\"p.s:Td*>
+nf7_*!#S$\"I!H`G8iXlDfMpO538)**yz**!#S" }}{PARA 11 "" 1 "" {XPPMATH 20
+ "6#7#$\"Io#o?4ysJt](4X*=KIA]'Q&*!#S" }}{PARA 12 "" 1 "" {XPPMATH 20 "
+6#77$\"IU&*yF(\\lO-:&R0q_d\"[M.b*!#S$\"IB<o%))plu@;H8?5!o2]t*)**!#S$\"
+Ivg?r\\`5Uhb>GB*y$yJ%)****!#S$\"IQ,im[,]#*ziU/,tO+#)******!#S$\"I$RUa:
+ilHkju_umlM)********!#S$\"I7:g%)=(zTmDJS;Nt)**********!#S$\"ImQ:%3-#H[
+GoWEo\"*************!#S$\"I:7pM8-z?2h'>_***************!#S$\"I4+ZGcX
+\\\\&\\dv*****************!#S$\"IK=j@@!e;qw))*******************!#S$\"
+IyNB%>d-LI&**********************!#S$\"I31$*\\Hy*>)*******************
+*****!#S$\"I3c]\"QIO***************************!#S$\"I!*\\zr!z********
+*********************!#S$\"Ik+#e$********************************!#S$
+\"Iua\")**********************************!#S$\"I'\\******************
+*******************!#S$\"I%***************************************!#S$
+\"I&***************************************!#S$\"I&*******************
+********************!#S$\"I&***************************************!#S
+" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#77$\"I%QuA9j,\\Af$o]R0J!Q><x*!#S$
+\"IJ!G$3C8_xFq]XAA%G[7l***!#S$\"IIgS::=jVfFZ^0XTy*f*****!#S$\"I9GaounP
+(3**eaq2(HK'*******!#S$\"I//tAD^&edH$G_)\\$=(*********!#S$\"I`!QX5@xVL
+HoRK]\")***********!#S$\"I@cZb(H&)pWvA\"p$*)*************!#S$\"I[&[p@e
+Smxu\"oX****************!#S$\"IbcVw@)=mC>](******************!#S$\"IxN
+#))o758b&*)********************!#S$\"IE'[fE>a'*f**********************
+*!#S$\"Iu1ALwMe)*************************!#S$\"IJl$GeM&***************
+*************!#S$\"IA$=Fd)******************************!#S$\"I(Q'*e**
+*******************************!#S$\"I<)))****************************
+*******!#S$\"I$*)*************************************!#S$\"I@********
+******************************!#S$\"I@********************************
+******!#S$\"I@**************************************!#S$\"I@**********
+****************************!#S" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#77$
+\"IX:3^O8zTZ^L7Jnk_nAZ)*!#S$\"Iy+^DP3s4'f382r*3DoC)***!#S$\"Iv'>`j[O%H
+=@y4LP]#*Q)*****!#S$\"IMC;qsE\"GtcBdn3@m()*******!#S$\"Ie(3\"*>>O%\\ws
+g%et*=**********!#S$\"I!4de![u2E9Si1V`************!#S$\"I2!H>\")H%3$f6
+\\0i(**************!#S$\"I)fe!o7uet(*p0*)****************!#S$\"I\">NKH
+6A&[XU&*******************!#S$\"I0B!*3P#eDY#)*********************!#S$
+\"Im$)fkT\"[z$************************!#S$\"I`ouf?hz******************
+********!#S$\"Icp(oZP*****************************!#S$\"IYgB?)********
+***********************!#S$\"ISz]**********************************!#S
+$\"IBJ************************************!#S$\"IjV*******************
+*****************!#S$\"ImV************************************!#S$\"Im
+V************************************!#S$\"ImV************************
+************!#S$\"ImV************************************!#S" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#7$$\"IS<m.<gC'eg]Ot-4L1FK'Q!#S$\"IppwRoKTuII
+&4BR@D#)f!)3*!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7$$\"I\\^%fqbNNH')
+***[5<_%eJwj'!#T$\"I!QK9Q')Q3]mtD5TVi*owh*)!#S" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7#$\"I*z()\\!GE+'Ha?r@PJ]H%op&*!#S" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7#$\"I2;FArm\"39;U45!*\\9okek(!#S" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7#$\"I$RIS1DD:3fAa,o>aQuR^)!#S" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7#$\"Io&Q#)e\"G$3FemP=&*Ql_W-4)!#S" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7$$\"I]vJ>>&QzkpXd<LZKfQU=)!#T$\"IPue?Pb:\\'=\\8pxGrry3
+0'!#S" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#7&$\"ILc6wGEhx'*puO:1N#oExo%!
+#S$\"I;MxrdaNt<xB()y2C=BtS[!#S$\"I([$))>1?s(f&R(zmX899w)f[!#S$\"IXdI<u
+Rg8b79X&3Y:u,#*4&!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7%$\"I6NsrzRkJ
+U1(fqFpuL\"\\S&*!#S$\"I?#)pj#*[VqJ%RZ,:q&pTub&*!#S$\"I'GD!3(3471@J7p7*
+*y;ZZ)**!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7%$\"I4B:`ym)y@+E>R>C>A
+%[Lb!#S$\"I8w:7.Awex.BCp9x3\\BQ*)!#S$\"I3puJ^FM(3K!3p)=FdDd=[*!#S" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"I)GHV-.$Qua!HbzJL(QM'))p&!#S" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"IqO%>'HBIA>E#HE8A#fnl;<!#S" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#7$$\"I'fu&)oxj*Gnlxh*f\"*[w8'z(*!#S$\"
+ITSD9JAO5FVB#Q+%3^B'Q?#!#T" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7$$\"Iu$
+\\Z$[%oix$e6lU*3T'3i1&*!#S$\"Igi]_;bJPA;%)[t0\"*e8zL\\!#T" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#7$$\"I#zZT<S[$)4(Gk)4I3o::`2%!#S$\"I(=_e#)f^;!H
+rN,*p\">V[oCf!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7$$\"Isr7!32&Gf%>b
+]*)[.d?-NQ#!#T$\"I$G()>H\\rS0[%\\5^'H%z(\\;w*!#S" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#78$\"I_UyAxn%>^,4W;;vl,Hqh*!#S$\"IjPDbQ!e]Sk3dLjF7@rD**
+*!#S$\"IHq=(RR\"=)*f&pFECM\"=O!*****!#S$\"I_0sZ#=Ob')fBWk8A41*******!#
+S$\"I3fO`#*[psUG-)[VvE*********!#S$\"IHsc!>9:@&H())3TP_***********!#S$
+\"I9%\\qKOV`RtP.Xt*************!#S$\"I8*3x?&Hd8;fZq)***************!#S
+$\"I%=bi)e5q2e#Q%******************!#S$\"IQczT&p#[>2y*****************
+***!#S$\"I/*\\uuz!z@#***********************!#S$\"IF$)4uJ#ou**********
+***************!#S$\"IlQ%\\mR#****************************!#S$\"IE#>'z
+y******************************!#S$\"I&)3[%***************************
+******!#S$\"IMl)***********************************!#S$\"Ir***********
+***************************!#S$\"I+++++++++++++++++++5!#R$\"I+++++++++
+++++++++++5!#R$\"I+++++++++++++++++++5!#R$\"I+++++++++++++++++++5!#R$
+\"I+++++++++++++++++++5!#R" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"If'
+[+j#zHfP4R_N6(GN*G)f*!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"I))3u
+gvYy*\\#pS-'3EjFR=0(!#S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7$$\"II`F5#
+R&ezerc?]'4Pb!ei8!#S$\"I!=.fbF\"Q_>GbGhH#3td%*\\*!#S" }}{PARA 12 "" 1 
+"" {XPPMATH 20 "6#77$\"IAa3X\"3d7ypTXyR>=hYDj*!#S$\"I&piD%RE$*Q-$>kc07
+jlkJ***!#S$\"I+uHVZs0.*o3.q(Q[n\\\"*****!#S$\"Ii$QYF#[y_*oPy!*4Wc?****
+***!#S$\"I[Sa.F**e\")>wJA8(fS*********!#S$\"I%*f86!H(H(fUUq#oH'*******
+****!#S$\"I+(o0hqw&)[JSz?!)*************!#S$\"Ill;HHCpG[xU2***********
+*****!#S$\"ITzs-xO+?'3:'******************!#S$\"I^;=kb+BZf&)**********
+**********!#S$\"I)G^</Wp)4&***********************!#S$\"I5^;Kk7Z)*****
+********************!#S$\"I!f&yW)f&****************************!#S$\"I
+B%*=B))******************************!#S$\"IVL1(**********************
+***********!#S$\"ILJ************************************!#S$\"I))*****
+*********************************!#S$\"I+++++++++++++++++++5!#R$\"I+++
+++++++++++++++++5!#R$\"I+++++++++++++++++++5!#R$\"I+++++++++++++++++++
+5!#R" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7#$\"I!R9nLyD,r@<fVx$H[?$)G_!#
+S" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7$$\"Is))yqJ?$G!\\<AS2%G@yfR[)!#S
+$\"IC!**p,CY$znf\\yPw')px$*e#*!#S" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}}}{PARA 212 "" 0 "" {TEXT 207 0 "" }}{PARA 215 ""
+ 0 "" {TEXT 205 0 "" }}{PARA 214 "" 0 "" {TEXT 204 0 "" }}{PARA 251 ""
+ 0 "" {TEXT 201 0 "" }}{PARA 209 "" 0 "" {TEXT 239 0 "" }}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }
