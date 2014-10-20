@@ -151,19 +151,27 @@ public class PlanarMap {
     }
 
     public void printForBedini(Writer writer) throws IOException {
-        writer.write(this.vertexList.size() + " " + this.nr_edges + " ");
+        int first_edge = 1;
         int problem = 0;
         int current_index = 0;
+        
+        writer.write(this.vertexList.size() + " " + this.nr_edges + " ");
+        
         for (int i = 0; i < vertexList.size(); ++i) {
             DemiArete demiArete = vertexList.getDemiArete(i);
             int chrono = 1000;
             do {
-                demiArete.indexOfVertex = i + 1;
+                demiArete.indexOfVertex = i;
                 if (demiArete.opp.index == -1) {
                     demiArete.index = ++current_index;
                 } else {
                     demiArete.index = -demiArete.opp.index;
-                    writer.write("(" + demiArete.indexOfVertex + "," + demiArete.opp.indexOfVertex + ")");
+                    if (first_edge == 1) {
+                      writer.write(demiArete.indexOfVertex + "--" + demiArete.opp.indexOfVertex);
+                      first_edge = 0;
+                    } else {
+                      writer.write("," + demiArete.indexOfVertex + "--" + demiArete.opp.indexOfVertex);
+                    }
                 }
                 demiArete = demiArete.next;
                 chrono--;
