@@ -16,8 +16,9 @@ if len(sys.argv) < 2:
 
 program = sys.argv[1]
 outfilename = program + '.out'
+statusfile = program + '.shelve'
 
-with shelve.open('status.shelve', writeback=True) as status, open(outfilename, 'a') as out:
+with shelve.open(statusfile, writeback=True) as status, open(outfilename, 'a') as out:
     histogram = status.get('histogram', {})
     number_of_runs = status.get('number_runs', 0)
     total_generated = status.get('total_generated', 0)
